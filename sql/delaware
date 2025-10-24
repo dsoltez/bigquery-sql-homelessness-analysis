@@ -1,0 +1,11 @@
+SELECT
+  Count_Year,
+  SUM(Unsheltered_Homeless) AS total_unsheltered
+FROM
+`merit-america-data-project-dss.Exploration_Project.homelessness`
+WHERE
+State = 'DE'
+GROUP BY
+  Count_Year
+ORDER BY
+  Count_Year ASC;
