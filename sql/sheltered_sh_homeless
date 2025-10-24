@@ -1,0 +1,10 @@
+SELECT
+  CoC_Name
+  Sheltered_SH_Homeless 
+FROM `merit-america-data-project-dss.Exploration_Project.homelessness`
+WHERE
+  Count_Year = 2018
+GROUP BY
+  CoC_Name
+ORDER BY
+  Sheltered_SH_Homeless DESC;
