@@ -1,0 +1,11 @@
+SELECT  
+  CoC_Name,
+  SUM(Homeless_Unaccompanied_Youth_Under_18) AS total_unaccompanied_youth
+FROM `merit-america-data-project-dss.Exploration_Project.homelessness`
+WHERE
+  Count_Year = 2018
+GROUP BY
+  CoC_Name
+ORDER BY
+total_unaccompanied_youth DESC
+LIMIT 3;
