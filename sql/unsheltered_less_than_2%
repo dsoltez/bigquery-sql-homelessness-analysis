@@ -1,0 +1,15 @@
+SELECT
+  CoC_Name,
+  State,
+  Overall_Homeless,
+  Unsheltered_Homeless,
+  (Unsheltered_Homeless * 1.0 / Overall_Homeless) * 100 AS Unsheltered_Percentage
+FROM
+`merit-america-data-project-dss.Exploration_Project.homelessness`
+WHERE
+  Count_Year = 2018
+  AND Overall_Homeless > 1000
+  AND Unsheltered_Homeless < 100
+  AND (Unsheltered_Homeless * 1.0 / Overall_Homeless) < 0.02
+ORDER BY
+  Overall_Homeless ASC;
