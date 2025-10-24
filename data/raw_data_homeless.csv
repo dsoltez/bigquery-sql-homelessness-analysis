@@ -1,0 +1,2769 @@
+CoC_Name,CoC_Number,Homeless_Individuals,Overall_Homeless,Sheltered_ES_Homeless,Sheltered_SH_Homeless,Sheltered_TH_Homeless,Sheltered_Total_Homeless,State,Unsheltered_Homeless
+Anchorage CoC,AK-500,791,1147,704,0,393,1097,AK,50
+Anchorage CoC,AK-500,905,1105,573,0,292,865,AK,240
+Anchorage CoC,AK-500,736,1023,665,0,305,970,AK,53
+Anchorage CoC,AK-500,848,1128,654,0,319,973,AK,155
+Anchorage CoC,AK-500,814,1094,751,0,249,1000,AK,94
+Anchorage CoC,AK-500,837,1208,694,0,335,1029,AK,179
+Anchorage CoC,AK-500,844,1122,676,0,394,1070,AK,52
+Alaska Balance of State CoC,AK-501,506,717,363,0,215,578,AK,139
+Alaska Balance of State CoC,AK-501,622,835,434,0,199,633,AK,202
+Alaska Balance of State CoC,AK-501,473,761,474,0,195,669,AK,92
+Alaska Balance of State CoC,AK-501,518,824,461,0,210,671,AK,153
+Alaska Balance of State CoC,AK-501,505,748,433,0,177,610,AK,138
+Alaska Balance of State CoC,AK-501,507,766,435,0,184,619,AK,147
+Alaska Balance of State CoC,AK-501,620,922,497,0,210,707,AK,215
+"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",AL-500,932,1092,540,31,304,875,AL,217
+"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",AL-500,915,1329,387,31,497,915,AL,414
+"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",AL-500,1222,1707,347,32,630,1009,AL,698
+"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",AL-500,1089,1469,373,31,556,960,AL,509
+"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",AL-500,720,901,431,32,219,682,AL,219
+"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",AL-500,886,1153,448,20,448,916,AL,237
+"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",AL-500,927,1228,531,34,467,1032,AL,196
+Mobile City & County/Baldwin County CoC,AL-501,399,551,225,0,93,318,AL,233
+Mobile City & County/Baldwin County CoC,AL-501,397,598,287,0,174,461,AL,137
+Mobile City & County/Baldwin County CoC,AL-501,343,493,153,0,107,260,AL,233
+Mobile City & County/Baldwin County CoC,AL-501,426,606,196,0,145,341,AL,265
+Mobile City & County/Baldwin County CoC,AL-501,422,634,212,0,112,324,AL,310
+Mobile City & County/Baldwin County CoC,AL-501,470,578,258,0,106,364,AL,214
+Mobile City & County/Baldwin County CoC,AL-501,477,623,284,0,103,387,AL,236
+Florence/Northwest Alabama CoC,AL-502,132,209,38,0,151,189,AL,20
+Florence/Northwest Alabama CoC,AL-502,166,256,128,0,106,234,AL,22
+Florence/Northwest Alabama CoC,AL-502,158,245,60,0,154,214,AL,31
+Florence/Northwest Alabama CoC,AL-502,194,337,85,0,201,286,AL,51
+Florence/Northwest Alabama CoC,AL-502,162,192,18,0,170,188,AL,4
+Florence/Northwest Alabama CoC,AL-502,133,223,22,0,175,197,AL,26
+Florence/Northwest Alabama CoC,AL-502,155,155,27,0,106,133,AL,22
+Huntsville/North Alabama CoC,AL-503,448,607,336,0,96,432,AL,175
+Huntsville/North Alabama CoC,AL-503,457,586,320,0,89,409,AL,177
+Huntsville/North Alabama CoC,AL-503,386,536,413,0,86,499,AL,37
+Huntsville/North Alabama CoC,AL-503,336,424,283,0,25,308,AL,116
+Huntsville/North Alabama CoC,AL-503,283,385,282,0,16,298,AL,87
+Huntsville/North Alabama CoC,AL-503,327,436,325,0,12,337,AL,99
+Huntsville/North Alabama CoC,AL-503,300,420,339,0,18,357,AL,63
+Montgomery City & County CoC,AL-504,284,377,221,0,93,314,AL,63
+Montgomery City & County CoC,AL-504,446,515,159,0,240,399,AL,116
+Montgomery City & County CoC,AL-504,333,441,171,0,202,373,AL,68
+Montgomery City & County CoC,AL-504,285,367,173,0,120,293,AL,74
+Montgomery City & County CoC,AL-504,365,490,120,0,289,409,AL,81
+Montgomery City & County CoC,AL-504,272,369,173,0,127,300,AL,69
+Montgomery City & County CoC,AL-504,383,487,96,0,247,343,AL,144
+Gadsden/Northeast Alabama CoC,AL-505,130,163,91,0,12,103,AL,60
+Gadsden/Northeast Alabama CoC,AL-505,359,438,354,0,14,368,AL,70
+Gadsden/Northeast Alabama CoC,AL-505,451,544,211,0,213,424,AL,120
+Gadsden/Northeast Alabama CoC,AL-505,133,167,55,0,36,91,AL,76
+Gadsden/Northeast Alabama CoC,AL-505,140,156,97,0,6,103,AL,53
+Gadsden/Northeast Alabama CoC,AL-505,119,146,74,8,4,86,AL,60
+Gadsden/Northeast Alabama CoC,AL-505,275,399,159,0,170,329,AL,70
+Tuscaloosa City & County CoC,AL-506,167,245,11,0,122,133,AL,112
+Tuscaloosa City & County CoC,AL-506,105,177,14,0,33,47,AL,130
+Tuscaloosa City & County CoC,AL-506,188,339,0,0,144,144,AL,195
+Tuscaloosa City & County CoC,AL-506,140,200,93,3,41,137,AL,63
+Tuscaloosa City & County CoC,AL-506,72,99,11,0,84,95,AL,4
+Tuscaloosa City & County CoC,AL-506,35,57,35,0,21,56,AL,1
+Tuscaloosa City & County CoC,AL-506,99,152,12,0,116,128,AL,24
+Alabama Balance of State CoC,AL-507,591,764,151,0,265,416,AL,348
+Alabama Balance of State CoC,AL-507,394,716,241,0,303,544,AL,172
+Alabama Balance of State CoC,AL-507,393,638,201,0,271,472,AL,166
+Alabama Balance of State CoC,AL-507,615,827,177,0,282,459,AL,368
+Alabama Balance of State CoC,AL-507,572,905,358,0,239,597,AL,308
+Alabama Balance of State CoC,AL-507,638,886,431,0,385,816,AL,70
+Alabama Balance of State CoC,AL-507,523,730,170,0,270,440,AL,290
+Little Rock/Central Arkansas CoC,AR-500,742,808,288,0,181,469,AR,339
+Little Rock/Central Arkansas CoC,AR-500,764,830,254,0,237,491,AR,339
+Little Rock/Central Arkansas CoC,AR-500,950,1081,335,0,196,531,AR,550
+Little Rock/Central Arkansas CoC,AR-500,1065,1249,329,0,433,762,AR,487
+Little Rock/Central Arkansas CoC,AR-500,951,1074,342,0,229,571,AR,503
+Little Rock/Central Arkansas CoC,AR-500,986,1066,244,0,319,563,AR,503
+Little Rock/Central Arkansas CoC,AR-500,892,1006,316,0,140,456,AR,550
+Fayetteville/Northwest Arkansas CoC,AR-501,388,551,156,0,173,329,AR,222
+Fayetteville/Northwest Arkansas CoC,AR-501,379,668,313,0,133,446,AR,222
+Fayetteville/Northwest Arkansas CoC,AR-501,235,330,127,0,108,235,AR,95
+Fayetteville/Northwest Arkansas CoC,AR-501,359,550,251,0,238,489,AR,61
+Fayetteville/Northwest Arkansas CoC,AR-501,348,474,107,0,216,323,AR,151
+Fayetteville/Northwest Arkansas CoC,AR-501,330,665,431,0,173,604,AR,61
+Fayetteville/Northwest Arkansas CoC,AR-501,109,186,54,0,93,147,AR,39
+Arkansas  Balance of State  CoC,AR-503,505,774,317,0,68,385,AR,389
+Arkansas  Balance of State  CoC,AR-503,1788,1930,399,0,163,562,AR,1368
+Arkansas  Balance of State  CoC,AR-503,666,768,243,0,66,309,AR,459
+Arkansas  Balance of State  CoC,AR-503,533,761,304,0,76,380,AR,381
+Arkansas  Balance of State  CoC,AR-503,1603,1760,376,0,94,470,AR,1290
+Arkansas  Balance of State  CoC,AR-503,762,1056,370,0,50,420,AR,636
+Arkansas  Balance of State  CoC,AR-503,761,875,332,0,82,414,AR,461
+Delta Hills CoC,AR-504,27,89,79,10,0,89,AR,0
+Delta Hills CoC,AR-504,423,785,40,0,27,67,AR,718
+Delta Hills CoC,AR-504,51,57,16,6,10,32,AR,25
+Delta Hills CoC,AR-504,172,254,41,0,81,122,AR,132
+Delta Hills CoC,AR-504,33,40,26,2,12,40,AR,0
+Southeast Arkansas CoC,AR-505,39,70,58,0,12,70,AR,0
+Southeast Arkansas CoC,AR-505,46,89,78,0,0,78,AR,11
+Southeast Arkansas CoC,AR-505,51,72,59,0,12,71,AR,1
+Southeast Arkansas CoC,AR-505,49,88,78,0,10,88,AR,0
+Southeast Arkansas CoC,AR-505,43,64,64,0,0,64,AR,0
+Southeast Arkansas CoC,AR-505,53,101,85,0,10,95,AR,6
+Southeast Arkansas CoC,AR-505,34,64,63,0,0,63,AR,1
+Fort Smith CoC,AR-508,163,185,95,0,18,113,AR,72
+Fort Smith CoC,AR-508,131,168,62,0,18,80,AR,88
+Fort Smith CoC,AR-508,150,179,74,0,13,87,AR,92
+Fort Smith CoC,AR-508,131,166,92,0,19,111,AR,55
+Fort Smith CoC,AR-508,212,231,147,0,18,165,AR,66
+"Boone, Baxter, Marion, Newton Counties CoC",AR-512,,,,,,,AR,
+"Boone, Baxter, Marion, Newton Counties CoC",AR-512,,,,,,,AR,
+"Boone, Baxter, Marion, Newton Counties CoC",AR-512,,,,,,,AR,
+"Boone, Baxter, Marion, Newton Counties CoC",AR-512,,,,,,,AR,
+"Boone, Baxter, Marion, Newton Counties CoC",AR-512,,,,,,,AR,
+"Boone, Baxter, Marion, Newton Counties CoC",AR-512,,,,,,,AR,
+"Boone, Baxter, Marion, Newton Counties CoC",AR-512,,,,,,,AR,
+Arizona Balance of State CoC,AZ-500,1448,2435,915,0,471,1386,AZ,1049
+Arizona Balance of State CoC,AZ-500,1734,2240,771,0,252,1023,AZ,1217
+Arizona Balance of State CoC,AZ-500,1381,2451,1186,0,536,1722,AZ,729
+Arizona Balance of State CoC,AZ-500,1638,2187,850,0,252,1102,AZ,1085
+Arizona Balance of State CoC,AZ-500,1679,2398,1019,0,330,1349,AZ,1049
+Arizona Balance of State CoC,AZ-500,1434,1768,856,0,190,1046,AZ,722
+Arizona Balance of State CoC,AZ-500,1723,2402,851,0,246,1097,AZ,1305
+Tucson/Pima County CoC,AZ-501,1296,1863,540,15,945,1500,AZ,363
+Tucson/Pima County CoC,AZ-501,1079,1380,666,14,337,1017,AZ,363
+Tucson/Pima County CoC,AZ-501,1508,2366,762,15,980,1757,AZ,609
+Tucson/Pima County CoC,AZ-501,1602,2238,801,13,923,1737,AZ,501
+Tucson/Pima County CoC,AZ-501,1305,1765,568,15,801,1384,AZ,381
+Tucson/Pima County CoC,AZ-501,1249,1574,731,15,443,1189,AZ,385
+Tucson/Pima County CoC,AZ-501,1475,2179,714,15,983,1712,AZ,467
+"Phoenix, Mesa/Maricopa County CoC",AZ-502,3620,5702,2362,25,1669,4056,AZ,1646
+"Phoenix, Mesa/Maricopa County CoC",AZ-502,3529,5631,2004,25,2313,4342,AZ,1289
+"Phoenix, Mesa/Maricopa County CoC",AZ-502,3805,5605,2254,21,1271,3546,AZ,2059
+"Phoenix, Mesa/Maricopa County CoC",AZ-502,3040,5918,2558,25,2282,4865,AZ,1053
+"Phoenix, Mesa/Maricopa County CoC",AZ-502,3421,6485,2343,25,2368,4736,AZ,1749
+"Phoenix, Mesa/Maricopa County CoC",AZ-502,4542,6298,2099,26,1555,3680,AZ,2618
+"Phoenix, Mesa/Maricopa County CoC",AZ-502,3460,5889,2177,25,2106,4308,AZ,1581
+San Jose/Santa Clara City & County CoC,CA-500,6564,7631,918,16,1023,1957,CA,5674
+San Jose/Santa Clara City & County CoC,CA-500,5585,6524,777,10,1110,1897,CA,4627
+San Jose/Santa Clara City & County CoC,CA-500,5648,6556,807,9,1113,1929,CA,4627
+San Jose/Santa Clara City & County CoC,CA-500,6267,7254,1151,20,635,1806,CA,5448
+San Jose/Santa Clara City & County CoC,CA-500,6319,7394,1140,0,806,1946,CA,5448
+San Jose/Santa Clara City & County CoC,CA-500,6270,7053,926,9,949,1884,CA,5169
+San Jose/Santa Clara City & County CoC,CA-500,6681,7567,819,9,1065,1893,CA,5674
+San Francisco CoC,CA-501,6309,6996,2197,16,425,2638,CA,4358
+San Francisco CoC,CA-501,6329,7008,1919,54,720,2693,CA,4315
+San Francisco CoC,CA-501,5177,5895,1757,25,742,2524,CA,3371
+San Francisco CoC,CA-501,6211,6857,2011,19,474,2504,CA,4353
+San Francisco CoC,CA-501,6175,6775,1981,16,420,2417,CA,4358
+San Francisco CoC,CA-501,6257,6858,2056,15,434,2505,CA,4353
+San Francisco CoC,CA-501,5776,6408,1522,54,517,2093,CA,4315
+"Oakland, Berkeley/Alameda County CoC",CA-502,4918,5629,1022,0,744,1766,CA,3863
+"Oakland, Berkeley/Alameda County CoC",CA-502,4801,5496,962,11,660,1633,CA,3863
+"Oakland, Berkeley/Alameda County CoC",CA-502,2922,4264,914,0,1013,1927,CA,2337
+"Oakland, Berkeley/Alameda County CoC",CA-502,3208,4257,866,0,1179,2045,CA,2212
+"Oakland, Berkeley/Alameda County CoC",CA-502,3162,4272,895,0,1040,1935,CA,2337
+"Oakland, Berkeley/Alameda County CoC",CA-502,3148,4145,892,0,856,1748,CA,2397
+"Oakland, Berkeley/Alameda County CoC",CA-502,3055,4040,794,0,849,1643,CA,2397
+Sacramento City & County CoC,CA-503,3104,3621,1124,0,445,1569,CA,2052
+Sacramento City & County CoC,CA-503,1985,2812,839,0,1018,1857,CA,955
+Sacramento City & County CoC,CA-503,1925,2659,931,0,780,1711,CA,948
+Sacramento City & County CoC,CA-503,3076,3665,977,0,636,1613,CA,2052
+Sacramento City & County CoC,CA-503,1737,2538,808,0,944,1752,CA,786
+Sacramento City & County CoC,CA-503,1683,2449,774,0,889,1663,CA,786
+Sacramento City & County CoC,CA-503,1921,2500,870,0,682,1552,CA,948
+"Santa Rosa, Petaluma/Sonoma County CoC",CA-504,3829,4280,504,0,467,971,CA,3309
+"Santa Rosa, Petaluma/Sonoma County CoC",CA-504,3816,4266,570,0,387,957,CA,3309
+"Santa Rosa, Petaluma/Sonoma County CoC",CA-504,3890,4483,530,0,587,1117,CA,3366
+"Santa Rosa, Petaluma/Sonoma County CoC",CA-504,2517,2906,588,0,412,1000,CA,1906
+"Santa Rosa, Petaluma/Sonoma County CoC",CA-504,2730,3097,634,0,403,1037,CA,2060
+"Santa Rosa, Petaluma/Sonoma County CoC",CA-504,2509,2835,655,0,333,988,CA,1847
+"Santa Rosa, Petaluma/Sonoma County CoC",CA-504,2657,2996,801,0,266,1067,CA,1929
+Richmond/Contra Costa County CoC,CA-505,1366,1730,454,0,166,620,CA,1110
+Richmond/Contra Costa County CoC,CA-505,1703,2000,414,0,257,671,CA,1329
+Richmond/Contra Costa County CoC,CA-505,1660,2009,423,0,257,680,CA,1329
+Richmond/Contra Costa County CoC,CA-505,1634,2031,474,0,230,704,CA,1327
+Richmond/Contra Costa County CoC,CA-505,1955,2234,552,0,145,697,CA,1537
+Richmond/Contra Costa County CoC,CA-505,1352,1607,502,0,194,696,CA,911
+Richmond/Contra Costa County CoC,CA-505,1960,2386,483,0,413,896,CA,1490
+"Salinas/Monterey, San Benito Counties CoC",CA-506,2286,2962,287,0,469,756,CA,2206
+"Salinas/Monterey, San Benito Counties CoC",CA-506,2536,3022,453,0,462,915,CA,2107
+"Salinas/Monterey, San Benito Counties CoC",CA-506,2683,3299,333,0,452,785,CA,2514
+"Salinas/Monterey, San Benito Counties CoC",CA-506,2506,2959,374,0,478,852,CA,2107
+"Salinas/Monterey, San Benito Counties CoC",CA-506,2292,2955,355,0,394,749,CA,2206
+"Salinas/Monterey, San Benito Counties CoC",CA-506,2719,3364,420,0,430,850,CA,2514
+"Salinas/Monterey, San Benito Counties CoC",CA-506,1761,2673,267,0,495,762,CA,1911
+Marin County CoC,CA-507,460,679,208,0,293,501,CA,178
+Marin County CoC,CA-507,917,1117,226,0,183,409,CA,708
+Marin County CoC,CA-507,516,725,201,0,295,496,CA,229
+Marin County CoC,CA-507,1115,1318,229,0,254,483,CA,835
+Marin County CoC,CA-507,920,1095,237,0,150,387,CA,708
+Marin County CoC,CA-507,1070,1258,216,0,207,423,CA,835
+Marin County CoC,CA-507,438,676,188,0,317,505,CA,171
+Watsonville/Santa Cruz City & County CoC,CA-508,1911,2320,320,0,201,521,CA,1799
+Watsonville/Santa Cruz City & County CoC,CA-508,2345,2735,370,0,240,610,CA,2125
+Watsonville/Santa Cruz City & County CoC,CA-508,1454,1959,387,0,218,605,CA,1354
+Watsonville/Santa Cruz City & County CoC,CA-508,1483,1964,396,0,214,610,CA,1354
+Watsonville/Santa Cruz City & County CoC,CA-508,1846,2249,271,0,179,450,CA,1799
+Watsonville/Santa Cruz City & County CoC,CA-508,2992,3536,402,0,239,641,CA,2895
+Watsonville/Santa Cruz City & County CoC,CA-508,2996,3529,361,0,273,634,CA,2895
+Mendocino County CoC,CA-509,1179,1238,113,0,47,160,CA,1078
+Mendocino County CoC,CA-509,818,947,112,0,40,152,CA,795
+Mendocino County CoC,CA-509,1267,1392,106,0,68,174,CA,1218
+Mendocino County CoC,CA-509,1147,1242,117,0,75,192,CA,1050
+Mendocino County CoC,CA-509,829,880,94,0,63,157,CA,723
+Mendocino County CoC,CA-509,1347,1441,97,0,30,127,CA,1314
+Mendocino County CoC,CA-509,1256,1404,117,0,69,186,CA,1218
+"Turlock, Modesto/Stanislaus County CoC",CA-510,861,1470,322,0,357,679,CA,791
+"Turlock, Modesto/Stanislaus County CoC",CA-510,1147,1434,566,0,138,704,CA,730
+"Turlock, Modesto/Stanislaus County CoC",CA-510,1080,1356,578,0,172,750,CA,606
+"Turlock, Modesto/Stanislaus County CoC",CA-510,1135,1408,558,0,167,725,CA,683
+"Turlock, Modesto/Stanislaus County CoC",CA-510,824,1156,447,0,266,713,CA,443
+"Turlock, Modesto/Stanislaus County CoC",CA-510,1256,1661,683,0,157,840,CA,821
+"Turlock, Modesto/Stanislaus County CoC",CA-510,941,1201,337,0,219,556,CA,645
+Stockton/San Joaquin County CoC,CA-511,1016,1542,794,0,181,975,CA,567
+Stockton/San Joaquin County CoC,CA-511,1054,1685,927,0,191,1118,CA,567
+Stockton/San Joaquin County CoC,CA-511,794,1541,760,0,518,1278,CA,263
+Stockton/San Joaquin County CoC,CA-511,739,1569,819,0,503,1322,CA,247
+Stockton/San Joaquin County CoC,CA-511,957,1708,628,0,545,1173,CA,535
+Stockton/San Joaquin County CoC,CA-511,713,1588,744,0,581,1325,CA,263
+Stockton/San Joaquin County CoC,CA-511,947,1780,609,0,636,1245,CA,535
+Daly/San Mateo County CoC,CA-512,967,1483,289,0,419,708,CA,775
+Daly/San Mateo County CoC,CA-512,1363,2024,271,0,454,725,CA,1299
+Daly/San Mateo County CoC,CA-512,822,1253,211,0,405,616,CA,637
+Daly/San Mateo County CoC,CA-512,811,1238,258,0,343,601,CA,637
+Daly/San Mateo County CoC,CA-512,1274,1845,156,0,527,683,CA,1162
+Daly/San Mateo County CoC,CA-512,911,1361,166,0,420,586,CA,775
+Daly/San Mateo County CoC,CA-512,1374,1995,240,0,456,696,CA,1299
+"Visalia/Kings, Tulare Counties CoC",CA-513,732,853,206,0,148,354,CA,499
+"Visalia/Kings, Tulare Counties CoC",CA-513,646,792,155,0,171,326,CA,466
+"Visalia/Kings, Tulare Counties CoC",CA-513,725,862,161,0,256,417,CA,445
+"Visalia/Kings, Tulare Counties CoC",CA-513,566,771,147,0,269,416,CA,355
+"Visalia/Kings, Tulare Counties CoC",CA-513,823,967,158,0,157,315,CA,652
+"Visalia/Kings, Tulare Counties CoC",CA-513,547,705,182,0,227,409,CA,296
+"Visalia/Kings, Tulare Counties CoC",CA-513,609,763,161,0,225,386,CA,377
+Fresno City & County/Madera County CoC,CA-514,1684,1883,232,23,197,452,CA,1431
+Fresno City & County/Madera County CoC,CA-514,2203,2592,297,23,389,709,CA,1883
+Fresno City & County/Madera County CoC,CA-514,2421,3131,184,22,388,594,CA,2537
+Fresno City & County/Madera County CoC,CA-514,1410,1722,208,24,307,539,CA,1183
+Fresno City & County/Madera County CoC,CA-514,3554,4492,141,23,506,670,CA,3822
+Fresno City & County/Madera County CoC,CA-514,1742,2016,333,24,130,487,CA,1529
+Fresno City & County/Madera County CoC,CA-514,1886,2144,331,24,108,463,CA,1681
+"Roseville, Rocklin/Placer, Nevada Counties CoC",CA-515,772,979,400,0,121,521,CA,458
+"Roseville, Rocklin/Placer, Nevada Counties CoC",CA-515,861,1021,331,0,191,522,CA,499
+"Roseville, Rocklin/Placer, Nevada Counties CoC",CA-515,611,796,216,0,81,297,CA,499
+"Roseville, Rocklin/Placer, Nevada Counties CoC",CA-515,689,908,196,0,189,385,CA,523
+"Roseville, Rocklin/Placer, Nevada Counties CoC",CA-515,766,950,367,0,125,492,CA,458
+"Roseville, Rocklin/Placer, Nevada Counties CoC",CA-515,508,742,172,0,215,387,CA,355
+"Roseville, Rocklin/Placer, Nevada Counties CoC",CA-515,619,762,166,0,73,239,CA,523
+"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",CA-516,461,630,201,0,347,548,CA,82
+"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",CA-516,1065,1272,185,0,127,312,CA,960
+"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",CA-516,721,934,264,0,266,530,CA,404
+"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",CA-516,631,851,260,0,244,504,CA,347
+"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",CA-516,955,1149,248,0,211,459,CA,690
+"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",CA-516,384,524,250,0,92,342,CA,182
+"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",CA-516,504,591,154,0,90,244,CA,347
+Napa City & County CoC,CA-517,276,322,122,0,46,168,CA,154
+Napa City & County CoC,CA-517,184,248,109,0,47,156,CA,92
+Napa City & County CoC,CA-517,205,285,135,0,59,194,CA,91
+Napa City & County CoC,CA-517,235,317,143,0,56,199,CA,118
+Napa City & County CoC,CA-517,226,293,132,0,47,179,CA,114
+Napa City & County CoC,CA-517,168,245,119,0,58,177,CA,68
+Napa City & County CoC,CA-517,233,315,148,0,51,199,CA,116
+Vallejo/Solano County CoC,CA-518,1163,1329,193,0,247,440,CA,889
+Vallejo/Solano County CoC,CA-518,1085,1295,178,0,228,406,CA,889
+Vallejo/Solano County CoC,CA-518,968,1082,108,0,179,287,CA,795
+Vallejo/Solano County CoC,CA-518,383,622,154,0,233,387,CA,235
+Vallejo/Solano County CoC,CA-518,1070,1232,132,0,183,315,CA,917
+Vallejo/Solano County CoC,CA-518,1052,1129,144,0,68,212,CA,917
+Vallejo/Solano County CoC,CA-518,955,1118,170,0,153,323,CA,795
+"Chico, Paradise/Butte County CoC",CA-519,586,696,171,0,102,273,CA,423
+"Chico, Paradise/Butte County CoC",CA-519,946,1125,274,0,106,380,CA,745
+"Chico, Paradise/Butte County CoC",CA-519,440,574,182,0,107,289,CA,285
+"Chico, Paradise/Butte County CoC",CA-519,760,897,195,0,162,357,CA,540
+"Chico, Paradise/Butte County CoC",CA-519,472,571,211,0,75,286,CA,285
+"Chico, Paradise/Butte County CoC",CA-519,599,712,179,0,110,289,CA,423
+"Chico, Paradise/Butte County CoC",CA-519,997,1195,285,0,165,450,CA,745
+Merced City & County CoC,CA-520,479,502,89,0,75,164,CA,338
+Merced City & County CoC,CA-520,504,516,80,0,80,160,CA,356
+Merced City & County CoC,CA-520,456,514,104,0,98,202,CA,312
+Merced City & County CoC,CA-520,447,454,83,0,73,156,CA,298
+Merced City & County CoC,CA-520,735,768,91,0,68,159,CA,609
+Merced City & County CoC,CA-520,345,372,86,0,31,117,CA,255
+Merced City & County CoC,CA-520,863,898,99,0,56,155,CA,743
+"Davis, Woodland/Yolo County CoC",CA-521,362,498,163,0,142,305,CA,193
+"Davis, Woodland/Yolo County CoC",CA-521,345,474,107,0,169,276,CA,198
+"Davis, Woodland/Yolo County CoC",CA-521,322,532,189,0,150,339,CA,193
+"Davis, Woodland/Yolo County CoC",CA-521,317,442,111,0,133,244,CA,198
+"Davis, Woodland/Yolo County CoC",CA-521,383,513,104,0,146,250,CA,263
+"Davis, Woodland/Yolo County CoC",CA-521,318,459,204,0,46,250,CA,209
+"Davis, Woodland/Yolo County CoC",CA-521,316,448,179,0,60,239,CA,209
+Humboldt County CoC,CA-522,1022,1180,83,0,161,244,CA,936
+Humboldt County CoC,CA-522,667,759,244,0,81,325,CA,434
+Humboldt County CoC,CA-522,605,703,188,0,81,269,CA,434
+Humboldt County CoC,CA-522,989,1134,118,0,80,198,CA,936
+Humboldt County CoC,CA-522,593,932,94,0,154,248,CA,684
+Humboldt County CoC,CA-522,600,864,55,0,125,180,CA,684
+Humboldt County CoC,CA-522,633,846,260,0,132,392,CA,454
+"Colusa, Glenn, Trinity Counties CoC",CA-523,162,268,66,0,29,95,CA,173
+"Colusa, Glenn, Trinity Counties CoC",CA-523,80,136,29,0,27,56,CA,80
+"Colusa, Glenn, Trinity Counties CoC",CA-523,71,115,6,0,29,35,CA,80
+"Colusa, Glenn, Trinity Counties CoC",CA-523,118,176,13,0,30,43,CA,133
+"Colusa, Glenn, Trinity Counties CoC",CA-523,185,303,80,0,84,164,CA,139
+"Colusa, Glenn, Trinity Counties CoC",CA-523,487,696,183,0,89,272,CA,424
+"Colusa, Glenn, Trinity Counties CoC",CA-523,410,567,59,0,84,143,CA,424
+Yuba City & County/Sutter County CoC,CA-524,348,726,347,0,0,347,CA,379
+Yuba City & County/Sutter County CoC,CA-524,420,716,175,0,30,205,CA,511
+Yuba City & County/Sutter County CoC,CA-524,311,492,133,0,139,272,CA,220
+Yuba City & County/Sutter County CoC,CA-524,387,702,106,0,85,191,CA,511
+Yuba City & County/Sutter County CoC,CA-524,457,765,292,0,0,292,CA,473
+Yuba City & County/Sutter County CoC,CA-524,750,1485,344,0,762,1106,CA,379
+Yuba City & County/Sutter County CoC,CA-524,557,760,287,0,0,287,CA,473
+El Dorado County CoC,CA-525,446,602,59,0,47,106,CA,496
+El Dorado County CoC,CA-525,141,180,27,0,104,131,CA,49
+El Dorado County CoC,CA-525,155,217,110,0,70,180,CA,37
+El Dorado County CoC,CA-525,157,269,46,0,75,121,CA,148
+El Dorado County CoC,CA-525,477,645,111,0,38,149,CA,496
+El Dorado County CoC,CA-525,192,269,72,0,49,121,CA,148
+El Dorado County CoC,CA-525,181,195,66,0,80,146,CA,49
+"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",CA-526,269,382,61,0,81,142,CA,240
+"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",CA-526,204,379,45,0,65,110,CA,269
+"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",CA-526,259,367,84,0,19,103,CA,264
+"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",CA-526,337,430,76,0,52,128,CA,302
+"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",CA-526,257,376,99,0,37,136,CA,240
+"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",CA-526,509,632,92,0,59,151,CA,481
+"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",CA-526,265,398,103,0,31,134,CA,264
+Tehama County CoC,CA-527,107,125,55,0,14,69,CA,56
+Tehama County CoC,CA-527,103,124,52,0,16,68,CA,56
+Tehama County CoC,CA-527,115,138,37,0,41,78,CA,60
+Tehama County CoC,CA-527,103,133,63,0,10,73,CA,60
+Del Norte County CoC,CA-528,305,437,16,0,0,16,CA,421
+Lake County CoC,CA-529,210,332,32,0,12,44,CA,288
+Lake County CoC,CA-529,294,401,17,0,11,28,CA,373
+Lake County CoC,CA-529,211,315,15,0,12,27,CA,288
+Lake County CoC,CA-529,547,615,12,0,12,24,CA,591
+"Alpine, Inyo, Mono Counties CoC",CA-530,46,53,7,0,1,8,CA,45
+"Alpine, Inyo, Mono Counties CoC",CA-530,145,157,1,0,0,1,CA,156
+"Alpine, Inyo, Mono Counties CoC",CA-530,110,130,0,0,11,11,CA,119
+"Alpine, Inyo, Mono Counties CoC",CA-530,102,121,5,0,0,5,CA,116
+Los Angeles City & County CoC,CA-600,42079,49955,8819,44,3522,12385,CA,37570
+Los Angeles City & County CoC,CA-600,28164,34393,6214,21,5568,11803,CA,22590
+Los Angeles City & County CoC,CA-600,44586,52442,8832,18,5122,13972,CA,38470
+Los Angeles City & County CoC,CA-600,33669,41174,6880,24,5322,12226,CA,28948
+Los Angeles City & County CoC,CA-600,24609,31553,7173,22,6618,13813,CA,17740
+Los Angeles City & County CoC,CA-600,37726,43854,6010,15,5048,11073,CA,32781
+Los Angeles City & County CoC,CA-600,28846,35524,6468,21,6445,12934,CA,22590
+San Diego City and County CoC,CA-601,7063,8576,1948,64,1574,3586,CA,4990
+San Diego City and County CoC,CA-601,7571,9160,1572,42,1925,3539,CA,5621
+San Diego City and County CoC,CA-601,6761,8742,1493,52,3041,4586,CA,4156
+San Diego City and County CoC,CA-601,7013,8879,947,47,3311,4305,CA,4574
+San Diego City and County CoC,CA-601,6499,8506,1179,51,3291,4521,CA,3985
+San Diego City and County CoC,CA-601,6955,8669,1250,52,2427,3729,CA,4940
+San Diego City and County CoC,CA-601,7755,10013,1040,52,3279,4371,CA,5642
+"Santa Ana, Anaheim/Orange County CoC",CA-602,3780,4955,1435,0,936,2371,CA,2584
+"Santa Ana, Anaheim/Orange County CoC",CA-602,5257,7010,1154,0,1584,2738,CA,4272
+"Santa Ana, Anaheim/Orange County CoC",CA-602,2712,4251,1145,0,1428,2573,CA,1678
+"Santa Ana, Anaheim/Orange County CoC",CA-602,3028,4319,943,0,1175,2118,CA,2201
+"Santa Ana, Anaheim/Orange County CoC",CA-602,3073,4452,925,0,1326,2251,CA,2201
+"Santa Ana, Anaheim/Orange County CoC",CA-602,2561,3833,851,0,1304,2155,CA,1678
+"Santa Ana, Anaheim/Orange County CoC",CA-602,3527,4792,1248,0,960,2208,CA,2584
+Santa Maria/Santa Barbara County CoC,CA-603,1422,1860,760,0,207,967,CA,893
+Santa Maria/Santa Barbara County CoC,CA-603,1393,1729,600,0,239,839,CA,890
+Santa Maria/Santa Barbara County CoC,CA-603,1335,1706,618,0,195,813,CA,893
+Santa Maria/Santa Barbara County CoC,CA-603,1318,1546,499,0,179,678,CA,868
+Santa Maria/Santa Barbara County CoC,CA-603,1385,1813,666,0,257,923,CA,890
+Santa Maria/Santa Barbara County CoC,CA-603,1443,1832,576,0,278,854,CA,978
+Santa Maria/Santa Barbara County CoC,CA-603,1464,1882,471,0,433,904,CA,978
+Bakersfield/Kern County CoC,CA-604,875,1067,385,0,176,561,CA,506
+Bakersfield/Kern County CoC,CA-604,623,810,368,0,173,541,CA,269
+Bakersfield/Kern County CoC,CA-604,725,992,382,0,195,577,CA,415
+Bakersfield/Kern County CoC,CA-604,924,1152,378,0,169,547,CA,605
+Bakersfield/Kern County CoC,CA-604,1146,1352,368,0,151,519,CA,833
+Bakersfield/Kern County CoC,CA-604,715,885,394,0,121,515,CA,370
+Bakersfield/Kern County CoC,CA-604,733,954,361,0,184,545,CA,409
+Long Beach CoC,CA-606,1908,2250,405,0,332,737,CA,1513
+Long Beach CoC,CA-606,1678,1873,387,0,278,665,CA,1208
+Long Beach CoC,CA-606,2260,2738,396,18,445,859,CA,1879
+Long Beach CoC,CA-606,2609,3170,420,19,528,967,CA,2203
+Long Beach CoC,CA-606,1937,2345,391,25,416,832,CA,1513
+Long Beach CoC,CA-606,1646,1863,354,0,301,655,CA,1208
+Long Beach CoC,CA-606,2322,2847,389,24,555,968,CA,1879
+Pasadena CoC,CA-607,573,677,177,0,38,215,CA,462
+Pasadena CoC,CA-607,517,632,83,0,107,190,CA,442
+Pasadena CoC,CA-607,465,575,173,0,55,228,CA,347
+Pasadena CoC,CA-607,779,904,354,0,113,467,CA,437
+Pasadena CoC,CA-607,512,666,138,0,127,265,CA,401
+Pasadena CoC,CA-607,453,530,100,0,78,178,CA,352
+Pasadena CoC,CA-607,503,772,267,0,112,379,CA,393
+Riverside City & County CoC,CA-608,2374,2978,550,0,540,1090,CA,1888
+Riverside City & County CoC,CA-608,2390,2945,575,0,482,1057,CA,1888
+Riverside City & County CoC,CA-608,2087,2316,532,0,99,631,CA,1685
+Riverside City & County CoC,CA-608,1900,2165,557,0,257,814,CA,1351
+Riverside City & County CoC,CA-608,2172,2406,587,0,181,768,CA,1638
+Riverside City & County CoC,CA-608,2066,2372,609,0,275,884,CA,1488
+Riverside City & County CoC,CA-608,5605,6096,479,0,527,1006,CA,5090
+San Bernardino City & County CoC,CA-609,1524,2149,445,0,393,838,CA,1311
+San Bernardino City & County CoC,CA-609,1781,2532,382,0,458,840,CA,1692
+San Bernardino City & County CoC,CA-609,1401,2321,518,0,556,1074,CA,1247
+San Bernardino City & County CoC,CA-609,1432,1866,378,17,292,687,CA,1179
+San Bernardino City & County CoC,CA-609,1593,2118,356,24,295,675,CA,1443
+San Bernardino City & County CoC,CA-609,1422,1887,318,0,378,696,CA,1191
+San Bernardino City & County CoC,CA-609,1531,2315,454,0,614,1068,CA,1247
+"Oxnard, San Buenaventura/Ventura County CoC",CA-611,1294,1674,334,10,256,600,CA,1074
+"Oxnard, San Buenaventura/Ventura County CoC",CA-611,1109,1308,289,11,178,478,CA,830
+"Oxnard, San Buenaventura/Ventura County CoC",CA-611,969,1152,283,10,195,488,CA,664
+"Oxnard, San Buenaventura/Ventura County CoC",CA-611,1086,1428,240,10,268,518,CA,910
+"Oxnard, San Buenaventura/Ventura County CoC",CA-611,1627,1926,350,10,323,683,CA,1243
+"Oxnard, San Buenaventura/Ventura County CoC",CA-611,1084,1417,304,11,145,460,CA,957
+"Oxnard, San Buenaventura/Ventura County CoC",CA-611,1011,1271,306,10,178,494,CA,777
+Glendale CoC,CA-612,176,240,154,0,31,185,CA,55
+Glendale CoC,CA-612,72,168,71,0,40,111,CA,57
+Glendale CoC,CA-612,133,208,45,0,41,86,CA,122
+Glendale CoC,CA-612,168,260,52,0,52,104,CA,156
+Glendale CoC,CA-612,204,292,107,0,78,185,CA,107
+Glendale CoC,CA-612,165,299,94,0,85,179,CA,120
+Glendale CoC,CA-612,200,318,124,0,87,211,CA,107
+Imperial County CoC,CA-613,158,239,93,0,43,136,CA,103
+Imperial County CoC,CA-613,1034,1154,82,0,46,128,CA,1026
+Imperial County CoC,CA-613,181,298,104,0,60,164,CA,134
+Imperial County CoC,CA-613,1311,1493,117,0,43,160,CA,1333
+Imperial County CoC,CA-613,280,380,79,0,49,128,CA,252
+Imperial County CoC,CA-613,161,252,89,0,59,148,CA,104
+Imperial County CoC,CA-613,432,554,150,0,40,190,CA,364
+San Luis Obispo County CoC,CA-614,1919,2357,169,0,66,235,CA,2122
+San Luis Obispo County CoC,CA-614,993,1095,248,0,25,273,CA,822
+San Luis Obispo County CoC,CA-614,1200,1368,145,0,100,245,CA,1123
+San Luis Obispo County CoC,CA-614,1912,2366,172,0,72,244,CA,2122
+San Luis Obispo County CoC,CA-614,1752,2129,156,0,72,228,CA,1901
+San Luis Obispo County CoC,CA-614,1157,1515,337,0,55,392,CA,1123
+San Luis Obispo County CoC,CA-614,977,1125,260,0,43,303,CA,822
+Colorado Balance of State CoC,CO-500,2568,4019,972,0,539,1511,CO,2508
+Colorado Balance of State CoC,CO-500,1905,3545,937,0,777,1714,CO,1831
+Colorado Balance of State CoC,CO-500,2546,3989,932,0,549,1481,CO,2508
+Colorado Balance of State CoC,CO-500,1256,2188,674,0,509,1183,CO,1005
+Colorado Balance of State CoC,CO-500,1275,2267,729,0,533,1262,CO,1005
+Colorado Balance of State CoC,CO-500,1615,9283,631,0,384,1015,CO,8268
+Colorado Balance of State CoC,CO-500,2006,3520,958,0,731,1689,CO,1831
+Metropolitan Denver CoC,CO-503,3915,5317,2574,22,1413,4009,CO,1308
+Metropolitan Denver CoC,CO-503,3039,5335,2349,24,2217,4590,CO,745
+Metropolitan Denver CoC,CO-503,2609,6316,2819,23,2546,5388,CO,928
+Metropolitan Denver CoC,CO-503,3581,5728,2918,46,1967,4931,CO,797
+Metropolitan Denver CoC,CO-503,2677,6358,2441,25,2928,5394,CO,964
+Metropolitan Denver CoC,CO-503,3495,6621,2885,23,3042,5950,CO,671
+Metropolitan Denver CoC,CO-503,4031,5506,2627,25,1960,4612,CO,894
+Colorado Springs/El Paso County CoC,CO-504,780,1171,477,0,464,941,CO,230
+Colorado Springs/El Paso County CoC,CO-504,809,1127,430,0,421,851,CO,276
+Colorado Springs/El Paso County CoC,CO-504,863,1302,591,0,400,991,CO,311
+Colorado Springs/El Paso County CoC,CO-504,1146,1551,652,0,386,1038,CO,513
+Colorado Springs/El Paso County CoC,CO-504,785,1073,496,0,334,830,CO,243
+Colorado Springs/El Paso County CoC,CO-504,972,1415,536,0,422,958,CO,457
+Colorado Springs/El Paso County CoC,CO-504,822,1219,443,0,507,950,CO,269
+"Bridgeport, Stamford, Norwalk/Fairfield County CoC",CT-503,430,778,484,0,212,696,CT,82
+"Bridgeport, Stamford, Norwalk/Fairfield County CoC",CT-503,721,1083,519,0,253,772,CT,311
+"Bridgeport, Stamford, Norwalk/Fairfield County CoC",CT-503,725,1059,498,0,250,748,CT,311
+"Bridgeport, Stamford, Norwalk/Fairfield County CoC",CT-503,432,741,492,0,167,659,CT,82
+"Bridgeport, Stamford, Norwalk/Fairfield County CoC",CT-503,587,902,469,0,272,741,CT,161
+"Bridgeport, Stamford, Norwalk/Fairfield County CoC",CT-503,547,913,545,0,228,773,CT,140
+"Bridgeport, Stamford, Norwalk/Fairfield County CoC",CT-503,525,886,513,0,217,730,CT,156
+Connecticut Balance of State CoC,CT-505,2376,3389,1892,0,889,2781,CT,608
+Connecticut Balance of State CoC,CT-505,2045,3016,1857,0,642,2499,CT,517
+Connecticut Balance of State CoC,CT-505,1778,2610,1765,0,511,2276,CT,334
+Connecticut Balance of State CoC,CT-505,2348,3367,1962,0,797,2759,CT,608
+Connecticut Balance of State CoC,CT-505,2319,3307,1802,0,971,2773,CT,534
+Connecticut Balance of State CoC,CT-505,1848,3235,2387,0,349,2736,CT,499
+Connecticut Balance of State CoC,CT-505,2172,3134,1873,0,775,2648,CT,486
+District of Columbia CoC,DC-500,3583,7473,5363,0,1213,6576,DC,897
+District of Columbia CoC,DC-500,3953,7748,5754,0,1598,7352,DC,396
+District of Columbia CoC,DC-500,3821,7298,5085,0,1669,6754,DC,544
+District of Columbia CoC,DC-500,3770,6904,5095,0,1209,6304,DC,600
+District of Columbia CoC,DC-500,3696,6865,4010,0,2343,6353,DC,512
+District of Columbia CoC,DC-500,3683,8350,6259,0,1773,8032,DC,318
+District of Columbia CoC,DC-500,3767,6954,3772,0,2503,6275,DC,679
+Delaware Statewide CoC,DE-500,708,1082,702,5,282,989,DE,93
+Delaware Statewide CoC,DE-500,753,1070,621,0,398,1019,DE,51
+Delaware Statewide CoC,DE-500,615,994,564,0,372,936,DE,58
+Delaware Statewide CoC,DE-500,584,901,435,0,429,864,DE,37
+Delaware Statewide CoC,DE-500,602,953,529,0,387,916,DE,37
+Delaware Statewide CoC,DE-500,575,946,516,10,410,936,DE,10
+Delaware Statewide CoC,DE-500,611,1008,527,10,449,986,DE,22
+"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",FL-500,1202,1447,449,0,336,785,FL,662
+"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",FL-500,733,921,369,0,295,664,FL,257
+"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",FL-500,1131,1377,463,0,317,780,FL,597
+"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",FL-500,978,1198,417,0,304,721,FL,477
+"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",FL-500,848,1049,335,0,228,563,FL,486
+"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",FL-500,1219,1468,419,0,385,804,FL,664
+"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",FL-500,954,1192,488,0,252,740,FL,452
+Tampa/Hillsborough County CoC,FL-501,1070,1549,668,15,299,982,FL,567
+Tampa/Hillsborough County CoC,FL-501,1363,1931,669,9,497,1175,FL,756
+Tampa/Hillsborough County CoC,FL-501,1193,1795,858,13,284,1155,FL,640
+Tampa/Hillsborough County CoC,FL-501,1326,1909,387,19,559,965,FL,944
+Tampa/Hillsborough County CoC,FL-501,4515,7419,377,20,575,972,FL,6447
+Tampa/Hillsborough County CoC,FL-501,1284,1817,631,10,407,1048,FL,769
+Tampa/Hillsborough County CoC,FL-501,1443,1944,314,7,532,853,FL,1091
+"St. Petersburg, Clearwater, Largo/Pinellas County CoC",FL-502,2903,3387,1367,38,810,2215,FL,1172
+"St. Petersburg, Clearwater, Largo/Pinellas County CoC",FL-502,2383,2777,1118,39,481,1638,FL,1139
+"St. Petersburg, Clearwater, Largo/Pinellas County CoC",FL-502,3188,3913,1033,43,750,1826,FL,2087
+"St. Petersburg, Clearwater, Largo/Pinellas County CoC",FL-502,2253,2612,1299,40,308,1647,FL,965
+"St. Petersburg, Clearwater, Largo/Pinellas County CoC",FL-502,2865,3391,1353,41,819,2213,FL,1178
+"St. Petersburg, Clearwater, Largo/Pinellas County CoC",FL-502,2922,3971,1191,38,722,1951,FL,2020
+"St. Petersburg, Clearwater, Largo/Pinellas County CoC",FL-502,2466,2831,1294,36,349,1679,FL,1152
+"Lakeland, Winterhaven/Polk County CoC",FL-503,405,520,118,0,207,325,FL,195
+"Lakeland, Winterhaven/Polk County CoC",FL-503,348,464,138,0,89,227,FL,237
+"Lakeland, Winterhaven/Polk County CoC",FL-503,451,536,138,0,110,248,FL,288
+"Lakeland, Winterhaven/Polk County CoC",FL-503,354,552,194,0,224,418,FL,134
+"Lakeland, Winterhaven/Polk County CoC",FL-503,750,881,122,0,175,297,FL,584
+"Lakeland, Winterhaven/Polk County CoC",FL-503,342,512,145,0,218,363,FL,149
+"Lakeland, Winterhaven/Polk County CoC",FL-503,417,635,201,0,174,375,FL,260
+"Daytona Beach, Daytona/Volusia, Flagler Counties CoC",FL-504,749,1005,233,0,191,424,FL,581
+"Daytona Beach, Daytona/Volusia, Flagler Counties CoC",FL-504,930,1325,218,0,332,550,FL,775
+"Daytona Beach, Daytona/Volusia, Flagler Counties CoC",FL-504,2123,2384,81,0,422,503,FL,1881
+"Daytona Beach, Daytona/Volusia, Flagler Counties CoC",FL-504,1171,1633,102,0,506,608,FL,1025
+"Daytona Beach, Daytona/Volusia, Flagler Counties CoC",FL-504,1779,2176,148,0,545,693,FL,1483
+"Daytona Beach, Daytona/Volusia, Flagler Counties CoC",FL-504,555,753,112,0,193,305,FL,448
+"Daytona Beach, Daytona/Volusia, Flagler Counties CoC",FL-504,484,683,87,0,190,277,FL,406
+"Fort Walton Beach/Okaloosa, Walton Counties CoC",FL-505,567,1658,154,19,210,383,FL,1275
+"Fort Walton Beach/Okaloosa, Walton Counties CoC",FL-505,566,683,154,0,118,272,FL,411
+"Fort Walton Beach/Okaloosa, Walton Counties CoC",FL-505,521,629,168,21,83,272,FL,357
+"Fort Walton Beach/Okaloosa, Walton Counties CoC",FL-505,975,2438,271,0,239,510,FL,1928
+"Fort Walton Beach/Okaloosa, Walton Counties CoC",FL-505,556,1577,228,0,74,302,FL,1275
+"Fort Walton Beach/Okaloosa, Walton Counties CoC",FL-505,247,401,68,0,62,130,FL,271
+"Fort Walton Beach/Okaloosa, Walton Counties CoC",FL-505,348,495,53,0,30,83,FL,412
+Tallahassee/Leon County CoC,FL-506,640,909,677,0,133,810,FL,99
+Tallahassee/Leon County CoC,FL-506,635,869,555,0,166,721,FL,148
+Tallahassee/Leon County CoC,FL-506,625,863,320,0,326,646,FL,217
+Tallahassee/Leon County CoC,FL-506,810,974,367,0,382,749,FL,225
+Tallahassee/Leon County CoC,FL-506,679,805,307,0,310,617,FL,188
+Tallahassee/Leon County CoC,FL-506,634,797,389,0,349,738,FL,59
+Tallahassee/Leon County CoC,FL-506,810,1072,682,0,268,950,FL,122
+"Orlando/Orange, Osceola, Seminole Counties CoC",FL-507,2330,3661,856,17,1345,2218,FL,1443
+"Orlando/Orange, Osceola, Seminole Counties CoC",FL-507,1392,2112,887,0,933,1820,FL,292
+"Orlando/Orange, Osceola, Seminole Counties CoC",FL-507,1342,2074,950,0,784,1734,FL,340
+"Orlando/Orange, Osceola, Seminole Counties CoC",FL-507,3055,4378,929,24,1368,2321,FL,2057
+"Orlando/Orange, Osceola, Seminole Counties CoC",FL-507,1390,2254,974,0,1014,1988,FL,266
+"Orlando/Orange, Osceola, Seminole Counties CoC",FL-507,1340,2053,1183,0,510,1693,FL,360
+"Orlando/Orange, Osceola, Seminole Counties CoC",FL-507,1094,1670,826,0,711,1537,FL,133
+"Gainesville/Alachua, Putnam Counties CoC",FL-508,1074,1718,213,0,200,413,FL,1305
+"Gainesville/Alachua, Putnam Counties CoC",FL-508,643,756,272,0,51,323,FL,433
+"Gainesville/Alachua, Putnam Counties CoC",FL-508,1476,1814,202,0,187,389,FL,1425
+"Gainesville/Alachua, Putnam Counties CoC",FL-508,788,870,129,0,188,317,FL,553
+"Gainesville/Alachua, Putnam Counties CoC",FL-508,596,844,291,0,128,419,FL,425
+"Gainesville/Alachua, Putnam Counties CoC",FL-508,699,819,304,0,69,373,FL,446
+"Gainesville/Alachua, Putnam Counties CoC",FL-508,1134,1256,161,0,207,368,FL,888
+"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",FL-509,854,1542,430,0,83,513,FL,1029
+"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",FL-509,917,1724,65,0,114,179,FL,1545
+"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",FL-509,925,2382,97,0,151,248,FL,2134
+"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",FL-509,750,1732,80,0,103,183,FL,1549
+"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",FL-509,866,2240,65,0,159,224,FL,2016
+"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",FL-509,1299,2412,123,0,113,236,FL,2176
+"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",FL-509,1360,2591,97,0,152,249,FL,2342
+"Jacksonville-Duval, Clay Counties CoC",FL-510,1444,1869,933,0,504,1437,FL,432
+"Jacksonville-Duval, Clay Counties CoC",FL-510,1354,1853,839,0,588,1427,FL,426
+"Jacksonville-Duval, Clay Counties CoC",FL-510,1938,2768,856,0,815,1671,FL,1097
+"Jacksonville-Duval, Clay Counties CoC",FL-510,1466,1959,907,0,611,1518,FL,441
+"Jacksonville-Duval, Clay Counties CoC",FL-510,2294,2861,842,0,700,1542,FL,1319
+"Jacksonville-Duval, Clay Counties CoC",FL-510,1410,1794,878,0,487,1365,FL,429
+"Jacksonville-Duval, Clay Counties CoC",FL-510,1375,2049,1050,0,706,1756,FL,293
+"Pensacola/Escambia, Santa Rosa Counties CoC",FL-511,721,843,271,0,340,611,FL,232
+"Pensacola/Escambia, Santa Rosa Counties CoC",FL-511,467,632,236,0,251,487,FL,145
+"Pensacola/Escambia, Santa Rosa Counties CoC",FL-511,619,758,218,0,283,501,FL,257
+"Pensacola/Escambia, Santa Rosa Counties CoC",FL-511,615,798,366,0,250,616,FL,182
+"Pensacola/Escambia, Santa Rosa Counties CoC",FL-511,789,945,242,0,321,563,FL,382
+"Pensacola/Escambia, Santa Rosa Counties CoC",FL-511,667,792,171,0,355,526,FL,266
+"Pensacola/Escambia, Santa Rosa Counties CoC",FL-511,874,1014,186,0,352,538,FL,476
+St. Johns County CoC,FL-512,219,342,101,0,77,178,FL,164
+St. Johns County CoC,FL-512,1103,1437,72,0,161,233,FL,1204
+St. Johns County CoC,FL-512,781,1064,112,0,143,255,FL,809
+St. Johns County CoC,FL-512,996,1385,64,0,120,184,FL,1201
+St. Johns County CoC,FL-512,295,445,89,0,90,179,FL,266
+St. Johns County CoC,FL-512,897,1161,97,0,101,198,FL,963
+St. Johns County CoC,FL-512,1062,1401,97,0,100,197,FL,1204
+"Palm Bay, Melbourne/Brevard County CoC",FL-513,616,1072,159,0,525,684,FL,388
+"Palm Bay, Melbourne/Brevard County CoC",FL-513,583,845,211,0,381,592,FL,253
+"Palm Bay, Melbourne/Brevard County CoC",FL-513,1043,1477,95,0,522,617,FL,860
+"Palm Bay, Melbourne/Brevard County CoC",FL-513,521,734,61,0,420,481,FL,253
+"Palm Bay, Melbourne/Brevard County CoC",FL-513,505,827,174,0,470,644,FL,183
+"Palm Bay, Melbourne/Brevard County CoC",FL-513,1386,2062,242,0,501,743,FL,1319
+"Palm Bay, Melbourne/Brevard County CoC",FL-513,1065,1567,60,0,647,707,FL,860
+Ocala/Marion County CoC,FL-514,443,572,168,0,133,301,FL,271
+Ocala/Marion County CoC,FL-514,599,725,160,0,130,290,FL,435
+Ocala/Marion County CoC,FL-514,373,530,163,0,162,325,FL,205
+Ocala/Marion County CoC,FL-514,619,787,163,0,96,259,FL,528
+Ocala/Marion County CoC,FL-514,650,823,196,0,99,295,FL,528
+Ocala/Marion County CoC,FL-514,787,911,107,0,204,311,FL,600
+Ocala/Marion County CoC,FL-514,564,918,147,0,127,274,FL,644
+"Panama City/Bay, Jackson Counties CoC",FL-515,266,310,40,0,134,174,FL,136
+"Panama City/Bay, Jackson Counties CoC",FL-515,258,301,39,0,162,201,FL,100
+"Panama City/Bay, Jackson Counties CoC",FL-515,285,336,48,0,95,143,FL,193
+"Panama City/Bay, Jackson Counties CoC",FL-515,244,322,106,0,129,235,FL,87
+"Panama City/Bay, Jackson Counties CoC",FL-515,313,381,39,0,70,109,FL,272
+"Panama City/Bay, Jackson Counties CoC",FL-515,272,317,43,0,140,183,FL,134
+"Panama City/Bay, Jackson Counties CoC",FL-515,224,268,69,0,127,196,FL,72
+"Hendry, Hardee, Highlands Counties CoC",FL-517,377,609,44,0,47,91,FL,518
+"Hendry, Hardee, Highlands Counties CoC",FL-517,292,453,21,0,48,69,FL,384
+"Hendry, Hardee, Highlands Counties CoC",FL-517,601,1071,79,0,234,313,FL,758
+"Hendry, Hardee, Highlands Counties CoC",FL-517,1375,3847,40,0,96,136,FL,3711
+"Hendry, Hardee, Highlands Counties CoC",FL-517,559,1319,0,0,114,114,FL,1205
+"Hendry, Hardee, Highlands Counties CoC",FL-517,620,1218,129,0,149,278,FL,940
+"Hendry, Hardee, Highlands Counties CoC",FL-517,829,1346,121,0,113,234,FL,1112
+"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",FL-518,803,1180,48,0,36,84,FL,1096
+"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",FL-518,783,1278,45,0,36,81,FL,1197
+"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",FL-518,372,502,65,0,34,99,FL,403
+"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",FL-518,387,493,57,0,33,90,FL,403
+"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",FL-518,876,1115,36,0,30,66,FL,1049
+"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",FL-518,885,1145,68,0,28,96,FL,1049
+"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",FL-518,652,1070,44,0,39,83,FL,987
+Pasco County CoC,FL-519,1653,3305,63,0,42,105,FL,3200
+Pasco County CoC,FL-519,793,1055,98,0,97,195,FL,860
+Pasco County CoC,FL-519,1308,4351,147,0,45,192,FL,4159
+Pasco County CoC,FL-519,829,2668,145,0,108,253,FL,2415
+Pasco County CoC,FL-519,838,2593,141,0,37,178,FL,2415
+Pasco County CoC,FL-519,1693,3356,93,0,63,156,FL,3200
+Pasco County CoC,FL-519,792,1019,96,0,63,159,FL,860
+"Citrus, Hernando, Lake, Sumter Counties CoC",FL-520,444,635,176,0,106,282,FL,353
+"Citrus, Hernando, Lake, Sumter Counties CoC",FL-520,438,709,185,0,118,303,FL,406
+"Citrus, Hernando, Lake, Sumter Counties CoC",FL-520,486,731,191,0,76,267,FL,464
+"Citrus, Hernando, Lake, Sumter Counties CoC",FL-520,347,511,193,0,117,310,FL,201
+"Citrus, Hernando, Lake, Sumter Counties CoC",FL-520,1227,1788,201,0,202,403,FL,1385
+"Citrus, Hernando, Lake, Sumter Counties CoC",FL-520,426,711,324,0,125,449,FL,262
+"Citrus, Hernando, Lake, Sumter Counties CoC",FL-520,414,595,186,0,117,303,FL,292
+Miami-Dade County CoC,FL-600,2546,3721,1928,27,755,2710,FL,1011
+Miami-Dade County CoC,FL-600,3182,4235,1963,24,1266,3253,FL,982
+Miami-Dade County CoC,FL-600,2720,4152,1669,26,1450,3145,FL,1007
+Miami-Dade County CoC,FL-600,2517,3976,1713,27,1368,3108,FL,868
+Miami-Dade County CoC,FL-600,2845,4156,1965,26,1325,3316,FL,840
+Miami-Dade County CoC,FL-600,2485,3802,1470,27,1466,2963,FL,839
+Miami-Dade County CoC,FL-600,2425,3516,1847,45,594,2486,FL,1030
+Ft Lauderdale/Broward County CoC,FL-601,1856,2318,886,31,532,1449,FL,869
+Ft Lauderdale/Broward County CoC,FL-601,2028,2766,917,35,935,1887,FL,879
+Ft Lauderdale/Broward County CoC,FL-601,2627,3183,774,33,1108,1915,FL,1268
+Ft Lauderdale/Broward County CoC,FL-601,1900,2810,778,35,1168,1981,FL,829
+Ft Lauderdale/Broward County CoC,FL-601,2037,2450,886,35,572,1493,FL,957
+Ft Lauderdale/Broward County CoC,FL-601,2099,2615,874,34,888,1796,FL,819
+Ft Lauderdale/Broward County CoC,FL-601,1844,2302,813,34,673,1520,FL,782
+Punta Gorda/Charlotte County CoC,FL-602,313,562,59,2,101,162,FL,400
+Punta Gorda/Charlotte County CoC,FL-602,429,573,66,3,117,186,FL,387
+Punta Gorda/Charlotte County CoC,FL-602,584,756,75,4,132,211,FL,545
+Punta Gorda/Charlotte County CoC,FL-602,223,388,57,2,75,134,FL,254
+Punta Gorda/Charlotte County CoC,FL-602,130,164,59,0,19,78,FL,86
+Punta Gorda/Charlotte County CoC,FL-602,265,511,72,4,127,203,FL,308
+Punta Gorda/Charlotte County CoC,FL-602,165,222,66,0,23,89,FL,133
+"Ft Myers, Cape Coral/Lee County CoC",FL-603,699,848,236,0,216,452,FL,396
+"Ft Myers, Cape Coral/Lee County CoC",FL-603,637,781,184,0,226,410,FL,371
+"Ft Myers, Cape Coral/Lee County CoC",FL-603,317,431,206,0,38,244,FL,187
+"Ft Myers, Cape Coral/Lee County CoC",FL-603,700,871,249,0,178,427,FL,444
+"Ft Myers, Cape Coral/Lee County CoC",FL-603,310,439,205,0,51,256,FL,183
+"Ft Myers, Cape Coral/Lee County CoC",FL-603,520,614,223,0,77,300,FL,314
+"Ft Myers, Cape Coral/Lee County CoC",FL-603,423,728,477,0,47,524,FL,204
+Monroe County CoC,FL-604,581,631,218,0,121,339,FL,292
+Monroe County CoC,FL-604,585,652,225,0,122,347,FL,305
+Monroe County CoC,FL-604,793,922,230,0,134,364,FL,558
+Monroe County CoC,FL-604,594,678,235,0,148,383,FL,295
+Monroe County CoC,FL-604,562,615,191,0,110,301,FL,314
+Monroe County CoC,FL-604,724,973,660,0,101,761,FL,212
+Monroe County CoC,FL-604,497,575,186,0,119,305,FL,270
+West Palm Beach/Palm Beach County CoC,FL-605,964,1309,351,0,107,458,FL,851
+West Palm Beach/Palm Beach County CoC,FL-605,1220,1421,306,15,275,596,FL,825
+West Palm Beach/Palm Beach County CoC,FL-605,1667,2116,350,16,353,719,FL,1397
+West Palm Beach/Palm Beach County CoC,FL-605,1283,1559,259,16,337,612,FL,947
+West Palm Beach/Palm Beach County CoC,FL-605,1008,1332,327,0,180,507,FL,825
+West Palm Beach/Palm Beach County CoC,FL-605,1327,1596,297,19,333,649,FL,947
+West Palm Beach/Palm Beach County CoC,FL-605,1281,1607,347,0,179,526,FL,1081
+Naples/Collier County CoC,FL-606,285,396,207,0,135,342,FL,54
+Naples/Collier County CoC,FL-606,281,361,198,0,128,326,FL,35
+Naples/Collier County CoC,FL-606,338,545,210,0,118,328,FL,217
+Naples/Collier County CoC,FL-606,551,653,238,0,202,440,FL,213
+Naples/Collier County CoC,FL-606,502,621,244,0,190,434,FL,187
+Naples/Collier County CoC,FL-606,300,455,211,0,139,350,FL,105
+Naples/Collier County CoC,FL-606,293,389,211,0,134,345,FL,44
+Atlanta CoC,GA-500,4956,5536,2564,0,1239,3803,GA,1733
+Atlanta CoC,GA-500,5458,6811,2315,22,2096,4433,GA,2378
+Atlanta CoC,GA-500,3089,3572,1567,0,1324,2891,GA,681
+Atlanta CoC,GA-500,4203,4797,1988,0,1434,3422,GA,1375
+Atlanta CoC,GA-500,3752,4317,1688,0,1592,3280,GA,1037
+Atlanta CoC,GA-500,3610,4063,1782,0,1443,3225,GA,838
+Atlanta CoC,GA-500,2536,3076,1146,0,1190,2336,GA,740
+Georgia Balance of State CoC,GA-501,5264,7577,1298,0,962,2260,GA,5317
+Georgia Balance of State CoC,GA-501,3392,5575,1042,0,1015,2057,GA,3518
+Georgia Balance of State CoC,GA-501,2402,3730,1228,0,629,1857,GA,1873
+Georgia Balance of State CoC,GA-501,3383,5797,1248,0,1031,2279,GA,3518
+Georgia Balance of State CoC,GA-501,2219,3716,1164,0,679,1843,GA,1873
+Georgia Balance of State CoC,GA-501,7872,11105,1129,0,1121,2250,GA,8855
+Georgia Balance of State CoC,GA-501,5271,7651,1265,0,1069,2334,GA,5317
+Fulton County CoC,GA-502,115,222,71,0,63,134,GA,88
+Fulton County CoC,GA-502,217,293,85,0,118,203,GA,90
+Fulton County CoC,GA-502,232,477,57,0,317,374,GA,103
+Fulton County CoC,GA-502,206,428,55,0,243,298,GA,130
+Fulton County CoC,GA-502,282,483,139,0,283,422,GA,61
+Fulton County CoC,GA-502,272,473,137,0,283,420,GA,53
+Athens-Clarke County CoC,GA-503,273,361,54,0,84,138,GA,223
+Athens-Clarke County CoC,GA-503,128,212,166,0,0,166,GA,46
+Athens-Clarke County CoC,GA-503,156,224,141,0,7,148,GA,76
+Athens-Clarke County CoC,GA-503,188,226,127,0,8,135,GA,91
+Athens-Clarke County CoC,GA-503,182,239,145,0,1,146,GA,93
+Athens-Clarke County CoC,GA-503,171,213,91,0,27,118,GA,95
+Athens-Clarke County CoC,GA-503,200,247,106,0,54,160,GA,87
+Augusta-Richmond County CoC,GA-504,313,476,163,0,167,330,GA,146
+Augusta-Richmond County CoC,GA-504,217,246,144,0,55,199,GA,47
+Augusta-Richmond County CoC,GA-504,358,472,192,0,134,326,GA,146
+Augusta-Richmond County CoC,GA-504,265,396,242,0,149,391,GA,5
+Augusta-Richmond County CoC,GA-504,192,287,143,0,123,266,GA,21
+Augusta-Richmond County CoC,GA-504,238,269,172,0,50,222,GA,47
+Augusta-Richmond County CoC,GA-504,265,407,145,0,133,278,GA,129
+Columbus-Muscogee/Russell County CoC,GA-505,234,276,173,0,23,196,GA,80
+Columbus-Muscogee/Russell County CoC,GA-505,246,294,179,0,55,234,GA,60
+Columbus-Muscogee/Russell County CoC,GA-505,245,319,207,0,39,246,GA,73
+Columbus-Muscogee/Russell County CoC,GA-505,323,371,170,0,36,206,GA,165
+Columbus-Muscogee/Russell County CoC,GA-505,257,312,164,0,35,199,GA,113
+Columbus-Muscogee/Russell County CoC,GA-505,236,333,224,0,54,278,GA,55
+Columbus-Muscogee/Russell County CoC,GA-505,272,329,202,0,41,243,GA,86
+Marietta/Cobb County CoC,GA-506,263,495,108,0,243,351,GA,144
+Marietta/Cobb County CoC,GA-506,288,523,139,0,240,379,GA,144
+Marietta/Cobb County CoC,GA-506,193,392,93,0,250,343,GA,49
+Marietta/Cobb County CoC,GA-506,236,403,166,0,119,285,GA,118
+Marietta/Cobb County CoC,GA-506,208,415,110,0,214,324,GA,91
+Marietta/Cobb County CoC,GA-506,245,384,146,0,120,266,GA,118
+Marietta/Cobb County CoC,GA-506,205,405,133,0,181,314,GA,91
+Savannah/Chatham County CoC,GA-507,953,1100,268,0,310,578,GA,522
+Savannah/Chatham County CoC,GA-507,1066,1118,234,0,253,487,GA,631
+Savannah/Chatham County CoC,GA-507,751,926,244,0,319,563,GA,363
+Savannah/Chatham County CoC,GA-507,1052,1165,269,0,274,543,GA,622
+Savannah/Chatham County CoC,GA-507,875,1009,241,0,304,545,GA,464
+Savannah/Chatham County CoC,GA-507,923,1070,280,0,273,553,GA,517
+Savannah/Chatham County CoC,GA-507,1170,1315,294,0,280,574,GA,741
+DeKalb County CoC,GA-508,431,801,203,0,317,520,GA,281
+DeKalb County CoC,GA-508,266,460,99,0,176,275,GA,185
+DeKalb County CoC,GA-508,358,684,91,0,396,487,GA,197
+DeKalb County CoC,GA-508,402,713,130,0,369,499,GA,214
+DeKalb County CoC,GA-508,170,321,91,0,87,178,GA,143
+DeKalb County CoC,GA-508,233,473,101,0,214,315,GA,158
+Guam CoC,GU-500,209,854,124,0,3,127,GU,727
+Guam CoC,GU-500,332,1356,57,0,69,126,GU,1230
+Guam CoC,GU-500,296,1271,60,0,68,128,GU,1143
+Guam CoC,GU-500,215,852,87,0,0,87,GU,765
+Guam CoC,GU-500,255,1301,66,0,121,187,GU,1114
+Guam CoC,GU-500,227,1085,105,0,7,112,GU,973
+Guam CoC,GU-500,306,1280,73,0,14,87,GU,1193
+Hawaii Balance of State CoC,HI-500,1394,2206,281,0,453,734,HI,1472
+Hawaii Balance of State CoC,HI-500,1744,2717,262,0,551,813,HI,1904
+Hawaii Balance of State CoC,HI-500,1793,2981,239,0,607,846,HI,2135
+Hawaii Balance of State CoC,HI-500,1159,1779,244,0,410,654,HI,1125
+Hawaii Balance of State CoC,HI-500,1226,2035,485,0,220,705,HI,1330
+Hawaii Balance of State CoC,HI-500,1423,2261,283,0,502,785,HI,1476
+Hawaii Balance of State CoC,HI-500,1121,1893,257,0,434,691,HI,1202
+Honolulu City and County CoC,HI-501,2356,4712,881,25,2173,3079,HI,1633
+Honolulu City and County CoC,HI-501,2797,4940,987,26,1754,2767,HI,2173
+Honolulu City and County CoC,HI-501,3112,4959,1058,25,1552,2635,HI,2324
+Honolulu City and County CoC,HI-501,2009,4353,884,25,2126,3035,HI,1318
+Honolulu City and County CoC,HI-501,2905,4495,1043,0,1307,2350,HI,2145
+Honolulu City and County CoC,HI-501,2563,4903,995,26,1943,2964,HI,1939
+Honolulu City and County CoC,HI-501,2196,4556,982,25,2084,3091,HI,1465
+"Sioux City/Dakota, Woodbury Counties CoC",IA-500,172,264,189,0,69,258,IA,6
+"Sioux City/Dakota, Woodbury Counties CoC",IA-500,161,297,140,0,128,268,IA,29
+"Sioux City/Dakota, Woodbury Counties CoC",IA-500,159,288,171,0,115,286,IA,2
+"Sioux City/Dakota, Woodbury Counties CoC",IA-500,115,236,109,0,115,224,IA,12
+"Sioux City/Dakota, Woodbury Counties CoC",IA-500,163,348,168,0,171,339,IA,9
+"Sioux City/Dakota, Woodbury Counties CoC",IA-500,113,276,89,0,176,265,IA,11
+"Sioux City/Dakota, Woodbury Counties CoC",IA-500,119,250,100,0,133,233,IA,17
+Iowa Balance of State CoC,IA-501,833,1920,710,0,1149,1859,IA,61
+Iowa Balance of State CoC,IA-501,822,1923,758,0,1100,1858,IA,65
+Iowa Balance of State CoC,IA-501,818,1860,736,0,1067,1803,IA,57
+Iowa Balance of State CoC,IA-501,821,1975,737,0,1139,1876,IA,99
+Iowa Balance of State CoC,IA-501,812,1939,816,0,1058,1874,IA,65
+Iowa Balance of State CoC,IA-501,807,1792,766,0,976,1742,IA,50
+Iowa Balance of State CoC,IA-501,927,1721,842,9,742,1593,IA,128
+Des Moines/Polk County CoC,IA-502,567,830,399,0,338,737,IA,93
+Des Moines/Polk County CoC,IA-502,509,818,328,0,416,744,IA,74
+Des Moines/Polk County CoC,IA-502,534,676,436,0,188,624,IA,52
+Des Moines/Polk County CoC,IA-502,571,886,431,0,353,784,IA,102
+Des Moines/Polk County CoC,IA-502,612,764,450,14,193,657,IA,107
+Des Moines/Polk County CoC,IA-502,576,928,384,0,483,867,IA,61
+Des Moines/Polk County CoC,IA-502,558,793,406,0,318,724,IA,69
+Boise/Ada County CoC,ID-500,576,753,439,0,268,707,ID,46
+Boise/Ada County CoC,ID-500,680,867,477,0,265,742,ID,125
+Boise/Ada County CoC,ID-500,566,754,482,0,219,701,ID,53
+Boise/Ada County CoC,ID-500,613,756,517,0,118,635,ID,121
+Boise/Ada County CoC,ID-500,671,833,579,0,143,722,ID,111
+Boise/Ada County CoC,ID-500,544,694,438,0,207,645,ID,49
+Boise/Ada County CoC,ID-500,611,755,451,0,223,674,ID,81
+Idaho Balance of State CoC,ID-501,604,1380,355,0,412,767,ID,613
+Idaho Balance of State CoC,ID-501,609,1214,288,0,493,781,ID,433
+Idaho Balance of State CoC,ID-501,540,1087,307,0,452,759,ID,328
+Idaho Balance of State CoC,ID-501,684,1256,437,0,217,654,ID,602
+Idaho Balance of State CoC,ID-501,658,1351,300,0,461,761,ID,590
+Idaho Balance of State CoC,ID-501,638,1204,424,0,252,676,ID,528
+Idaho Balance of State CoC,ID-501,561,1211,339,0,484,823,ID,388
+McHenry County CoC,IL-500,116,177,83,0,85,168,IL,9
+McHenry County CoC,IL-500,108,166,76,0,85,161,IL,5
+McHenry County CoC,IL-500,102,154,48,0,102,150,IL,4
+McHenry County CoC,IL-500,87,155,47,0,103,150,IL,5
+McHenry County CoC,IL-500,111,185,63,0,117,180,IL,5
+McHenry County CoC,IL-500,123,196,60,0,133,193,IL,3
+McHenry County CoC,IL-500,124,179,87,0,87,174,IL,5
+"Rockford/Winnebago, Boone Counties CoC",IL-501,442,727,217,0,308,525,IL,202
+"Rockford/Winnebago, Boone Counties CoC",IL-501,175,255,131,0,76,207,IL,48
+"Rockford/Winnebago, Boone Counties CoC",IL-501,283,410,230,0,149,379,IL,31
+"Rockford/Winnebago, Boone Counties CoC",IL-501,406,788,221,0,280,501,IL,287
+"Rockford/Winnebago, Boone Counties CoC",IL-501,169,256,134,0,79,213,IL,43
+"Rockford/Winnebago, Boone Counties CoC",IL-501,197,327,146,0,152,298,IL,29
+"Rockford/Winnebago, Boone Counties CoC",IL-501,178,291,183,0,76,259,IL,32
+"Waukegan, North Chicago/Lake County CoC",IL-502,197,386,215,0,166,381,IL,5
+"Waukegan, North Chicago/Lake County CoC",IL-502,122,228,125,0,76,201,IL,27
+"Waukegan, North Chicago/Lake County CoC",IL-502,337,497,328,14,150,492,IL,5
+"Waukegan, North Chicago/Lake County CoC",IL-502,143,299,159,0,121,280,IL,19
+"Waukegan, North Chicago/Lake County CoC",IL-502,259,450,328,13,104,445,IL,5
+"Waukegan, North Chicago/Lake County CoC",IL-502,206,409,213,15,176,404,IL,5
+"Waukegan, North Chicago/Lake County CoC",IL-502,161,277,165,0,88,253,IL,24
+"Champaign, Urbana, Rantoul/Champaign County CoC",IL-503,124,188,21,0,149,170,IL,18
+"Champaign, Urbana, Rantoul/Champaign County CoC",IL-503,156,214,59,0,112,171,IL,43
+"Champaign, Urbana, Rantoul/Champaign County CoC",IL-503,121,188,109,0,70,179,IL,9
+"Champaign, Urbana, Rantoul/Champaign County CoC",IL-503,100,160,57,0,86,143,IL,17
+"Champaign, Urbana, Rantoul/Champaign County CoC",IL-503,134,209,42,0,141,183,IL,26
+"Champaign, Urbana, Rantoul/Champaign County CoC",IL-503,125,163,10,0,143,153,IL,10
+"Champaign, Urbana, Rantoul/Champaign County CoC",IL-503,148,205,14,0,179,193,IL,12
+Madison County CoC,IL-504,38,168,50,0,94,144,IL,24
+Madison County CoC,IL-504,51,199,58,0,118,176,IL,23
+Madison County CoC,IL-504,73,240,107,0,117,224,IL,16
+Madison County CoC,IL-504,46,201,70,0,103,173,IL,28
+Madison County CoC,IL-504,88,146,95,0,0,95,IL,51
+Madison County CoC,IL-504,51,176,77,0,78,155,IL,21
+Madison County CoC,IL-504,44,196,78,0,104,182,IL,14
+"Joliet, Bolingbrook/Will County CoC",IL-506,195,290,160,0,82,242,IL,48
+"Joliet, Bolingbrook/Will County CoC",IL-506,184,288,152,0,129,281,IL,7
+"Joliet, Bolingbrook/Will County CoC",IL-506,181,341,167,0,131,298,IL,43
+"Joliet, Bolingbrook/Will County CoC",IL-506,164,291,135,0,147,282,IL,9
+"Joliet, Bolingbrook/Will County CoC",IL-506,187,309,165,0,129,294,IL,15
+"Joliet, Bolingbrook/Will County CoC",IL-506,185,282,143,0,108,251,IL,31
+"Joliet, Bolingbrook/Will County CoC",IL-506,207,340,190,0,124,314,IL,26
+"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",IL-507,248,400,291,3,72,366,IL,34
+"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",IL-507,220,376,238,0,129,367,IL,9
+"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",IL-507,262,451,242,0,141,383,IL,68
+"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",IL-507,242,405,234,0,145,379,IL,26
+"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",IL-507,240,329,232,0,61,293,IL,36
+"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",IL-507,252,396,261,0,109,370,IL,26
+"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",IL-507,271,378,153,8,147,308,IL,70
+"East St. Louis, Belleville/St. Clair County CoC",IL-508,121,213,32,0,114,146,IL,67
+"East St. Louis, Belleville/St. Clair County CoC",IL-508,124,250,55,0,105,160,IL,90
+"East St. Louis, Belleville/St. Clair County CoC",IL-508,174,300,26,0,128,154,IL,146
+"East St. Louis, Belleville/St. Clair County CoC",IL-508,193,451,59,0,107,166,IL,285
+"East St. Louis, Belleville/St. Clair County CoC",IL-508,171,339,92,0,109,201,IL,138
+"East St. Louis, Belleville/St. Clair County CoC",IL-508,132,240,48,0,109,157,IL,83
+"East St. Louis, Belleville/St. Clair County CoC",IL-508,176,318,47,0,119,166,IL,152
+Dekalb City & County CoC,IL-509,45,100,75,0,22,97,IL,3
+Dekalb City & County CoC,IL-509,34,96,43,0,47,90,IL,6
+Dekalb City & County CoC,IL-509,45,101,85,0,14,99,IL,2
+Dekalb City & County CoC,IL-509,46,107,57,0,47,104,IL,3
+Dekalb City & County CoC,IL-509,51,125,65,0,47,112,IL,13
+Dekalb City & County CoC,IL-509,51,90,72,0,15,87,IL,3
+Dekalb City & County CoC,IL-509,43,81,62,0,15,77,IL,4
+Chicago CoC,IL-510,3553,5450,3111,41,941,4093,IL,1357
+Chicago CoC,IL-510,3721,5889,1470,39,3137,4646,IL,1243
+Chicago CoC,IL-510,3923,6276,2058,37,2965,5060,IL,1216
+Chicago CoC,IL-510,3724,5657,1368,40,2688,4096,IL,1561
+Chicago CoC,IL-510,3738,6287,1864,40,3424,5328,IL,959
+Chicago CoC,IL-510,4592,6786,1556,39,3136,4731,IL,2055
+Chicago CoC,IL-510,4270,6710,1783,40,3165,4988,IL,1722
+Cook County CoC,IL-511,556,952,449,23,370,842,IL,110
+Cook County CoC,IL-511,643,1182,468,14,549,1031,IL,151
+Cook County CoC,IL-511,693,1242,506,15,570,1091,IL,151
+Cook County CoC,IL-511,508,780,443,23,222,688,IL,92
+Cook County CoC,IL-511,528,895,414,15,356,785,IL,110
+Cook County CoC,IL-511,559,873,511,24,246,781,IL,92
+Cook County CoC,IL-511,738,1242,430,15,564,1009,IL,233
+Bloomington/Central Illinois CoC,IL-512,361,668,291,21,140,452,IL,216
+Bloomington/Central Illinois CoC,IL-512,253,433,282,12,98,392,IL,41
+Bloomington/Central Illinois CoC,IL-512,215,411,254,24,85,363,IL,48
+Bloomington/Central Illinois CoC,IL-512,238,619,446,21,98,565,IL,54
+Bloomington/Central Illinois CoC,IL-512,248,387,285,0,77,362,IL,25
+Bloomington/Central Illinois CoC,IL-512,219,669,438,19,96,553,IL,116
+Bloomington/Central Illinois CoC,IL-512,353,536,274,16,130,420,IL,116
+Springfield/Sangamon County CoC,IL-513,171,230,138,0,81,219,IL,11
+Springfield/Sangamon County CoC,IL-513,195,271,176,0,76,252,IL,19
+Springfield/Sangamon County CoC,IL-513,176,261,139,0,107,246,IL,15
+Springfield/Sangamon County CoC,IL-513,175,269,139,0,109,248,IL,21
+Springfield/Sangamon County CoC,IL-513,160,251,114,0,128,242,IL,9
+Springfield/Sangamon County CoC,IL-513,181,280,150,0,120,270,IL,10
+Springfield/Sangamon County CoC,IL-513,227,326,182,0,129,311,IL,15
+DuPage County CoC,IL-514,290,672,204,0,438,642,IL,30
+DuPage County CoC,IL-514,300,654,216,0,409,625,IL,29
+DuPage County CoC,IL-514,295,665,215,0,421,636,IL,29
+DuPage County CoC,IL-514,205,331,195,0,121,316,IL,15
+DuPage County CoC,IL-514,171,295,168,5,107,280,IL,15
+DuPage County CoC,IL-514,204,555,175,0,350,525,IL,30
+DuPage County CoC,IL-514,286,641,168,0,440,608,IL,33
+South Central Illinois CoC,IL-515,23,118,53,0,61,114,IL,4
+South Central Illinois CoC,IL-515,33,124,74,0,50,124,IL,0
+South Central Illinois CoC,IL-515,44,108,49,0,27,76,IL,32
+South Central Illinois CoC,IL-515,44,133,54,0,67,121,IL,12
+South Central Illinois CoC,IL-515,44,122,43,0,55,98,IL,24
+South Central Illinois CoC,IL-515,40,149,55,0,75,130,IL,19
+South Central Illinois CoC,IL-515,44,92,49,0,21,70,IL,22
+Decatur/Macon County CoC,IL-516,151,256,115,0,75,190,IL,66
+Decatur/Macon County CoC,IL-516,107,130,90,0,24,114,IL,16
+Decatur/Macon County CoC,IL-516,98,161,87,0,53,140,IL,21
+Decatur/Macon County CoC,IL-516,170,238,107,0,92,199,IL,39
+Decatur/Macon County CoC,IL-516,110,157,83,0,67,150,IL,7
+Decatur/Macon County CoC,IL-516,144,247,115,0,75,190,IL,57
+Decatur/Macon County CoC,IL-516,122,210,94,3,61,158,IL,52
+"Aurora, Elgin/Kane County CoC",IL-517,269,355,286,0,55,341,IL,14
+"Aurora, Elgin/Kane County CoC",IL-517,310,405,278,0,81,359,IL,46
+"Aurora, Elgin/Kane County CoC",IL-517,344,451,285,0,120,405,IL,46
+"Aurora, Elgin/Kane County CoC",IL-517,313,431,258,0,130,388,IL,43
+"Aurora, Elgin/Kane County CoC",IL-517,318,430,337,0,68,405,IL,25
+"Aurora, Elgin/Kane County CoC",IL-517,266,360,268,0,67,335,IL,25
+"Aurora, Elgin/Kane County CoC",IL-517,267,388,304,0,70,374,IL,14
+"Rock Island, Moline/Northwestern Illinois CoC",IL-518,208,340,179,0,122,301,IL,39
+"Rock Island, Moline/Northwestern Illinois CoC",IL-518,132,243,135,0,99,234,IL,9
+"Rock Island, Moline/Northwestern Illinois CoC",IL-518,122,219,52,7,159,218,IL,1
+"Rock Island, Moline/Northwestern Illinois CoC",IL-518,129,263,94,0,141,235,IL,28
+"Rock Island, Moline/Northwestern Illinois CoC",IL-518,180,254,119,10,109,238,IL,16
+"Rock Island, Moline/Northwestern Illinois CoC",IL-518,103,218,63,9,145,217,IL,1
+"Rock Island, Moline/Northwestern Illinois CoC",IL-518,138,198,143,0,39,182,IL,16
+West Central Illinois CoC,IL-519,44,133,48,0,80,128,IL,5
+West Central Illinois CoC,IL-519,72,102,56,0,46,102,IL,0
+West Central Illinois CoC,IL-519,61,100,55,0,43,98,IL,2
+West Central Illinois CoC,IL-519,61,145,60,0,80,140,IL,5
+West Central Illinois CoC,IL-519,49,80,45,0,35,80,IL,0
+West Central Illinois CoC,IL-519,23,67,46,0,21,67,IL,0
+West Central Illinois CoC,IL-519,69,172,59,0,90,149,IL,23
+Southern Illinois CoC,IL-520,175,325,163,0,116,279,IL,46
+Southern Illinois CoC,IL-520,247,435,185,0,113,298,IL,137
+Southern Illinois CoC,IL-520,160,338,159,0,104,263,IL,75
+Southern Illinois CoC,IL-520,192,346,186,0,130,316,IL,30
+Southern Illinois CoC,IL-520,175,351,198,0,134,332,IL,19
+Southern Illinois CoC,IL-520,158,411,241,0,100,341,IL,70
+Southern Illinois CoC,IL-520,144,282,156,0,78,234,IL,48
+Indiana Balance of State CoC,IN-502,2598,4081,2385,0,1367,3752,IN,329
+Indiana Balance of State CoC,IN-502,2685,4197,2265,25,1435,3725,IN,472
+Indiana Balance of State CoC,IN-502,2662,4179,2287,22,1309,3618,IN,561
+Indiana Balance of State CoC,IN-502,2477,3576,2288,23,822,3133,IN,443
+Indiana Balance of State CoC,IN-502,2642,4497,2226,0,1691,3917,IN,580
+Indiana Balance of State CoC,IN-502,2177,4612,2089,0,1807,3896,IN,716
+Indiana Balance of State CoC,IN-502,2340,3655,2237,23,952,3212,IN,443
+Indianapolis CoC,IN-503,1162,1619,877,12,600,1489,IN,130
+Indianapolis CoC,IN-503,1229,1666,817,23,715,1555,IN,111
+Indianapolis CoC,IN-503,1299,1682,1082,68,396,1546,IN,136
+Indianapolis CoC,IN-503,1139,1647,845,25,604,1474,IN,173
+Indianapolis CoC,IN-503,1283,1783,1131,21,505,1657,IN,126
+Indianapolis CoC,IN-503,1109,1599,861,24,594,1479,IN,120
+Indianapolis CoC,IN-503,1355,1890,991,22,803,1816,IN,74
+Wichita/Sedgwick County CoC,KS-502,411,561,354,12,96,462,KS,99
+Wichita/Sedgwick County CoC,KS-502,442,631,403,10,135,548,KS,83
+Wichita/Sedgwick County CoC,KS-502,360,538,321,9,137,467,KS,71
+Wichita/Sedgwick County CoC,KS-502,368,550,339,17,119,475,KS,75
+Wichita/Sedgwick County CoC,KS-502,421,573,393,4,118,515,KS,58
+Wichita/Sedgwick County CoC,KS-502,395,575,348,6,110,464,KS,111
+Wichita/Sedgwick County CoC,KS-502,378,571,351,12,129,492,KS,79
+Topeka/Shawnee County CoC,KS-503,232,416,300,0,85,385,KS,31
+Topeka/Shawnee County CoC,KS-503,247,356,264,0,58,322,KS,34
+Topeka/Shawnee County CoC,KS-503,269,439,343,0,73,416,KS,23
+Topeka/Shawnee County CoC,KS-503,272,381,249,0,85,334,KS,47
+Topeka/Shawnee County CoC,KS-503,282,408,287,0,60,347,KS,61
+Topeka/Shawnee County CoC,KS-503,260,405,287,0,85,372,KS,33
+Topeka/Shawnee County CoC,KS-503,405,577,447,0,80,527,KS,50
+"Overland Park, Shawnee/Johnson County CoC",KS-505,29,153,100,0,43,143,KS,10
+"Overland Park, Shawnee/Johnson County CoC",KS-505,64,168,92,0,38,130,KS,38
+"Overland Park, Shawnee/Johnson County CoC",KS-505,23,174,94,0,57,151,KS,23
+"Overland Park, Shawnee/Johnson County CoC",KS-505,34,130,84,0,29,113,KS,17
+"Overland Park, Shawnee/Johnson County CoC",KS-505,25,213,93,0,103,196,KS,17
+"Overland Park, Shawnee/Johnson County CoC",KS-505,24,167,74,0,86,160,KS,7
+"Overland Park, Shawnee/Johnson County CoC",KS-505,48,288,97,0,123,220,KS,68
+Kansas Balance of State CoC,KS-507,396,903,335,0,472,807,KS,96
+Kansas Balance of State CoC,KS-507,561,1043,414,0,568,982,KS,61
+Kansas Balance of State CoC,KS-507,581,918,499,0,258,757,KS,161
+Kansas Balance of State CoC,KS-507,645,1141,537,0,522,1059,KS,82
+Kansas Balance of State CoC,KS-507,608,1037,504,0,391,895,KS,142
+Kansas Balance of State CoC,KS-507,692,1307,635,0,590,1225,KS,82
+Kansas Balance of State CoC,KS-507,642,1208,564,0,529,1093,KS,115
+Kentucky Balance of State CoC,KY-500,1267,2229,1093,0,466,1559,KY,670
+Kentucky Balance of State CoC,KY-500,1240,2057,1003,0,481,1484,KY,573
+Kentucky Balance of State CoC,KY-500,1452,2077,1175,0,210,1385,KY,692
+Kentucky Balance of State CoC,KY-500,1242,2119,967,0,530,1497,KY,622
+Kentucky Balance of State CoC,KY-500,1340,2328,1055,0,572,1627,KY,701
+Kentucky Balance of State CoC,KY-500,1326,1940,1072,0,343,1415,KY,525
+Kentucky Balance of State CoC,KY-500,1316,2392,1188,0,604,1792,KY,600
+Louisville-Jefferson County CoC,KY-501,854,1161,661,0,419,1080,KY,81
+Louisville-Jefferson County CoC,KY-501,769,1034,524,0,359,883,KY,151
+Louisville-Jefferson County CoC,KY-501,811,1116,573,0,431,1004,KY,112
+Louisville-Jefferson County CoC,KY-501,950,1445,769,10,603,1382,KY,63
+Louisville-Jefferson County CoC,KY-501,703,926,555,0,218,773,KY,153
+Louisville-Jefferson County CoC,KY-501,1034,1532,676,10,694,1380,KY,152
+Louisville-Jefferson County CoC,KY-501,978,1316,723,11,512,1246,KY,70
+Lexington-Fayette County CoC,KY-502,1036,1408,482,0,835,1317,KY,91
+Lexington-Fayette County CoC,KY-502,1055,1258,653,0,566,1219,KY,39
+Lexington-Fayette County CoC,KY-502,937,1051,578,2,420,1000,KY,51
+Lexington-Fayette County CoC,KY-502,1107,1544,566,0,887,1453,KY,91
+Lexington-Fayette County CoC,KY-502,898,1064,536,0,507,1043,KY,21
+Lexington-Fayette County CoC,KY-502,908,1370,401,0,911,1312,KY,58
+Lexington-Fayette County CoC,KY-502,580,685,610,0,52,662,KY,23
+Lafayette/Acadiana CoC,LA-500,358,542,165,0,268,433,LA,109
+Lafayette/Acadiana CoC,LA-500,325,518,194,0,245,439,LA,79
+Lafayette/Acadiana CoC,LA-500,327,493,182,0,191,373,LA,120
+Lafayette/Acadiana CoC,LA-500,226,357,149,0,112,261,LA,96
+Lafayette/Acadiana CoC,LA-500,284,363,120,0,70,190,LA,173
+Lafayette/Acadiana CoC,LA-500,290,471,184,0,257,441,LA,30
+Lafayette/Acadiana CoC,LA-500,299,463,161,0,189,350,LA,113
+"Shreveport, Bossier/Northwest Louisiana CoC",LA-502,399,692,223,9,281,513,LA,179
+"Shreveport, Bossier/Northwest Louisiana CoC",LA-502,477,804,169,9,448,626,LA,178
+"Shreveport, Bossier/Northwest Louisiana CoC",LA-502,368,478,301,31,81,413,LA,65
+"Shreveport, Bossier/Northwest Louisiana CoC",LA-502,373,655,168,4,357,529,LA,126
+"Shreveport, Bossier/Northwest Louisiana CoC",LA-502,271,375,256,19,56,331,LA,44
+"Shreveport, Bossier/Northwest Louisiana CoC",LA-502,246,349,228,19,55,302,LA,47
+"Shreveport, Bossier/Northwest Louisiana CoC",LA-502,304,390,212,29,69,310,LA,80
+New Orleans/Jefferson Parish CoC,LA-503,1695,1981,593,15,555,1163,LA,818
+New Orleans/Jefferson Parish CoC,LA-503,4325,4903,601,15,848,1464,LA,3439
+New Orleans/Jefferson Parish CoC,LA-503,1510,1703,457,10,447,914,LA,789
+New Orleans/Jefferson Parish CoC,LA-503,1848,2337,578,15,705,1298,LA,1039
+New Orleans/Jefferson Parish CoC,LA-503,1158,1301,556,18,202,776,LA,525
+New Orleans/Jefferson Parish CoC,LA-503,1057,1188,390,17,187,594,LA,594
+New Orleans/Jefferson Parish CoC,LA-503,1438,1626,527,12,370,909,LA,717
+Monroe/Northeast Louisiana CoC,LA-505,76,187,54,0,125,179,LA,8
+Monroe/Northeast Louisiana CoC,LA-505,102,220,63,3,116,182,LA,38
+Monroe/Northeast Louisiana CoC,LA-505,88,200,49,9,114,172,LA,28
+Monroe/Northeast Louisiana CoC,LA-505,76,185,46,0,114,160,LA,25
+Monroe/Northeast Louisiana CoC,LA-505,119,257,73,8,117,198,LA,59
+Monroe/Northeast Louisiana CoC,LA-505,85,191,33,0,137,170,LA,21
+Monroe/Northeast Louisiana CoC,LA-505,87,188,60,0,115,175,LA,13
+Slidell/Southeast Louisiana CoC,LA-506,208,275,89,0,126,215,LA,60
+Slidell/Southeast Louisiana CoC,LA-506,151,276,86,0,155,241,LA,35
+Slidell/Southeast Louisiana CoC,LA-506,174,194,34,0,101,135,LA,59
+Slidell/Southeast Louisiana CoC,LA-506,143,243,70,0,123,193,LA,50
+Slidell/Southeast Louisiana CoC,LA-506,164,262,84,0,135,219,LA,43
+Slidell/Southeast Louisiana CoC,LA-506,191,248,48,0,111,159,LA,89
+Slidell/Southeast Louisiana CoC,LA-506,153,276,85,0,152,237,LA,39
+Alexandria/Central Louisiana CoC,LA-507,156,188,52,0,121,173,LA,15
+Alexandria/Central Louisiana CoC,LA-507,152,177,70,0,54,124,LA,53
+Alexandria/Central Louisiana CoC,LA-507,111,141,55,0,73,128,LA,13
+Alexandria/Central Louisiana CoC,LA-507,127,159,45,0,53,98,LA,61
+Alexandria/Central Louisiana CoC,LA-507,129,167,50,0,63,113,LA,54
+Alexandria/Central Louisiana CoC,LA-507,92,118,38,0,49,87,LA,31
+Alexandria/Central Louisiana CoC,LA-507,122,154,50,0,80,130,LA,24
+Louisiana Balance of State CoC,LA-509,767,826,201,3,466,670,LA,156
+Louisiana Balance of State CoC,LA-509,526,575,239,0,202,441,LA,134
+Louisiana Balance of State CoC,LA-509,535,706,254,0,320,574,LA,132
+Louisiana Balance of State CoC,LA-509,972,1061,250,1,656,907,LA,154
+Louisiana Balance of State CoC,LA-509,726,907,302,0,498,800,LA,107
+Louisiana Balance of State CoC,LA-509,709,876,304,0,537,841,LA,35
+Louisiana Balance of State CoC,LA-509,647,797,256,0,422,678,LA,119
+Boston CoC,MA-500,2541,5881,4334,16,1338,5688,MA,193
+Boston CoC,MA-500,2430,5607,4142,6,1278,5426,MA,181
+Boston CoC,MA-500,2539,6492,5325,22,1006,6353,MA,139
+Boston CoC,MA-500,2485,6240,5151,22,900,6073,MA,167
+Boston CoC,MA-500,2492,6135,5337,51,561,5949,MA,186
+Boston CoC,MA-500,2609,5987,4675,24,1108,5807,MA,180
+Boston CoC,MA-500,2535,6188,5427,32,566,6025,MA,163
+Lynn CoC,MA-502,151,582,489,0,42,531,MA,51
+Lynn CoC,MA-502,128,1061,958,0,61,1019,MA,42
+Lynn CoC,MA-502,122,382,320,0,52,372,MA,10
+Lynn CoC,MA-502,99,468,329,0,124,453,MA,15
+Lynn CoC,MA-502,113,541,490,0,47,537,MA,4
+Lynn CoC,MA-502,106,414,346,0,54,400,MA,14
+Lynn CoC,MA-502,160,445,382,0,46,428,MA,17
+Cape Cod Islands CoC,MA-503,174,358,277,0,42,319,MA,39
+Cape Cod Islands CoC,MA-503,145,324,243,0,42,285,MA,39
+Cape Cod Islands CoC,MA-503,214,394,286,0,41,327,MA,67
+Cape Cod Islands CoC,MA-503,192,362,263,0,52,315,MA,47
+Cape Cod Islands CoC,MA-503,357,514,242,0,79,321,MA,193
+Cape Cod Islands CoC,MA-503,221,364,221,0,95,316,MA,48
+Cape Cod Islands CoC,MA-503,223,381,246,0,49,295,MA,86
+Springfield/Hampden County CoC,MA-504,457,3368,3242,7,75,3324,MA,44
+Springfield/Hampden County CoC,MA-504,382,2444,2071,12,326,2409,MA,35
+Springfield/Hampden County CoC,MA-504,379,2385,2162,0,188,2350,MA,35
+Springfield/Hampden County CoC,MA-504,395,2117,1838,7,227,2072,MA,45
+Springfield/Hampden County CoC,MA-504,374,3002,2798,6,188,2992,MA,10
+Springfield/Hampden County CoC,MA-504,438,2690,2424,7,224,2655,MA,35
+Springfield/Hampden County CoC,MA-504,370,2311,2135,7,116,2258,MA,53
+New Bedford CoC,MA-505,300,469,195,0,219,414,MA,55
+New Bedford CoC,MA-505,258,374,104,0,250,354,MA,20
+New Bedford CoC,MA-505,222,409,262,0,98,360,MA,49
+New Bedford CoC,MA-505,174,352,213,0,90,303,MA,49
+New Bedford CoC,MA-505,231,349,120,0,213,333,MA,16
+New Bedford CoC,MA-505,230,337,105,0,213,318,MA,19
+New Bedford CoC,MA-505,241,437,162,0,225,387,MA,50
+Worcester City & County CoC,MA-506,586,1657,1043,13,546,1602,MA,55
+Worcester City & County CoC,MA-506,764,1852,1195,13,474,1682,MA,170
+Worcester City & County CoC,MA-506,584,1507,894,13,464,1371,MA,136
+Worcester City & County CoC,MA-506,518,1682,1216,12,378,1606,MA,76
+Worcester City & County CoC,MA-506,528,1572,1031,13,462,1506,MA,66
+Worcester City & County CoC,MA-506,551,1572,968,13,518,1499,MA,73
+Worcester City & County CoC,MA-506,468,1796,1358,13,376,1747,MA,49
+"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",MA-507,506,753,386,0,338,724,MA,29
+"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",MA-507,455,653,346,0,279,625,MA,28
+"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",MA-507,493,678,280,0,358,638,MA,40
+"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",MA-507,420,557,299,0,203,502,MA,55
+"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",MA-507,406,651,399,0,198,597,MA,54
+"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",MA-507,484,717,305,0,353,658,MA,59
+"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",MA-507,414,781,495,0,267,762,MA,19
+Lowell CoC,MA-508,218,559,428,0,106,534,MA,25
+Lowell CoC,MA-508,216,588,434,0,119,553,MA,35
+Lowell CoC,MA-508,229,635,492,0,117,609,MA,26
+Lowell CoC,MA-508,210,594,481,0,94,575,MA,19
+Lowell CoC,MA-508,189,534,400,0,106,506,MA,28
+Lowell CoC,MA-508,218,783,689,0,68,757,MA,26
+Lowell CoC,MA-508,182,658,582,0,64,646,MA,12
+Cambridge CoC,MA-509,338,464,271,0,161,432,MA,32
+Cambridge CoC,MA-509,370,551,297,0,207,504,MA,47
+Cambridge CoC,MA-509,395,530,307,0,156,463,MA,67
+Cambridge CoC,MA-509,399,517,293,0,155,448,MA,69
+Cambridge CoC,MA-509,357,485,260,0,153,413,MA,72
+Cambridge CoC,MA-509,366,535,264,0,202,466,MA,69
+Cambridge CoC,MA-509,403,561,340,0,142,482,MA,79
+"Gloucester, Haverhill, Salem/Essex County CoC",MA-510,237,1577,1432,6,106,1544,MA,33
+"Gloucester, Haverhill, Salem/Essex County CoC",MA-510,240,732,623,6,60,689,MA,43
+"Gloucester, Haverhill, Salem/Essex County CoC",MA-510,250,1286,1120,11,119,1250,MA,36
+"Gloucester, Haverhill, Salem/Essex County CoC",MA-510,228,747,645,6,49,700,MA,47
+"Gloucester, Haverhill, Salem/Essex County CoC",MA-510,309,1487,1290,11,112,1413,MA,74
+"Gloucester, Haverhill, Salem/Essex County CoC",MA-510,266,993,839,10,106,955,MA,38
+"Gloucester, Haverhill, Salem/Essex County CoC",MA-510,240,1206,1012,6,127,1145,MA,61
+"Quincy, Brockton, Weymouth, Plymouth City and County CoC",MA-511,390,1803,1729,0,46,1775,MA,28
+"Quincy, Brockton, Weymouth, Plymouth City and County CoC",MA-511,399,1692,1593,0,61,1654,MA,38
+"Quincy, Brockton, Weymouth, Plymouth City and County CoC",MA-511,458,1690,1528,0,113,1641,MA,49
+"Quincy, Brockton, Weymouth, Plymouth City and County CoC",MA-511,407,1424,1267,0,97,1364,MA,60
+"Quincy, Brockton, Weymouth, Plymouth City and County CoC",MA-511,359,1109,1047,0,12,1059,MA,50
+"Quincy, Brockton, Weymouth, Plymouth City and County CoC",MA-511,335,1090,1055,13,0,1068,MA,22
+"Quincy, Brockton, Weymouth, Plymouth City and County CoC",MA-511,404,1643,1508,0,95,1603,MA,40
+Fall River CoC,MA-515,213,354,159,0,117,276,MA,78
+Fall River CoC,MA-515,121,307,161,0,124,285,MA,22
+Fall River CoC,MA-515,62,297,256,0,22,278,MA,19
+Fall River CoC,MA-515,113,235,122,0,98,220,MA,15
+Fall River CoC,MA-515,102,377,330,0,15,345,MA,32
+Fall River CoC,MA-515,125,406,316,0,90,406,MA,0
+Fall River CoC,MA-515,127,386,286,0,93,379,MA,7
+Massachusetts Balance of State CoC,MA-516,424,2652,2070,12,513,2595,MA,57
+Massachusetts Balance of State CoC,MA-516,438,2651,2323,0,259,2582,MA,69
+Massachusetts Balance of State CoC,MA-516,354,1872,1318,12,505,1835,MA,37
+Massachusetts Balance of State CoC,MA-516,645,2296,1834,9,283,2126,MA,170
+Massachusetts Balance of State CoC,MA-516,516,2080,1609,0,302,1911,MA,169
+Massachusetts Balance of State CoC,MA-516,429,2551,2136,0,304,2440,MA,111
+Massachusetts Balance of State CoC,MA-516,530,3900,3373,12,453,3838,MA,62
+Somerville CoC,MA-517,95,169,99,0,61,160,MA,9
+Somerville CoC,MA-517,90,145,102,0,34,136,MA,9
+Somerville CoC,MA-517,108,142,75,0,45,120,MA,22
+Somerville CoC,MA-517,100,134,80,0,44,124,MA,10
+Somerville CoC,MA-517,100,165,94,0,65,159,MA,6
+Somerville CoC,MA-517,97,154,94,0,56,150,MA,4
+Somerville CoC,MA-517,107,158,94,0,58,152,MA,6
+"Attleboro, Taunton/Bristol County CoC",MA-519,82,208,144,0,22,166,MA,42
+"Attleboro, Taunton/Bristol County CoC",MA-519,76,240,146,0,53,199,MA,41
+"Attleboro, Taunton/Bristol County CoC",MA-519,73,249,148,0,75,223,MA,26
+"Attleboro, Taunton/Bristol County CoC",MA-519,56,243,158,0,58,216,MA,27
+"Attleboro, Taunton/Bristol County CoC",MA-519,81,234,170,0,28,198,MA,36
+"Attleboro, Taunton/Bristol County CoC",MA-519,52,222,151,0,57,208,MA,14
+"Attleboro, Taunton/Bristol County CoC",MA-519,69,251,160,0,61,221,MA,30
+Cumberland/Allegany County CoC,MD-500,34,76,20,0,44,64,MD,12
+Cumberland/Allegany County CoC,MD-500,48,96,39,0,38,77,MD,19
+Cumberland/Allegany County CoC,MD-500,48,120,65,0,40,105,MD,15
+Cumberland/Allegany County CoC,MD-500,76,118,55,0,33,88,MD,30
+Cumberland/Allegany County CoC,MD-500,38,79,30,0,25,55,MD,24
+Cumberland/Allegany County CoC,MD-500,76,124,51,0,33,84,MD,40
+Cumberland/Allegany County CoC,MD-500,89,110,51,0,45,96,MD,14
+Baltimore CoC,MD-501,1988,2638,1061,40,1242,2343,MD,295
+Baltimore CoC,MD-501,2027,2725,1011,20,1357,2388,MD,337
+Baltimore CoC,MD-501,2178,2669,1124,15,984,2123,MD,546
+Baltimore CoC,MD-501,2926,3854,867,38,1154,2059,MD,1795
+Baltimore CoC,MD-501,2193,2796,1055,40,1364,2459,MD,337
+Baltimore CoC,MD-501,2117,2508,1125,27,810,1962,MD,546
+Baltimore CoC,MD-501,1977,2567,956,37,1279,2272,MD,295
+Harford County CoC,MD-502,80,223,141,0,76,217,MD,6
+Harford County CoC,MD-502,78,189,111,0,66,177,MD,12
+Harford County CoC,MD-502,100,190,108,0,61,169,MD,21
+Harford County CoC,MD-502,95,179,81,0,88,169,MD,10
+Harford County CoC,MD-502,78,210,145,0,62,207,MD,3
+Harford County CoC,MD-502,66,166,95,0,63,158,MD,8
+Harford County CoC,MD-502,102,189,100,0,52,152,MD,37
+Annapolis/Anne Arundel County CoC,MD-503,224,335,220,0,67,287,MD,48
+Annapolis/Anne Arundel County CoC,MD-503,213,373,221,0,90,311,MD,62
+Annapolis/Anne Arundel County CoC,MD-503,225,390,253,0,85,338,MD,52
+Annapolis/Anne Arundel County CoC,MD-503,261,376,239,0,24,263,MD,113
+Annapolis/Anne Arundel County CoC,MD-503,225,384,251,0,82,333,MD,51
+Annapolis/Anne Arundel County CoC,MD-503,266,366,263,0,17,280,MD,86
+Annapolis/Anne Arundel County CoC,MD-503,258,400,254,0,61,315,MD,85
+Howard County CoC,MD-504,93,168,93,0,22,115,MD,53
+Howard County CoC,MD-504,112,214,201,0,4,205,MD,9
+Howard County CoC,MD-504,83,166,87,0,36,123,MD,43
+Howard County CoC,MD-504,91,168,101,0,24,125,MD,43
+Howard County CoC,MD-504,93,194,93,0,46,139,MD,55
+Howard County CoC,MD-504,114,230,73,0,75,148,MD,82
+Howard County CoC,MD-504,98,170,114,0,34,148,MD,22
+Baltimore County CoC,MD-505,397,609,348,0,41,389,MD,220
+Baltimore County CoC,MD-505,569,919,414,0,50,464,MD,455
+Baltimore County CoC,MD-505,429,758,421,0,51,472,MD,286
+Baltimore County CoC,MD-505,433,745,430,0,20,450,MD,295
+Baltimore County CoC,MD-505,387,569,366,0,26,392,MD,177
+Baltimore County CoC,MD-505,415,800,425,0,97,522,MD,278
+Baltimore County CoC,MD-505,383,763,406,0,42,448,MD,315
+Carroll County CoC,MD-506,100,173,82,22,47,151,MD,22
+Carroll County CoC,MD-506,113,167,94,23,14,131,MD,36
+Carroll County CoC,MD-506,84,124,77,22,19,118,MD,6
+Carroll County CoC,MD-506,82,134,82,19,26,127,MD,7
+Carroll County CoC,MD-506,70,136,81,23,32,136,MD,0
+Carroll County CoC,MD-506,72,140,82,22,25,129,MD,11
+Carroll County CoC,MD-506,106,147,86,25,14,125,MD,22
+Cecil County CoC,MD-507,142,195,69,0,90,159,MD,36
+Cecil County CoC,MD-507,151,187,108,0,63,171,MD,16
+Cecil County CoC,MD-507,90,129,4,0,84,88,MD,41
+Cecil County CoC,MD-507,144,191,74,0,82,156,MD,35
+Cecil County CoC,MD-507,173,234,64,0,124,188,MD,46
+Cecil County CoC,MD-507,139,193,36,0,76,112,MD,81
+Cecil County CoC,MD-507,99,167,26,0,90,116,MD,51
+"Charles, Calvert, St.Mary's Counties CoC",MD-508,572,1141,401,0,150,551,MD,590
+"Charles, Calvert, St.Mary's Counties CoC",MD-508,547,981,326,0,86,412,MD,569
+"Charles, Calvert, St.Mary's Counties CoC",MD-508,388,833,198,5,135,338,MD,495
+"Charles, Calvert, St.Mary's Counties CoC",MD-508,238,419,146,0,41,187,MD,232
+"Charles, Calvert, St.Mary's Counties CoC",MD-508,274,492,161,0,45,206,MD,286
+"Charles, Calvert, St.Mary's Counties CoC",MD-508,285,1156,234,0,117,351,MD,805
+"Charles, Calvert, St.Mary's Counties CoC",MD-508,290,464,171,0,42,213,MD,251
+Frederick City & County CoC,MD-509,181,311,127,0,124,251,MD,60
+Frederick City & County CoC,MD-509,171,275,94,0,112,206,MD,69
+Frederick City & County CoC,MD-509,249,349,109,0,111,220,MD,129
+Frederick City & County CoC,MD-509,217,309,105,0,101,206,MD,103
+Frederick City & County CoC,MD-509,169,285,80,0,133,213,MD,72
+Frederick City & County CoC,MD-509,207,316,119,0,113,232,MD,84
+Frederick City & County CoC,MD-509,141,246,86,0,111,197,MD,49
+Garrett County CoC,MD-510,7,13,3,0,5,8,MD,5
+Garrett County CoC,MD-510,8,15,7,0,8,15,MD,0
+Garrett County CoC,MD-510,2,9,4,0,5,9,MD,0
+Garrett County CoC,MD-510,7,7,3,0,4,7,MD,0
+Garrett County CoC,MD-510,9,18,12,0,4,16,MD,2
+Garrett County CoC,MD-510,4,10,4,0,6,10,MD,0
+Garrett County CoC,MD-510,10,20,17,0,3,20,MD,0
+Mid-Shore Regional CoC,MD-511,49,80,52,0,21,73,MD,7
+Mid-Shore Regional CoC,MD-511,88,138,81,0,31,112,MD,26
+Mid-Shore Regional CoC,MD-511,105,158,90,0,33,123,MD,35
+Mid-Shore Regional CoC,MD-511,80,111,68,0,25,93,MD,18
+Mid-Shore Regional CoC,MD-511,78,141,83,0,28,111,MD,30
+Mid-Shore Regional CoC,MD-511,81,153,103,0,33,136,MD,17
+Mid-Shore Regional CoC,MD-511,66,87,50,0,17,67,MD,20
+Hagerstown/Washington County CoC,MD-512,187,233,130,0,30,160,MD,73
+Hagerstown/Washington County CoC,MD-512,164,208,134,0,53,187,MD,21
+Hagerstown/Washington County CoC,MD-512,148,201,138,0,26,164,MD,37
+Hagerstown/Washington County CoC,MD-512,88,161,121,0,5,126,MD,35
+Hagerstown/Washington County CoC,MD-512,133,192,166,0,21,187,MD,5
+Hagerstown/Washington County CoC,MD-512,64,107,89,0,14,103,MD,4
+Hagerstown/Washington County CoC,MD-512,149,199,113,0,41,154,MD,45
+"Wicomico, Somerset, Worcester Counties CoC",MD-513,239,360,283,0,36,319,MD,41
+"Wicomico, Somerset, Worcester Counties CoC",MD-513,148,221,174,0,47,221,MD,0
+"Wicomico, Somerset, Worcester Counties CoC",MD-513,212,260,181,0,37,218,MD,42
+"Wicomico, Somerset, Worcester Counties CoC",MD-513,213,262,189,0,36,225,MD,37
+"Wicomico, Somerset, Worcester Counties CoC",MD-513,251,336,247,0,48,295,MD,41
+"Wicomico, Somerset, Worcester Counties CoC",MD-513,194,292,228,0,32,260,MD,32
+"Wicomico, Somerset, Worcester Counties CoC",MD-513,259,326,232,0,46,278,MD,48
+Prince George's County CoC,MD-600,316,686,290,0,210,500,MD,186
+Prince George's County CoC,MD-600,279,641,250,0,225,475,MD,166
+Prince George's County CoC,MD-600,221,659,255,0,225,480,MD,179
+Prince George's County CoC,MD-600,236,544,251,0,191,442,MD,102
+Prince George's County CoC,MD-600,193,525,240,0,197,437,MD,88
+Prince George's County CoC,MD-600,268,625,228,0,244,472,MD,153
+Prince George's County CoC,MD-600,205,478,227,0,166,393,MD,85
+Montgomery County CoC,MD-601,568,840,531,28,148,707,MD,133
+Montgomery County CoC,MD-601,616,894,563,37,163,763,MD,131
+Montgomery County CoC,MD-601,638,1004,546,35,280,861,MD,143
+Montgomery County CoC,MD-601,603,891,515,36,245,796,MD,95
+Montgomery County CoC,MD-601,601,982,526,31,295,852,MD,130
+Montgomery County CoC,MD-601,598,1100,676,36,285,997,MD,103
+Montgomery County CoC,MD-601,623,981,589,35,261,885,MD,96
+Maine Statewide CoC,ME-500,1348,2726,1107,11,1515,2633,ME,93
+Maine Statewide CoC,ME-500,1352,2280,993,15,1092,2100,ME,180
+Maine Statewide CoC,ME-500,1321,2241,1060,12,1049,2121,ME,120
+Maine Statewide CoC,ME-500,1219,2372,1085,13,1215,2313,ME,59
+Maine Statewide CoC,ME-500,1450,2516,1012,15,1391,2418,ME,98
+Maine Statewide CoC,ME-500,1563,3016,1090,13,1851,2954,ME,62
+Maine Statewide CoC,ME-500,1287,2393,975,12,1373,2360,ME,33
+Michigan Balance of State CoC,MI-500,784,1465,962,0,264,1226,MI,239
+Michigan Balance of State CoC,MI-500,719,1343,860,0,292,1152,MI,191
+Michigan Balance of State CoC,MI-500,939,1745,854,0,669,1523,MI,222
+Michigan Balance of State CoC,MI-500,1078,2253,769,0,967,1736,MI,517
+Michigan Balance of State CoC,MI-500,938,1806,528,0,761,1289,MI,517
+Michigan Balance of State CoC,MI-500,815,1466,818,0,426,1244,MI,222
+Michigan Balance of State CoC,MI-500,832,2255,617,0,1219,1836,MI,419
+Detroit CoC,MI-501,1543,2078,1169,21,668,1858,MI,220
+Detroit CoC,MI-501,1268,1769,1035,40,536,1611,MI,158
+Detroit CoC,MI-501,1694,2335,1182,21,939,2142,MI,193
+Detroit CoC,MI-501,2565,3115,1631,21,1110,2762,MI,353
+Detroit CoC,MI-501,2314,2789,1348,21,1138,2507,MI,282
+Detroit CoC,MI-501,1964,2597,1312,22,1112,2446,MI,151
+Detroit CoC,MI-501,2264,2755,1332,21,1120,2473,MI,282
+"Dearborn, Dearborn Heights, Westland/Wayne County CoC",MI-502,191,456,152,13,269,434,MI,22
+"Dearborn, Dearborn Heights, Westland/Wayne County CoC",MI-502,132,277,144,17,105,266,MI,11
+"Dearborn, Dearborn Heights, Westland/Wayne County CoC",MI-502,78,226,139,7,66,212,MI,14
+"Dearborn, Dearborn Heights, Westland/Wayne County CoC",MI-502,179,476,176,10,271,457,MI,19
+"Dearborn, Dearborn Heights, Westland/Wayne County CoC",MI-502,74,211,142,8,48,198,MI,13
+"Dearborn, Dearborn Heights, Westland/Wayne County CoC",MI-502,151,333,128,11,183,322,MI,11
+"Dearborn, Dearborn Heights, Westland/Wayne County CoC",MI-502,200,380,105,18,235,358,MI,22
+"St. Clair Shores, Warren/Macomb County CoC",MI-503,276,354,218,12,60,290,MI,64
+"St. Clair Shores, Warren/Macomb County CoC",MI-503,491,607,209,0,92,301,MI,306
+"St. Clair Shores, Warren/Macomb County CoC",MI-503,197,270,216,6,20,242,MI,28
+"St. Clair Shores, Warren/Macomb County CoC",MI-503,282,343,246,0,55,301,MI,42
+"St. Clair Shores, Warren/Macomb County CoC",MI-503,430,504,234,0,71,305,MI,199
+"St. Clair Shores, Warren/Macomb County CoC",MI-503,317,403,265,13,76,354,MI,49
+"St. Clair Shores, Warren/Macomb County CoC",MI-503,340,450,215,16,150,381,MI,69
+"Pontiac, Royal Oak/Oakland County CoC",MI-504,477,698,281,0,329,610,MI,88
+"Pontiac, Royal Oak/Oakland County CoC",MI-504,287,457,241,0,141,382,MI,75
+"Pontiac, Royal Oak/Oakland County CoC",MI-504,591,743,247,0,259,506,MI,237
+"Pontiac, Royal Oak/Oakland County CoC",MI-504,293,427,260,0,96,356,MI,71
+"Pontiac, Royal Oak/Oakland County CoC",MI-504,315,485,246,0,143,389,MI,96
+"Pontiac, Royal Oak/Oakland County CoC",MI-504,281,412,258,0,107,365,MI,47
+"Pontiac, Royal Oak/Oakland County CoC",MI-504,272,438,233,0,129,362,MI,76
+Flint/Genesee County CoC,MI-505,224,377,227,0,63,290,MI,87
+Flint/Genesee County CoC,MI-505,472,635,164,0,124,288,MI,347
+Flint/Genesee County CoC,MI-505,269,435,188,0,101,289,MI,146
+Flint/Genesee County CoC,MI-505,255,420,233,0,62,295,MI,125
+Flint/Genesee County CoC,MI-505,285,438,321,0,17,338,MI,100
+Flint/Genesee County CoC,MI-505,241,387,185,0,85,270,MI,117
+Flint/Genesee County CoC,MI-505,338,488,172,0,136,308,MI,180
+"Grand Rapids, Wyoming/Kent County CoC",MI-506,527,800,594,0,165,759,MI,41
+"Grand Rapids, Wyoming/Kent County CoC",MI-506,473,912,408,0,478,886,MI,26
+"Grand Rapids, Wyoming/Kent County CoC",MI-506,614,912,654,0,197,851,MI,61
+"Grand Rapids, Wyoming/Kent County CoC",MI-506,424,793,345,0,415,760,MI,33
+"Grand Rapids, Wyoming/Kent County CoC",MI-506,272,732,260,0,428,688,MI,44
+"Grand Rapids, Wyoming/Kent County CoC",MI-506,449,723,517,0,158,675,MI,48
+"Grand Rapids, Wyoming/Kent County CoC",MI-506,251,712,282,0,400,682,MI,30
+"Portage, Kalamazoo City & County CoC",MI-507,217,568,328,0,232,560,MI,8
+"Portage, Kalamazoo City & County CoC",MI-507,343,567,446,0,68,514,MI,53
+"Portage, Kalamazoo City & County CoC",MI-507,370,681,465,0,206,671,MI,10
+"Portage, Kalamazoo City & County CoC",MI-507,244,479,396,0,55,451,MI,28
+"Portage, Kalamazoo City & County CoC",MI-507,162,374,267,0,99,366,MI,8
+"Portage, Kalamazoo City & County CoC",MI-507,327,642,441,0,170,611,MI,31
+"Portage, Kalamazoo City & County CoC",MI-507,265,729,317,0,391,708,MI,21
+"Lansing, East Lansing/Ingham County CoC",MI-508,271,435,350,0,40,390,MI,45
+"Lansing, East Lansing/Ingham County CoC",MI-508,294,429,361,0,53,414,MI,15
+"Lansing, East Lansing/Ingham County CoC",MI-508,326,423,291,0,66,357,MI,66
+"Lansing, East Lansing/Ingham County CoC",MI-508,303,471,296,0,59,355,MI,116
+"Lansing, East Lansing/Ingham County CoC",MI-508,334,470,298,0,102,400,MI,70
+"Lansing, East Lansing/Ingham County CoC",MI-508,294,419,340,6,34,380,MI,39
+"Lansing, East Lansing/Ingham County CoC",MI-508,293,418,306,0,59,365,MI,53
+Washtenaw County CoC,MI-509,309,372,231,0,61,292,MI,80
+Washtenaw County CoC,MI-509,359,510,241,0,103,344,MI,166
+Washtenaw County CoC,MI-509,263,342,236,0,65,301,MI,41
+Washtenaw County CoC,MI-509,210,282,210,0,45,255,MI,27
+Washtenaw County CoC,MI-509,242,302,213,0,49,262,MI,40
+Washtenaw County CoC,MI-509,216,381,214,0,124,338,MI,43
+Washtenaw County CoC,MI-509,421,545,254,0,125,379,MI,166
+Saginaw City & County CoC,MI-510,153,357,183,6,156,345,MI,12
+Saginaw City & County CoC,MI-510,190,343,197,6,123,326,MI,17
+Saginaw City & County CoC,MI-510,188,388,192,6,175,373,MI,15
+Saginaw City & County CoC,MI-510,190,325,164,6,143,313,MI,12
+Saginaw City & County CoC,MI-510,243,402,151,3,171,325,MI,77
+Saginaw City & County CoC,MI-510,190,308,175,6,108,289,MI,19
+Saginaw City & County CoC,MI-510,175,350,181,5,157,343,MI,7
+Lenawee County CoC,MI-511,43,138,76,0,42,118,MI,20
+Lenawee County CoC,MI-511,44,118,52,0,44,96,MI,22
+Lenawee County CoC,MI-511,51,137,81,0,38,119,MI,18
+Lenawee County CoC,MI-511,55,128,70,0,40,110,MI,18
+Lenawee County CoC,MI-511,59,128,84,0,44,128,MI,0
+Lenawee County CoC,MI-511,48,124,72,0,39,111,MI,13
+Lenawee County CoC,MI-511,54,117,79,0,38,117,MI,0
+"Grand Traverse, Antrim, Leelanau Counties CoC",MI-512,201,396,228,0,113,341,MI,55
+"Grand Traverse, Antrim, Leelanau Counties CoC",MI-512,226,302,214,0,51,265,MI,37
+"Grand Traverse, Antrim, Leelanau Counties CoC",MI-512,174,316,140,0,128,268,MI,48
+"Grand Traverse, Antrim, Leelanau Counties CoC",MI-512,169,235,197,0,15,212,MI,23
+"Grand Traverse, Antrim, Leelanau Counties CoC",MI-512,204,243,182,0,51,233,MI,10
+"Grand Traverse, Antrim, Leelanau Counties CoC",MI-512,167,228,167,0,21,188,MI,40
+"Grand Traverse, Antrim, Leelanau Counties CoC",MI-512,196,328,186,0,103,289,MI,39
+"Marquette, Alger Counties CoC",MI-513,42,79,46,0,31,77,MI,2
+"Marquette, Alger Counties CoC",MI-513,34,84,50,0,31,81,MI,3
+"Marquette, Alger Counties CoC",MI-513,34,70,40,0,21,61,MI,9
+"Marquette, Alger Counties CoC",MI-513,26,70,33,0,35,68,MI,2
+"Marquette, Alger Counties CoC",MI-513,58,74,29,0,40,69,MI,5
+"Marquette, Alger Counties CoC",MI-513,61,80,63,0,13,76,MI,4
+"Marquette, Alger Counties CoC",MI-513,45,80,53,0,22,75,MI,5
+Battle Creek/Calhoun County CoC,MI-514,209,284,123,0,107,230,MI,54
+Battle Creek/Calhoun County CoC,MI-514,172,236,126,6,63,195,MI,41
+Battle Creek/Calhoun County CoC,MI-514,167,216,119,0,41,160,MI,56
+Battle Creek/Calhoun County CoC,MI-514,167,236,103,0,69,172,MI,64
+Battle Creek/Calhoun County CoC,MI-514,152,204,102,0,73,175,MI,29
+Battle Creek/Calhoun County CoC,MI-514,189,285,156,0,70,226,MI,59
+Battle Creek/Calhoun County CoC,MI-514,171,246,158,0,51,209,MI,37
+Monroe City & County CoC,MI-515,147,185,90,0,92,182,MI,3
+Monroe City & County CoC,MI-515,111,139,59,0,77,136,MI,3
+Monroe City & County CoC,MI-515,131,176,98,0,75,173,MI,3
+Monroe City & County CoC,MI-515,135,209,128,0,71,199,MI,10
+Monroe City & County CoC,MI-515,81,113,78,0,31,109,MI,4
+Monroe City & County CoC,MI-515,122,193,122,0,68,190,MI,3
+Monroe City & County CoC,MI-515,129,185,88,0,93,181,MI,4
+"Norton Shores, Muskegon City & County CoC",MI-516,270,644,102,0,134,236,MI,408
+"Norton Shores, Muskegon City & County CoC",MI-516,264,584,96,0,80,176,MI,408
+"Norton Shores, Muskegon City & County CoC",MI-516,300,457,139,0,86,225,MI,232
+"Norton Shores, Muskegon City & County CoC",MI-516,87,135,108,0,17,125,MI,10
+"Norton Shores, Muskegon City & County CoC",MI-516,125,179,133,0,33,166,MI,13
+"Norton Shores, Muskegon City & County CoC",MI-516,104,191,141,0,43,184,MI,7
+"Norton Shores, Muskegon City & County CoC",MI-516,106,159,114,0,11,125,MI,34
+Jackson City & County CoC,MI-517,56,159,71,0,81,152,MI,7
+Jackson City & County CoC,MI-517,92,187,65,0,89,154,MI,33
+Jackson City & County CoC,MI-517,107,256,63,0,137,200,MI,56
+Jackson City & County CoC,MI-517,65,81,72,0,0,72,MI,9
+Jackson City & County CoC,MI-517,108,240,91,0,116,207,MI,33
+Jackson City & County CoC,MI-517,57,169,74,0,88,162,MI,7
+Jackson City & County CoC,MI-517,52,140,57,0,69,126,MI,14
+Livingston County CoC,MI-518,56,103,47,0,44,91,MI,12
+Livingston County CoC,MI-518,61,127,46,0,51,97,MI,30
+Livingston County CoC,MI-518,46,90,34,0,44,78,MI,12
+Livingston County CoC,MI-518,48,103,55,0,46,101,MI,2
+Livingston County CoC,MI-518,39,77,22,0,53,75,MI,2
+Livingston County CoC,MI-518,68,150,23,0,56,79,MI,71
+Livingston County CoC,MI-518,89,135,44,0,61,105,MI,30
+Holland/Ottawa County CoC,MI-519,112,258,103,0,147,250,MI,8
+Holland/Ottawa County CoC,MI-519,124,322,158,0,161,319,MI,3
+Holland/Ottawa County CoC,MI-519,136,285,137,0,142,279,MI,6
+Holland/Ottawa County CoC,MI-519,133,226,139,0,71,210,MI,16
+Holland/Ottawa County CoC,MI-519,134,318,123,0,174,297,MI,21
+Holland/Ottawa County CoC,MI-519,146,387,177,0,202,379,MI,8
+Holland/Ottawa County CoC,MI-519,110,261,117,0,140,257,MI,4
+Eaton County CoC,MI-523,11,107,32,0,69,101,MI,6
+Eaton County CoC,MI-523,11,120,29,0,82,111,MI,9
+Eaton County CoC,MI-523,40,129,47,0,49,96,MI,33
+Eaton County CoC,MI-523,10,126,42,0,69,111,MI,15
+Eaton County CoC,MI-523,11,135,48,0,78,126,MI,9
+Eaton County CoC,MI-523,35,239,56,0,78,134,MI,105
+Eaton County CoC,MI-523,10,122,40,0,77,117,MI,5
+Minneapolis/Hennepin County CoC,MN-500,1480,3285,2094,0,1047,3141,MN,144
+Minneapolis/Hennepin County CoC,MN-500,1643,3731,2510,0,1011,3521,MN,210
+Minneapolis/Hennepin County CoC,MN-500,1395,3057,1657,0,1102,2759,MN,298
+Minneapolis/Hennepin County CoC,MN-500,1511,3215,1733,0,1359,3092,MN,123
+Minneapolis/Hennepin County CoC,MN-500,1465,3056,1657,0,1229,2886,MN,170
+Minneapolis/Hennepin County CoC,MN-500,1623,3591,2449,0,978,3427,MN,164
+Minneapolis/Hennepin County CoC,MN-500,1692,3013,1884,16,709,2609,MN,404
+Saint Paul/Ramsey County CoC,MN-501,725,1500,712,0,720,1432,MN,68
+Saint Paul/Ramsey County CoC,MN-501,738,1398,758,0,556,1314,MN,84
+Saint Paul/Ramsey County CoC,MN-501,678,1417,609,10,727,1346,MN,71
+Saint Paul/Ramsey County CoC,MN-501,905,1438,784,0,488,1272,MN,166
+Saint Paul/Ramsey County CoC,MN-501,661,1218,516,10,581,1107,MN,111
+Saint Paul/Ramsey County CoC,MN-501,802,1346,761,0,449,1210,MN,136
+Saint Paul/Ramsey County CoC,MN-501,886,1424,847,0,448,1295,MN,129
+Rochester/Southeast Minnesota CoC,MN-502,151,379,193,0,166,359,MN,20
+Rochester/Southeast Minnesota CoC,MN-502,122,451,217,0,212,429,MN,22
+Rochester/Southeast Minnesota CoC,MN-502,262,552,167,0,328,495,MN,57
+Rochester/Southeast Minnesota CoC,MN-502,147,423,210,0,199,409,MN,14
+Rochester/Southeast Minnesota CoC,MN-502,115,482,222,0,236,458,MN,24
+Rochester/Southeast Minnesota CoC,MN-502,232,497,193,0,238,431,MN,66
+Rochester/Southeast Minnesota CoC,MN-502,146,452,246,0,179,425,MN,27
+"Dakota, Anoka, Washington, Scott, Carver Counties",MN-503,289,618,251,0,160,411,MN,207
+"Dakota, Anoka, Washington, Scott, Carver Counties",MN-503,345,625,322,0,91,413,MN,212
+"Dakota, Anoka, Washington, Scott, Carver Counties",MN-503,262,735,254,0,383,637,MN,98
+"Dakota, Anoka, Washington, Scott, Carver Counties",MN-503,258,544,323,0,111,434,MN,110
+"Dakota, Anoka, Washington, Scott, Carver Counties",MN-503,213,745,268,0,367,635,MN,110
+"Dakota, Anoka, Washington, Scott, Carver Counties",MN-503,298,608,287,0,141,428,MN,180
+"Dakota, Anoka, Washington, Scott, Carver Counties",MN-503,304,853,260,0,407,667,MN,186
+Northeast Minnesota CoC,MN-504,63,99,21,0,37,58,MN,41
+Northeast Minnesota CoC,MN-504,131,265,12,0,82,94,MN,171
+Northeast Minnesota CoC,MN-504,57,90,24,0,23,47,MN,43
+Northeast Minnesota CoC,MN-504,32,68,9,0,36,45,MN,23
+Northeast Minnesota CoC,MN-504,90,200,9,0,57,66,MN,134
+Northeast Minnesota CoC,MN-504,37,77,17,0,43,60,MN,17
+Northeast Minnesota CoC,MN-504,61,178,25,0,55,80,MN,98
+St. Cloud/Central Minnesota CoC,MN-505,316,547,171,0,236,407,MN,140
+St. Cloud/Central Minnesota CoC,MN-505,340,607,235,0,265,500,MN,107
+St. Cloud/Central Minnesota CoC,MN-505,452,862,260,0,373,633,MN,229
+St. Cloud/Central Minnesota CoC,MN-505,449,657,178,0,282,460,MN,197
+St. Cloud/Central Minnesota CoC,MN-505,349,669,276,0,226,502,MN,167
+St. Cloud/Central Minnesota CoC,MN-505,380,696,297,0,194,491,MN,205
+St. Cloud/Central Minnesota CoC,MN-505,278,584,226,0,253,479,MN,105
+Northwest Minnesota CoC,MN-506,89,299,159,0,121,280,MN,19
+Northwest Minnesota CoC,MN-506,103,288,86,0,199,285,MN,3
+Northwest Minnesota CoC,MN-506,108,253,101,0,148,249,MN,4
+Northwest Minnesota CoC,MN-506,109,274,91,0,175,266,MN,8
+Northwest Minnesota CoC,MN-506,108,301,104,0,146,250,MN,51
+Northwest Minnesota CoC,MN-506,114,254,112,0,127,239,MN,15
+Northwest Minnesota CoC,MN-506,111,290,126,0,162,288,MN,2
+Moorhead/West Central Minnesota CoC,MN-508,112,246,121,0,119,240,MN,6
+Moorhead/West Central Minnesota CoC,MN-508,104,215,125,0,87,212,MN,3
+Moorhead/West Central Minnesota CoC,MN-508,129,254,136,0,88,224,MN,30
+Moorhead/West Central Minnesota CoC,MN-508,132,287,157,0,94,251,MN,36
+Moorhead/West Central Minnesota CoC,MN-508,112,214,145,0,58,203,MN,11
+Moorhead/West Central Minnesota CoC,MN-508,104,211,131,0,68,199,MN,12
+Moorhead/West Central Minnesota CoC,MN-508,114,242,153,0,81,234,MN,8
+Duluth/St.Louis County CoC,MN-509,284,568,152,0,234,386,MN,182
+Duluth/St.Louis County CoC,MN-509,283,490,136,0,187,323,MN,167
+Duluth/St.Louis County CoC,MN-509,205,410,112,0,188,300,MN,110
+Duluth/St.Louis County CoC,MN-509,330,528,207,0,163,370,MN,158
+Duluth/St.Louis County CoC,MN-509,240,429,116,0,189,305,MN,124
+Duluth/St.Louis County CoC,MN-509,261,425,118,0,159,277,MN,148
+Duluth/St.Louis County CoC,MN-509,314,505,137,0,175,312,MN,193
+Southwest Minnesota CoC,MN-511,35,123,64,0,53,117,MN,6
+Southwest Minnesota CoC,MN-511,43,108,60,0,40,100,MN,8
+Southwest Minnesota CoC,MN-511,36,180,52,0,128,180,MN,0
+Southwest Minnesota CoC,MN-511,21,65,29,0,36,65,MN,0
+Southwest Minnesota CoC,MN-511,30,124,62,0,48,110,MN,14
+Southwest Minnesota CoC,MN-511,43,137,26,0,86,112,MN,25
+Southwest Minnesota CoC,MN-511,46,161,33,0,100,133,MN,28
+St. Louis County CoC,MO-500,256,465,269,0,148,417,MO,48
+St. Louis County CoC,MO-500,183,402,164,0,183,347,MO,55
+St. Louis County CoC,MO-500,254,462,211,0,207,418,MO,44
+St. Louis County CoC,MO-500,205,438,203,0,176,379,MO,59
+St. Louis County CoC,MO-500,140,388,155,0,204,359,MO,29
+St. Louis County CoC,MO-500,176,543,138,0,300,438,MO,105
+St. Louis County CoC,MO-500,258,450,198,0,226,424,MO,26
+St.Louis City CoC,MO-501,927,1506,711,19,651,1381,MO,125
+St.Louis City CoC,MO-501,619,949,561,0,291,852,MO,97
+St.Louis City CoC,MO-501,788,1248,567,0,583,1150,MO,98
+St.Louis City CoC,MO-501,821,1336,650,0,544,1194,MO,142
+St.Louis City CoC,MO-501,793,1423,612,18,697,1327,MO,96
+St.Louis City CoC,MO-501,780,1354,641,19,598,1258,MO,96
+St.Louis City CoC,MO-501,558,1312,554,24,622,1200,MO,112
+"St. Charles City & County, Lincoln, Warren Counties CoC",MO-503,299,896,463,0,151,614,MO,282
+"St. Charles City & County, Lincoln, Warren Counties CoC",MO-503,278,532,230,0,140,370,MO,162
+"St. Charles City & County, Lincoln, Warren Counties CoC",MO-503,255,803,399,0,157,556,MO,247
+"St. Charles City & County, Lincoln, Warren Counties CoC",MO-503,306,578,235,0,116,351,MO,227
+"St. Charles City & County, Lincoln, Warren Counties CoC",MO-503,251,1023,285,0,259,544,MO,479
+"St. Charles City & County, Lincoln, Warren Counties CoC",MO-503,387,940,392,0,184,576,MO,364
+"St. Charles City & County, Lincoln, Warren Counties CoC",MO-503,288,610,228,0,152,380,MO,230
+"Springfield/Greene, Christian, Webster Counties CoC",MO-600,314,479,240,0,42,282,MO,197
+"Springfield/Greene, Christian, Webster Counties CoC",MO-600,335,455,218,0,37,255,MO,200
+"Springfield/Greene, Christian, Webster Counties CoC",MO-600,349,711,169,0,360,529,MO,182
+"Springfield/Greene, Christian, Webster Counties CoC",MO-600,408,662,160,0,334,494,MO,168
+"Springfield/Greene, Christian, Webster Counties CoC",MO-600,454,656,249,0,323,572,MO,84
+"Springfield/Greene, Christian, Webster Counties CoC",MO-600,339,584,313,0,96,409,MO,175
+"Springfield/Greene, Christian, Webster Counties CoC",MO-600,301,496,201,0,83,284,MO,212
+"Joplin/Jasper, Newton Counties CoC",MO-602,173,315,120,0,161,281,MO,34
+"Joplin/Jasper, Newton Counties CoC",MO-602,353,574,261,0,278,539,MO,35
+"Joplin/Jasper, Newton Counties CoC",MO-602,227,275,155,0,65,220,MO,55
+"Joplin/Jasper, Newton Counties CoC",MO-602,442,1724,1411,0,255,1666,MO,58
+"Joplin/Jasper, Newton Counties CoC",MO-602,215,297,128,0,110,238,MO,59
+"Joplin/Jasper, Newton Counties CoC",MO-602,160,258,108,0,130,238,MO,20
+"Joplin/Jasper, Newton Counties CoC",MO-602,195,270,165,0,64,229,MO,41
+"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",MO-603,118,210,115,18,59,192,MO,18
+"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",MO-603,123,186,114,17,46,177,MO,9
+"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",MO-603,107,164,88,18,50,156,MO,8
+"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",MO-603,115,200,113,18,63,194,MO,6
+"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",MO-603,119,186,126,17,28,171,MO,15
+"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",MO-603,108,195,105,17,63,185,MO,10
+"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",MO-603,103,204,104,17,53,174,MO,30
+"Kansas City, Independence, Lee’s Summit/Jackson, Wyandotte Counties, MO & KS",MO-604a,1453,2705,1033,9,834,1876,MO,829
+"Kansas City, Independence, Lee’s Summit/Jackson, Wyandotte Counties, MO & KS",MO-604a,1066,1686,949,9,572,1530,MO,156
+"Kansas City, Independence, Lee’s Summit/Jackson, Wyandotte Counties, MO & KS",MO-604a,1486,2691,801,8,957,1766,MO,925
+"Kansas City, Independence, Lee’s Summit/Jackson, Wyandotte Counties, MO & KS",MO-604a,1170,1699,839,14,612,1465,MO,234
+"Kansas City, Independence, Lee’s Summit/Jackson, Wyandotte Counties, MO & KS",MO-604a,1127,1671,896,7,539,1442,MO,229
+"Kansas City, Independence, Lee’s Summit/Jackson, Wyandotte Counties, MO & KS",MO-604a,1200,1798,1026,13,435,1474,MO,324
+"Kansas City, Independence, Lee’s Summit/Jackson, Wyandotte Counties, MO & KS",MO-604a,1614,2193,966,11,941,1918,MO,275
+Missouri Balance of State CoC,MO-606,1223,2114,839,8,622,1469,MO,645
+Missouri Balance of State CoC,MO-606,751,1244,720,8,224,952,MO,292
+Missouri Balance of State CoC,MO-606,874,1477,819,8,321,1148,MO,329
+Missouri Balance of State CoC,MO-606,832,1528,853,8,480,1341,MO,187
+Missouri Balance of State CoC,MO-606,1202,2030,912,8,552,1472,MO,558
+Missouri Balance of State CoC,MO-606,872,1345,777,8,198,983,MO,362
+Missouri Balance of State CoC,MO-606,837,1431,758,7,291,1056,MO,375
+Northern Mariana Islands CoC,MP-500,208,672,24,0,0,24,MP,648
+Northern Mariana Islands CoC,MP-500,357,1044,22,0,0,22,MP,1022
+"Jackson/Rankin, Madison Counties CoC",MS-500,362,446,114,0,195,309,MS,137
+"Jackson/Rankin, Madison Counties CoC",MS-500,566,633,218,0,79,297,MS,336
+"Jackson/Rankin, Madison Counties CoC",MS-500,450,511,85,0,146,231,MS,280
+"Jackson/Rankin, Madison Counties CoC",MS-500,883,1037,85,0,295,380,MS,657
+"Jackson/Rankin, Madison Counties CoC",MS-500,624,762,163,0,263,426,MS,336
+"Jackson/Rankin, Madison Counties CoC",MS-500,689,846,232,0,279,511,MS,335
+"Jackson/Rankin, Madison Counties CoC",MS-500,641,760,136,0,184,320,MS,440
+Mississippi Balance of State CoC,MS-501,646,1018,328,0,251,579,MS,439
+Mississippi Balance of State CoC,MS-501,684,954,343,0,357,700,MS,254
+Mississippi Balance of State CoC,MS-501,484,785,257,0,222,479,MS,306
+Mississippi Balance of State CoC,MS-501,404,560,223,0,74,297,MS,263
+Mississippi Balance of State CoC,MS-501,465,697,299,0,152,451,MS,246
+Mississippi Balance of State CoC,MS-501,707,1052,345,0,347,692,MS,360
+Mississippi Balance of State CoC,MS-501,508,809,244,0,322,566,MS,243
+Gulf Port/Gulf Coast Regional CoC,MS-503,258,346,67,0,58,125,MS,221
+Gulf Port/Gulf Coast Regional CoC,MS-503,265,358,73,0,10,83,MS,275
+Gulf Port/Gulf Coast Regional CoC,MS-503,341,426,157,0,37,194,MS,232
+Gulf Port/Gulf Coast Regional CoC,MS-503,185,264,37,0,34,71,MS,193
+Gulf Port/Gulf Coast Regional CoC,MS-503,343,412,116,0,33,149,MS,263
+Gulf Port/Gulf Coast Regional CoC,MS-503,249,320,49,0,64,113,MS,207
+Gulf Port/Gulf Coast Regional CoC,MS-503,405,591,20,0,51,71,MS,520
+Montana Statewide CoC,MT-500,1166,1833,716,0,437,1153,MT,680
+Montana Statewide CoC,MT-500,1211,1878,706,0,388,1094,MT,784
+Montana Statewide CoC,MT-500,1167,1745,471,0,440,911,MT,834
+Montana Statewide CoC,MT-500,844,1418,481,0,307,788,MT,630
+Montana Statewide CoC,MT-500,1127,1709,535,0,302,837,MT,872
+Montana Statewide CoC,MT-500,983,1405,793,0,239,1032,MT,373
+Montana Statewide CoC,MT-500,987,1529,748,0,237,985,MT,544
+Winston-Salem/Forsyth County CoC,NC-500,400,544,413,0,93,506,NC,38
+Winston-Salem/Forsyth County CoC,NC-500,351,453,353,0,75,428,NC,25
+Winston-Salem/Forsyth County CoC,NC-500,351,440,341,0,66,407,NC,33
+Winston-Salem/Forsyth County CoC,NC-500,418,571,456,0,93,549,NC,22
+Winston-Salem/Forsyth County CoC,NC-500,422,556,277,0,159,436,NC,120
+Winston-Salem/Forsyth County CoC,NC-500,414,515,414,0,82,496,NC,19
+Winston-Salem/Forsyth County CoC,NC-500,293,394,271,0,110,381,NC,13
+Asheville/Buncombe County CoC,NC-501,510,562,273,0,215,488,NC,74
+Asheville/Buncombe County CoC,NC-501,472,509,229,0,208,437,NC,72
+Asheville/Buncombe County CoC,NC-501,478,570,247,0,266,513,NC,57
+Asheville/Buncombe County CoC,NC-501,478,530,237,0,228,465,NC,65
+Asheville/Buncombe County CoC,NC-501,505,562,235,0,222,457,NC,105
+Asheville/Buncombe County CoC,NC-501,466,560,205,0,273,478,NC,82
+Asheville/Buncombe County CoC,NC-501,515,554,281,0,216,497,NC,57
+Durham City & County CoC,NC-502,237,354,216,0,106,322,NC,32
+Durham City & County CoC,NC-502,572,753,284,0,416,700,NC,53
+Durham City & County CoC,NC-502,572,698,298,0,337,635,NC,63
+Durham City & County CoC,NC-502,254,354,240,0,54,294,NC,60
+Durham City & County CoC,NC-502,656,813,434,0,335,769,NC,44
+Durham City & County CoC,NC-502,246,338,240,0,45,285,NC,53
+Durham City & County CoC,NC-502,635,811,337,0,421,758,NC,53
+North Carolina Balance of State CoC,NC-503,1723,2922,1370,0,896,2266,NC,656
+North Carolina Balance of State CoC,NC-503,2074,2991,1680,0,343,2023,NC,968
+North Carolina Balance of State CoC,NC-503,1911,3054,1682,0,420,2102,NC,952
+North Carolina Balance of State CoC,NC-503,1851,2963,1682,0,446,2128,NC,835
+North Carolina Balance of State CoC,NC-503,2123,3625,1677,0,790,2467,NC,1158
+North Carolina Balance of State CoC,NC-503,1922,3021,1827,0,534,2361,NC,660
+North Carolina Balance of State CoC,NC-503,2027,3195,1813,0,695,2508,NC,687
+"Greensboro, High Point CoC",NC-504,422,573,392,0,77,469,NC,104
+"Greensboro, High Point CoC",NC-504,544,721,441,0,196,637,NC,84
+"Greensboro, High Point CoC",NC-504,680,990,467,0,368,835,NC,155
+"Greensboro, High Point CoC",NC-504,480,657,460,0,85,545,NC,112
+"Greensboro, High Point CoC",NC-504,651,949,441,0,340,781,NC,168
+"Greensboro, High Point CoC",NC-504,512,665,342,0,209,551,NC,114
+"Greensboro, High Point CoC",NC-504,617,897,452,0,346,798,NC,99
+Charlotte/Mecklenberg CoC,NC-505,1526,2567,971,0,1295,2266,NC,301
+Charlotte/Mecklenberg CoC,NC-505,1016,1476,991,0,270,1261,NC,215
+Charlotte/Mecklenberg CoC,NC-505,1243,2001,1183,0,638,1821,NC,180
+Charlotte/Mecklenberg CoC,NC-505,1194,2014,1045,0,805,1850,NC,164
+Charlotte/Mecklenberg CoC,NC-505,1133,1668,1151,0,308,1459,NC,209
+Charlotte/Mecklenberg CoC,NC-505,1296,2418,952,0,1183,2135,NC,283
+Charlotte/Mecklenberg CoC,NC-505,1168,1818,1149,0,482,1631,NC,187
+"Wilmington/Brunswick, New Hanover, Pender Counties CoC",NC-506,260,348,200,0,45,245,NC,103
+"Wilmington/Brunswick, New Hanover, Pender Counties CoC",NC-506,299,390,198,0,71,269,NC,121
+"Wilmington/Brunswick, New Hanover, Pender Counties CoC",NC-506,290,389,173,0,88,261,NC,128
+"Wilmington/Brunswick, New Hanover, Pender Counties CoC",NC-506,347,469,219,0,97,316,NC,153
+"Wilmington/Brunswick, New Hanover, Pender Counties CoC",NC-506,262,321,163,0,71,234,NC,87
+"Wilmington/Brunswick, New Hanover, Pender Counties CoC",NC-506,271,333,135,0,71,206,NC,127
+"Wilmington/Brunswick, New Hanover, Pender Counties CoC",NC-506,256,322,138,0,97,235,NC,87
+Raleigh/Wake County CoC,NC-507,819,1170,718,0,328,1046,NC,124
+Raleigh/Wake County CoC,NC-507,843,1116,514,0,414,928,NC,188
+Raleigh/Wake County CoC,NC-507,665,983,604,0,187,791,NC,192
+Raleigh/Wake County CoC,NC-507,817,1098,739,0,263,1002,NC,96
+Raleigh/Wake County CoC,NC-507,569,818,535,0,145,680,NC,138
+Raleigh/Wake County CoC,NC-507,616,904,533,0,223,756,NC,148
+Raleigh/Wake County CoC,NC-507,587,884,547,0,149,696,NC,188
+"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",NC-509,311,423,183,0,49,232,NC,191
+"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",NC-509,574,611,56,13,60,129,NC,482
+"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",NC-509,215,281,200,0,44,244,NC,37
+"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",NC-509,316,384,200,0,74,274,NC,110
+"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",NC-509,238,328,193,0,50,243,NC,85
+"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",NC-509,248,331,162,0,43,205,NC,126
+"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",NC-509,164,249,127,0,44,171,NC,78
+Fayetteville/Cumberland County CoC,NC-511,447,593,56,0,171,227,NC,366
+Fayetteville/Cumberland County CoC,NC-511,279,442,54,0,135,189,NC,253
+Fayetteville/Cumberland County CoC,NC-511,397,653,104,0,164,268,NC,385
+Fayetteville/Cumberland County CoC,NC-511,341,515,80,0,144,224,NC,291
+Fayetteville/Cumberland County CoC,NC-511,889,1606,105,0,201,306,NC,1300
+Fayetteville/Cumberland County CoC,NC-511,343,631,99,0,188,287,NC,344
+Fayetteville/Cumberland County CoC,NC-511,142,372,65,0,82,147,NC,225
+Chapel Hill/Orange County CoC,NC-513,97,123,67,0,26,93,NC,30
+Chapel Hill/Orange County CoC,NC-513,120,152,59,0,54,113,NC,39
+Chapel Hill/Orange County CoC,NC-513,100,127,41,0,49,90,NC,37
+Chapel Hill/Orange County CoC,NC-513,82,108,73,0,26,99,NC,9
+Chapel Hill/Orange County CoC,NC-513,88,110,60,0,22,82,NC,28
+Chapel Hill/Orange County CoC,NC-513,70,80,21,0,44,65,NC,15
+Chapel Hill/Orange County CoC,NC-513,101,129,81,0,28,109,NC,20
+Northwest North Carolina CoC,NC-516,284,875,104,0,31,135,NC,740
+Northwest North Carolina CoC,NC-516,216,520,83,0,33,116,NC,404
+Northwest North Carolina CoC,NC-516,206,449,111,0,29,140,NC,309
+Northwest North Carolina CoC,NC-516,262,854,92,0,28,120,NC,734
+Northwest North Carolina CoC,NC-516,350,1319,99,0,33,132,NC,1187
+Northwest North Carolina CoC,NC-516,217,755,89,0,27,116,NC,639
+Northwest North Carolina CoC,NC-516,199,466,93,0,26,119,NC,347
+North Dakota Statewide CoC,ND-500,864,1305,640,0,179,819,ND,486
+North Dakota Statewide CoC,ND-500,662,923,535,0,172,707,ND,216
+North Dakota Statewide CoC,ND-500,1230,2069,540,0,134,674,ND,1395
+North Dakota Statewide CoC,ND-500,485,688,474,0,161,635,ND,53
+North Dakota Statewide CoC,ND-500,832,1089,584,0,174,758,ND,331
+North Dakota Statewide CoC,ND-500,886,1258,639,0,155,794,ND,464
+North Dakota Statewide CoC,ND-500,467,542,339,0,155,494,ND,48
+Nebraska Balance of State CoC,NE-500,269,560,203,0,320,523,NE,37
+Nebraska Balance of State CoC,NE-500,209,549,182,0,343,525,NE,24
+Nebraska Balance of State CoC,NE-500,282,713,243,0,417,660,NE,53
+Nebraska Balance of State CoC,NE-500,466,1278,208,0,385,593,NE,685
+Nebraska Balance of State CoC,NE-500,284,551,185,0,354,539,NE,12
+Nebraska Balance of State CoC,NE-500,327,559,377,0,147,524,NE,35
+Nebraska Balance of State CoC,NE-500,276,506,300,0,192,492,NE,14
+"Omaha, Council Bluffs CoC",NE-501,1038,1481,1047,0,390,1437,NE,44
+"Omaha, Council Bluffs CoC",NE-501,1085,1530,1029,0,479,1508,NE,22
+"Omaha, Council Bluffs CoC",NE-501,1113,1630,1041,0,563,1604,NE,26
+"Omaha, Council Bluffs CoC",NE-501,1122,1411,1015,0,332,1347,NE,64
+"Omaha, Council Bluffs CoC",NE-501,1110,1509,983,0,469,1452,NE,57
+"Omaha, Council Bluffs CoC",NE-501,1037,1389,972,0,360,1332,NE,57
+"Omaha, Council Bluffs CoC",NE-501,1011,1476,940,0,519,1459,NE,17
+Lincoln CoC,NE-502,599,956,349,0,504,853,NE,103
+Lincoln CoC,NE-502,511,836,340,0,450,790,NE,46
+Lincoln CoC,NE-502,664,981,344,0,512,856,NE,125
+Lincoln CoC,NE-502,296,451,344,0,62,406,NE,45
+Lincoln CoC,NE-502,473,714,264,0,395,659,NE,55
+Lincoln CoC,NE-502,385,606,336,0,221,557,NE,49
+Lincoln CoC,NE-502,486,694,316,0,346,662,NE,32
+New Hampshire Balance of State CoC,NH-500,443,670,431,0,163,594,NH,76
+New Hampshire Balance of State CoC,NH-500,424,767,503,0,154,657,NH,110
+New Hampshire Balance of State CoC,NH-500,467,742,520,0,100,620,NH,122
+New Hampshire Balance of State CoC,NH-500,401,759,430,0,217,647,NH,112
+New Hampshire Balance of State CoC,NH-500,390,718,489,0,153,642,NH,76
+New Hampshire Balance of State CoC,NH-500,401,761,506,0,189,695,NH,66
+New Hampshire Balance of State CoC,NH-500,361,689,459,0,168,627,NH,62
+Manchester CoC,NH-501,249,407,146,4,198,348,NH,59
+Manchester CoC,NH-501,192,394,154,4,184,342,NH,52
+Manchester CoC,NH-501,226,399,158,4,177,339,NH,60
+Manchester CoC,NH-501,228,382,152,4,148,304,NH,78
+Manchester CoC,NH-501,202,400,122,4,220,346,NH,54
+Manchester CoC,NH-501,208,400,141,3,208,352,NH,48
+Manchester CoC,NH-501,204,427,194,3,204,401,NH,26
+Nashua/Hillsborough County CoC,NH-502,180,327,140,5,174,319,NH,8
+Nashua/Hillsborough County CoC,NH-502,164,281,98,5,172,275,NH,6
+Nashua/Hillsborough County CoC,NH-502,205,336,105,1,189,295,NH,41
+Nashua/Hillsborough County CoC,NH-502,185,280,105,3,160,268,NH,12
+Nashua/Hillsborough County CoC,NH-502,169,306,103,5,186,294,NH,12
+Nashua/Hillsborough County CoC,NH-502,160,295,107,5,171,283,NH,12
+Nashua/Hillsborough County CoC,NH-502,182,296,100,4,179,283,NH,13
+Atlantic City & County CoC,NJ-500,459,631,556,0,6,562,NJ,69
+Atlantic City & County CoC,NJ-500,401,437,240,0,66,306,NJ,131
+Atlantic City & County CoC,NJ-500,382,422,275,0,38,313,NJ,109
+Atlantic City & County CoC,NJ-500,440,476,323,0,37,360,NJ,116
+Atlantic City & County CoC,NJ-500,439,548,440,0,34,474,NJ,74
+Atlantic City & County CoC,NJ-500,494,544,469,0,7,476,NJ,68
+Atlantic City & County CoC,NJ-500,488,746,674,0,12,686,NJ,60
+Bergen County CoC,NJ-501,185,296,148,0,137,285,NJ,11
+Bergen County CoC,NJ-501,209,346,198,0,130,328,NJ,18
+Bergen County CoC,NJ-501,223,354,143,0,188,331,NJ,23
+Bergen County CoC,NJ-501,224,340,172,0,135,307,NJ,33
+Bergen County CoC,NJ-501,218,371,162,0,176,338,NJ,33
+Bergen County CoC,NJ-501,284,454,228,0,194,422,NJ,32
+Bergen County CoC,NJ-501,182,302,118,0,179,297,NJ,5
+Burlington County CoC,NJ-502,300,671,600,0,29,629,NJ,42
+Burlington County CoC,NJ-502,520,1020,984,0,15,999,NJ,21
+Burlington County CoC,NJ-502,659,1347,1260,0,79,1339,NJ,8
+Burlington County CoC,NJ-502,471,926,845,0,68,913,NJ,13
+Burlington County CoC,NJ-502,330,604,508,0,52,560,NJ,44
+Burlington County CoC,NJ-502,457,840,683,0,101,784,NJ,56
+Burlington County CoC,NJ-502,407,823,773,0,21,794,NJ,29
+"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",NJ-503,714,1291,850,0,248,1098,NJ,193
+"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",NJ-503,672,1215,936,0,115,1051,NJ,164
+"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",NJ-503,733,1068,631,0,198,829,NJ,239
+"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",NJ-503,629,938,621,0,190,811,NJ,127
+"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",NJ-503,762,1089,684,0,270,954,NJ,135
+"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",NJ-503,972,1695,1306,31,256,1593,NJ,102
+"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",NJ-503,705,999,631,0,223,854,NJ,145
+Newark/Essex County CoC,NJ-504,1082,1610,924,0,524,1448,NJ,162
+Newark/Essex County CoC,NJ-504,888,1646,1073,0,409,1482,NJ,164
+Newark/Essex County CoC,NJ-504,941,1504,924,0,411,1335,NJ,169
+Newark/Essex County CoC,NJ-504,1253,2048,1135,0,485,1620,NJ,428
+Newark/Essex County CoC,NJ-504,1171,1779,877,0,459,1336,NJ,443
+Newark/Essex County CoC,NJ-504,923,1483,879,6,375,1260,NJ,223
+Newark/Essex County CoC,NJ-504,1367,2228,1337,0,495,1832,NJ,396
+"Jersey City, Bayonne/Hudson County CoC",NJ-506,584,829,485,0,118,603,NJ,226
+"Jersey City, Bayonne/Hudson County CoC",NJ-506,668,822,608,0,30,638,NJ,184
+"Jersey City, Bayonne/Hudson County CoC",NJ-506,624,942,455,0,202,657,NJ,285
+"Jersey City, Bayonne/Hudson County CoC",NJ-506,750,2087,1578,0,215,1793,NJ,294
+"Jersey City, Bayonne/Hudson County CoC",NJ-506,672,860,588,0,29,617,NJ,243
+"Jersey City, Bayonne/Hudson County CoC",NJ-506,535,821,488,0,167,655,NJ,166
+"Jersey City, Bayonne/Hudson County CoC",NJ-506,632,917,554,0,194,748,NJ,169
+New Brunswick/Middlesex County CoC,NJ-507,394,802,532,0,168,700,NJ,102
+New Brunswick/Middlesex County CoC,NJ-507,229,457,295,0,78,373,NJ,84
+New Brunswick/Middlesex County CoC,NJ-507,355,597,441,0,25,466,NJ,131
+New Brunswick/Middlesex County CoC,NJ-507,318,546,383,0,38,421,NJ,125
+New Brunswick/Middlesex County CoC,NJ-507,525,1145,604,0,229,833,NJ,312
+New Brunswick/Middlesex County CoC,NJ-507,343,604,403,0,125,528,NJ,76
+New Brunswick/Middlesex County CoC,NJ-507,456,1031,559,0,229,788,NJ,243
+Monmouth County CoC,NJ-508,364,918,688,0,194,882,NJ,36
+Monmouth County CoC,NJ-508,144,299,124,0,131,255,NJ,44
+Monmouth County CoC,NJ-508,210,456,280,0,140,420,NJ,36
+Monmouth County CoC,NJ-508,272,650,330,0,265,595,NJ,55
+Monmouth County CoC,NJ-508,187,335,129,0,134,263,NJ,72
+Monmouth County CoC,NJ-508,209,588,392,0,184,576,NJ,12
+Monmouth County CoC,NJ-508,187,344,170,0,129,299,NJ,45
+Morris County CoC,NJ-509,179,281,113,19,77,209,NJ,72
+Morris County CoC,NJ-509,223,378,206,22,123,351,NJ,27
+Morris County CoC,NJ-509,201,346,178,19,102,299,NJ,47
+Morris County CoC,NJ-509,245,410,223,20,133,376,NJ,34
+Morris County CoC,NJ-509,263,389,203,18,138,359,NJ,30
+Morris County CoC,NJ-509,232,384,195,19,136,350,NJ,34
+Morris County CoC,NJ-509,249,398,221,19,123,363,NJ,35
+Lakewood Township/Ocean County CoC,NJ-510,449,649,581,0,17,598,NJ,51
+Lakewood Township/Ocean County CoC,NJ-510,246,605,561,0,27,588,NJ,17
+Lakewood Township/Ocean County CoC,NJ-510,119,224,122,0,59,181,NJ,43
+Lakewood Township/Ocean County CoC,NJ-510,174,429,306,0,69,375,NJ,54
+Lakewood Township/Ocean County CoC,NJ-510,369,682,572,0,17,589,NJ,93
+Lakewood Township/Ocean County CoC,NJ-510,334,627,523,0,46,569,NJ,58
+Lakewood Township/Ocean County CoC,NJ-510,193,354,201,0,51,252,NJ,102
+Paterson/Passaic County CoC,NJ-511,187,376,304,0,68,372,NJ,4
+Paterson/Passaic County CoC,NJ-511,241,459,403,0,26,429,NJ,30
+Paterson/Passaic County CoC,NJ-511,249,449,327,0,33,360,NJ,89
+Paterson/Passaic County CoC,NJ-511,191,432,371,0,25,396,NJ,36
+Paterson/Passaic County CoC,NJ-511,200,440,329,0,57,386,NJ,54
+Paterson/Passaic County CoC,NJ-511,284,434,296,0,26,322,NJ,112
+Paterson/Passaic County CoC,NJ-511,256,518,396,0,22,418,NJ,100
+Salem County CoC,NJ-512,18,38,15,0,22,37,NJ,1
+Salem County CoC,NJ-512,21,42,20,0,18,38,NJ,4
+Salem County CoC,NJ-512,8,16,4,0,9,13,NJ,3
+Salem County CoC,NJ-512,27,78,18,0,31,49,NJ,29
+Salem County CoC,NJ-512,21,44,17,0,23,40,NJ,4
+Salem County CoC,NJ-512,14,49,31,0,13,44,NJ,5
+Somerset County CoC,NJ-513,152,218,63,0,149,212,NJ,6
+Somerset County CoC,NJ-513,221,323,167,0,143,310,NJ,13
+Somerset County CoC,NJ-513,176,244,66,0,173,239,NJ,5
+Somerset County CoC,NJ-513,177,295,100,0,172,272,NJ,23
+Somerset County CoC,NJ-513,197,312,188,0,116,304,NJ,8
+Somerset County CoC,NJ-513,167,218,54,0,155,209,NJ,9
+Somerset County CoC,NJ-513,247,342,164,0,173,337,NJ,5
+Trenton/Mercer County CoC,NJ-514,334,465,309,0,112,421,NJ,44
+Trenton/Mercer County CoC,NJ-514,356,478,305,0,89,394,NJ,84
+Trenton/Mercer County CoC,NJ-514,551,1009,471,0,432,903,NJ,106
+Trenton/Mercer County CoC,NJ-514,431,632,393,0,201,594,NJ,38
+Trenton/Mercer County CoC,NJ-514,438,600,351,0,144,495,NJ,105
+Trenton/Mercer County CoC,NJ-514,337,479,319,0,97,416,NJ,63
+Trenton/Mercer County CoC,NJ-514,380,668,338,0,263,601,NJ,67
+Elizabeth/Union County CoC,NJ-515,245,504,290,3,128,421,NJ,83
+Elizabeth/Union County CoC,NJ-515,517,1679,665,0,966,1631,NJ,48
+Elizabeth/Union County CoC,NJ-515,526,1648,336,0,1265,1601,NJ,47
+Elizabeth/Union County CoC,NJ-515,512,1456,354,0,1052,1406,NJ,50
+Elizabeth/Union County CoC,NJ-515,205,480,294,0,131,425,NJ,55
+Elizabeth/Union County CoC,NJ-515,247,513,327,0,124,451,NJ,62
+Elizabeth/Union County CoC,NJ-515,209,478,313,0,124,437,NJ,41
+"Warren, Sussex, Hunterdon Counties CoC",NJ-516,142,230,168,0,21,189,NJ,41
+"Warren, Sussex, Hunterdon Counties CoC",NJ-516,156,271,169,0,64,233,NJ,38
+"Warren, Sussex, Hunterdon Counties CoC",NJ-516,243,338,169,0,107,276,NJ,62
+"Warren, Sussex, Hunterdon Counties CoC",NJ-516,191,286,168,0,76,244,NJ,42
+"Warren, Sussex, Hunterdon Counties CoC",NJ-516,207,279,205,0,61,266,NJ,13
+"Warren, Sussex, Hunterdon Counties CoC",NJ-516,182,253,150,0,85,235,NJ,18
+"Warren, Sussex, Hunterdon Counties CoC",NJ-516,171,255,181,0,68,249,NJ,6
+Albuquerque CoC,NM-500,868,1254,614,0,496,1110,NM,144
+Albuquerque CoC,NM-500,1004,1431,621,0,423,1044,NM,387
+Albuquerque CoC,NM-500,1115,1340,711,0,245,956,NM,384
+Albuquerque CoC,NM-500,879,1287,659,0,445,1104,NM,183
+Albuquerque CoC,NM-500,817,1171,619,0,408,1027,NM,144
+Albuquerque CoC,NM-500,867,1222,674,0,365,1039,NM,183
+Albuquerque CoC,NM-500,1104,1318,706,0,228,934,NM,384
+New Mexico Balance of State CoC,NM-501,834,1211,657,0,142,799,NM,412
+New Mexico Balance of State CoC,NM-501,689,1041,567,0,203,770,NM,271
+New Mexico Balance of State CoC,NM-501,1132,1814,759,0,594,1353,NM,461
+New Mexico Balance of State CoC,NM-501,936,1492,795,0,413,1208,NM,284
+New Mexico Balance of State CoC,NM-501,761,1164,548,0,204,752,NM,412
+New Mexico Balance of State CoC,NM-501,787,1342,728,0,343,1071,NM,271
+New Mexico Balance of State CoC,NM-501,969,1648,876,0,488,1364,NM,284
+Las Vegas/Clark County CoC,NV-500,5349,5952,2047,20,853,2920,NV,3032
+Las Vegas/Clark County CoC,NV-500,5851,6208,1810,25,642,2477,NV,3731
+Las Vegas/Clark County CoC,NV-500,6878,7509,2719,15,859,3593,NV,3916
+Las Vegas/Clark County CoC,NV-500,6581,7323,2013,25,1044,3082,NV,4241
+Las Vegas/Clark County CoC,NV-500,5786,6083,1659,16,524,2199,NV,3884
+Las Vegas/Clark County CoC,NV-500,6190,6490,1635,20,482,2137,NV,4353
+Las Vegas/Clark County CoC,NV-500,6352,7443,3145,10,794,3949,NV,3494
+"Reno, Sparks/Washoe County CoC",NV-501,700,769,349,0,323,672,NV,97
+"Reno, Sparks/Washoe County CoC",NV-501,589,746,380,0,277,657,NV,89
+"Reno, Sparks/Washoe County CoC",NV-501,749,869,407,0,298,705,NV,164
+"Reno, Sparks/Washoe County CoC",NV-501,738,907,454,0,340,794,NV,113
+"Reno, Sparks/Washoe County CoC",NV-501,1051,1192,436,185,387,1008,NV,184
+"Reno, Sparks/Washoe County CoC",NV-501,877,989,452,0,417,869,NV,120
+"Reno, Sparks/Washoe County CoC",NV-501,911,1106,550,0,476,1026,NV,80
+Nevada Balance of State CoC,NV-502,221,269,88,0,10,98,NV,171
+Nevada Balance of State CoC,NV-502,180,237,85,0,7,92,NV,145
+Nevada Balance of State CoC,NV-502,125,201,66,0,59,125,NV,76
+Nevada Balance of State CoC,NV-502,304,370,88,0,88,176,NV,194
+Nevada Balance of State CoC,NV-502,242,327,78,0,63,141,NV,186
+Nevada Balance of State CoC,NV-502,262,341,69,0,52,121,NV,220
+Nevada Balance of State CoC,NV-502,163,305,83,0,100,183,NV,122
+"Rochester, Irondequoit, Greece/Monroe County CoC",NY-500,441,1007,544,16,323,883,NY,124
+"Rochester, Irondequoit, Greece/Monroe County CoC",NY-500,541,860,576,13,202,791,NY,69
+"Rochester, Irondequoit, Greece/Monroe County CoC",NY-500,543,835,636,13,130,779,NY,56
+"Rochester, Irondequoit, Greece/Monroe County CoC",NY-500,510,817,613,11,128,752,NY,65
+"Rochester, Irondequoit, Greece/Monroe County CoC",NY-500,494,838,515,14,258,787,NY,51
+"Rochester, Irondequoit, Greece/Monroe County CoC",NY-500,406,762,499,13,215,727,NY,35
+"Rochester, Irondequoit, Greece/Monroe County CoC",NY-500,377,699,471,11,217,699,NY,0
+"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC",NY-501,330,506,148,0,232,380,NY,126
+"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC",NY-501,378,512,74,0,291,365,NY,147
+"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC",NY-501,353,648,25,0,452,477,NY,171
+"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC",NY-501,270,349,95,0,212,307,NY,42
+"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC",NY-501,119,233,155,0,64,219,NY,14
+"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC",NY-501,220,305,96,0,190,286,NY,19
+"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC",NY-501,120,226,112,0,77,189,NY,37
+Albany City & County CoC,NY-503,372,590,430,0,132,562,NY,28
+Albany City & County CoC,NY-503,459,597,450,0,127,577,NY,20
+Albany City & County CoC,NY-503,515,802,644,0,133,777,NY,25
+Albany City & County CoC,NY-503,468,748,594,0,128,722,NY,26
+Albany City & County CoC,NY-503,444,728,557,0,152,709,NY,19
+Albany City & County CoC,NY-503,439,650,470,0,151,621,NY,29
+Albany City & County CoC,NY-503,580,835,657,0,143,800,NY,35
+Cattaragus County CoC,NY-504,12,33,16,0,15,31,NY,2
+Cattaragus County CoC,NY-504,18,41,24,0,17,41,NY,0
+Cattaragus County CoC,NY-504,24,34,34,0,0,34,NY,0
+Cattaragus County CoC,NY-504,20,27,27,0,0,27,NY,0
+Cattaragus County CoC,NY-504,13,47,28,0,17,45,NY,2
+Cattaragus County CoC,NY-504,21,33,33,0,0,33,NY,0
+Cattaragus County CoC,NY-504,11,38,24,0,13,37,NY,1
+"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",NY-505,653,882,480,0,386,866,NY,16
+"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",NY-505,605,867,563,0,277,840,NY,27
+"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",NY-505,540,722,547,0,163,710,NY,12
+"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",NY-505,773,1024,601,0,407,1008,NY,16
+"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",NY-505,750,994,539,0,402,941,NY,53
+"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",NY-505,650,922,644,0,262,906,NY,16
+"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",NY-505,581,798,532,0,238,770,NY,28
+"Fulton, Montgomery, Schoharie Counties CoC",NY-506,35,72,64,0,0,64,NY,8
+"Fulton, Montgomery, Schoharie Counties CoC",NY-506,29,43,40,0,0,40,NY,3
+Schenectady City & County CoC,NY-507,257,345,243,0,33,276,NY,69
+Schenectady City & County CoC,NY-507,171,274,217,0,34,251,NY,23
+Schenectady City & County CoC,NY-507,190,287,237,0,32,269,NY,18
+Schenectady City & County CoC,NY-507,214,393,345,0,37,382,NY,11
+Schenectady City & County CoC,NY-507,214,349,282,0,40,322,NY,27
+Schenectady City & County CoC,NY-507,194,327,266,0,36,302,NY,25
+Schenectady City & County CoC,NY-507,138,243,185,0,34,219,NY,24
+"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",NY-508,613,919,424,16,418,858,NY,61
+"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",NY-508,692,1088,547,15,459,1021,NY,67
+"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",NY-508,610,962,524,14,367,905,NY,57
+"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",NY-508,770,1183,545,14,508,1067,NY,116
+"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",NY-508,612,957,672,15,255,942,NY,15
+"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",NY-508,595,925,565,15,327,907,NY,18
+"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",NY-508,804,1162,504,14,530,1048,NY,114
+Ithaca/Tompkins County CoC,NY-510,39,68,19,0,34,53,NY,15
+Ithaca/Tompkins County CoC,NY-510,55,88,53,0,19,72,NY,16
+Ithaca/Tompkins County CoC,NY-510,23,47,19,0,16,35,NY,12
+Ithaca/Tompkins County CoC,NY-510,28,47,13,0,26,39,NY,8
+Ithaca/Tompkins County CoC,NY-510,54,73,31,0,22,53,NY,20
+Ithaca/Tompkins County CoC,NY-510,75,91,33,0,13,46,NY,45
+Ithaca/Tompkins County CoC,NY-510,66,86,34,0,22,56,NY,30
+"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Count",NY-511,211,244,92,0,74,166,NY,78
+"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Count",NY-511,226,276,100,0,148,248,NY,28
+"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Count",NY-511,251,309,129,0,141,270,NY,39
+"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Count",NY-511,233,276,129,0,135,264,NY,12
+"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Count",NY-511,272,302,109,0,153,262,NY,40
+"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Count",NY-511,271,308,92,0,154,246,NY,62
+"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Count",NY-511,283,292,170,0,111,281,NY,11
+Troy/Rensselaer County CoC,NY-512,83,225,140,0,36,176,NY,49
+Troy/Rensselaer County CoC,NY-512,102,216,127,0,37,164,NY,52
+Troy/Rensselaer County CoC,NY-512,100,178,135,0,37,172,NY,6
+Troy/Rensselaer County CoC,NY-512,112,189,118,0,29,147,NY,42
+Troy/Rensselaer County CoC,NY-512,102,194,140,0,35,175,NY,19
+Troy/Rensselaer County CoC,NY-512,85,179,132,0,35,167,NY,12
+Troy/Rensselaer County CoC,NY-512,101,188,106,0,36,142,NY,46
+"Wayne, Ontario, Seneca, Yates Counties CoC",NY-513,34,58,51,0,7,58,NY,0
+"Wayne, Ontario, Seneca, Yates Counties CoC",NY-513,254,337,147,12,167,326,NY,11
+"Wayne, Ontario, Seneca, Yates Counties CoC",NY-513,180,187,47,15,125,187,NY,0
+"Wayne, Ontario, Seneca, Yates Counties CoC",NY-513,182,182,83,14,66,163,NY,19
+"Wayne, Ontario, Seneca, Yates Counties CoC",NY-513,79,92,47,12,33,92,NY,0
+"Wayne, Ontario, Seneca, Yates Counties CoC",NY-513,84,121,97,0,24,121,NY,0
+"Wayne, Ontario, Seneca, Yates Counties CoC",NY-513,159,171,139,0,32,171,NY,0
+"Jamestown, Dunkirk/Chautauqua County CoC",NY-514,20,29,29,0,0,29,NY,0
+"Jamestown, Dunkirk/Chautauqua County CoC",NY-514,26,53,34,0,17,51,NY,2
+"Jamestown, Dunkirk/Chautauqua County CoC",NY-514,41,83,11,0,69,80,NY,3
+"Jamestown, Dunkirk/Chautauqua County CoC",NY-514,36,62,39,0,22,61,NY,1
+"Jamestown, Dunkirk/Chautauqua County CoC",NY-514,94,145,66,0,76,142,NY,3
+"Jamestown, Dunkirk/Chautauqua County CoC",NY-514,27,33,14,0,19,33,NY,0
+"Jamestown, Dunkirk/Chautauqua County CoC",NY-514,16,23,9,0,14,23,NY,0
+Clinton County CoC,NY-516,73,126,125,0,0,125,NY,1
+Clinton County CoC,NY-516,94,132,130,0,0,130,NY,2
+Clinton County CoC,NY-516,88,143,140,0,0,140,NY,3
+Clinton County CoC,NY-516,149,236,167,0,52,219,NY,17
+Clinton County CoC,NY-516,85,133,131,0,0,131,NY,2
+Clinton County CoC,NY-516,114,197,188,0,8,196,NY,1
+Clinton County CoC,NY-516,91,140,133,0,0,133,NY,7
+"Utica, Rome/Oneida, Madison Counties CoC",NY-518,101,159,86,0,56,142,NY,17
+"Utica, Rome/Oneida, Madison Counties CoC",NY-518,106,160,85,0,58,143,NY,17
+"Utica, Rome/Oneida, Madison Counties CoC",NY-518,85,176,107,0,47,154,NY,22
+"Utica, Rome/Oneida, Madison Counties CoC",NY-518,89,140,84,0,39,123,NY,17
+"Utica, Rome/Oneida, Madison Counties CoC",NY-518,86,162,75,0,71,146,NY,16
+"Utica, Rome/Oneida, Madison Counties CoC",NY-518,100,178,106,0,56,162,NY,16
+"Utica, Rome/Oneida, Madison Counties CoC",NY-518,98,200,122,0,61,183,NY,17
+"Columbia, Greene Counties CoC",NY-519,41,97,91,0,4,95,NY,2
+"Columbia, Greene Counties CoC",NY-519,72,144,135,0,6,141,NY,3
+"Columbia, Greene Counties CoC",NY-519,52,116,103,0,11,114,NY,2
+"Columbia, Greene Counties CoC",NY-519,113,196,188,0,3,191,NY,5
+"Columbia, Greene Counties CoC",NY-519,57,128,122,0,5,127,NY,1
+"Columbia, Greene Counties CoC",NY-519,60,132,126,0,6,132,NY,0
+"Columbia, Greene Counties CoC",NY-519,67,112,99,0,9,108,NY,4
+"Franklin, Essex Counties CoC",NY-520,20,27,25,0,0,25,NY,2
+"Franklin, Essex Counties CoC",NY-520,14,14,5,0,0,5,NY,9
+"Franklin, Essex Counties CoC",NY-520,17,28,28,0,0,28,NY,0
+"Franklin, Essex Counties CoC",NY-520,25,42,28,0,14,42,NY,0
+"Franklin, Essex Counties CoC",NY-520,47,78,62,0,11,73,NY,5
+"Franklin, Essex Counties CoC",NY-520,21,28,27,0,0,27,NY,1
+"Franklin, Essex Counties CoC",NY-520,30,34,31,0,0,31,NY,3
+"Jefferson, Lewis, St. Lawrence Counties CoC",NY-522,68,149,21,7,118,146,NY,3
+"Jefferson, Lewis, St. Lawrence Counties CoC",NY-522,96,119,45,0,65,110,NY,9
+"Jefferson, Lewis, St. Lawrence Counties CoC",NY-522,129,169,74,0,60,134,NY,35
+"Jefferson, Lewis, St. Lawrence Counties CoC",NY-522,77,86,38,0,44,82,NY,4
+"Jefferson, Lewis, St. Lawrence Counties CoC",NY-522,82,95,40,0,41,81,NY,14
+"Jefferson, Lewis, St. Lawrence Counties CoC",NY-522,72,83,75,0,0,75,NY,8
+"Jefferson, Lewis, St. Lawrence Counties CoC",NY-522,81,96,40,0,50,90,NY,6
+"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co",NY-523,225,257,213,0,21,234,NY,23
+"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co",NY-523,174,299,209,0,53,262,NY,37
+"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co",NY-523,193,268,234,0,18,252,NY,16
+"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co",NY-523,180,262,169,0,55,224,NY,38
+"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co",NY-523,175,247,213,0,26,239,NY,8
+"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co",NY-523,202,282,253,0,29,282,NY,0
+"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co",NY-523,171,262,202,0,53,255,NY,7
+New York City CoC,NY-600,24459,64060,53482,126,7272,60880,NY,3180
+New York City CoC,NY-600,28965,73523,66800,136,3749,70685,NY,2838
+New York City CoC,NY-600,29612,75323,67378,138,4624,72140,NY,3183
+New York City CoC,NY-600,23543,56672,44879,137,8394,53410,NY,3262
+New York City CoC,NY-600,31124,76501,69605,37,2923,72565,NY,3936
+New York City CoC,NY-600,33391,78676,72187,36,2742,74965,NY,3711
+New York City CoC,NY-600,26177,67810,59127,141,5185,64453,NY,3357
+Poughkeepsie/Dutchess County CoC,NY-601,226,399,219,0,171,390,NY,9
+Poughkeepsie/Dutchess County CoC,NY-601,185,397,196,0,188,384,NY,13
+Poughkeepsie/Dutchess County CoC,NY-601,248,453,229,0,180,409,NY,44
+Poughkeepsie/Dutchess County CoC,NY-601,207,388,206,0,173,379,NY,9
+Poughkeepsie/Dutchess County CoC,NY-601,218,385,176,0,187,363,NY,22
+Poughkeepsie/Dutchess County CoC,NY-601,207,403,215,0,181,396,NY,7
+Poughkeepsie/Dutchess County CoC,NY-601,177,375,169,0,191,360,NY,15
+"Newburgh, Middletown/Orange County CoC",NY-602,229,480,342,0,96,438,NY,42
+"Newburgh, Middletown/Orange County CoC",NY-602,308,495,303,0,47,350,NY,145
+"Newburgh, Middletown/Orange County CoC",NY-602,281,421,250,0,49,299,NY,122
+"Newburgh, Middletown/Orange County CoC",NY-602,328,459,233,0,47,280,NY,179
+"Newburgh, Middletown/Orange County CoC",NY-602,186,350,271,0,49,320,NY,30
+"Newburgh, Middletown/Orange County CoC",NY-602,185,343,266,0,57,323,NY,20
+"Newburgh, Middletown/Orange County CoC",NY-602,323,502,309,0,47,356,NY,146
+"Nassau, Suffolk Counties CoC",NY-603,1016,3123,2428,0,578,3006,NY,117
+"Nassau, Suffolk Counties CoC",NY-603,1053,3861,3207,0,549,3756,NY,105
+"Nassau, Suffolk Counties CoC",NY-603,919,3207,2553,0,590,3143,NY,64
+"Nassau, Suffolk Counties CoC",NY-603,1076,3960,3324,0,521,3845,NY,115
+"Nassau, Suffolk Counties CoC",NY-603,992,3868,3646,18,152,3816,NY,52
+"Nassau, Suffolk Counties CoC",NY-603,1082,3359,2605,0,619,3224,NY,135
+"Nassau, Suffolk Counties CoC",NY-603,994,3937,3675,0,198,3873,NY,64
+"Yonkers, Mount Vernon/Westchester County CoC",NY-604,726,1741,612,0,1091,1703,NY,38
+"Yonkers, Mount Vernon/Westchester County CoC",NY-604,658,1750,916,0,800,1716,NY,34
+"Yonkers, Mount Vernon/Westchester County CoC",NY-604,804,2138,904,0,1214,2118,NY,20
+"Yonkers, Mount Vernon/Westchester County CoC",NY-604,731,1797,820,0,950,1770,NY,27
+"Yonkers, Mount Vernon/Westchester County CoC",NY-604,708,2054,873,0,1159,2032,NY,22
+"Yonkers, Mount Vernon/Westchester County CoC",NY-604,669,1832,1018,0,767,1785,NY,47
+"Yonkers, Mount Vernon/Westchester County CoC",NY-604,611,1827,1081,0,702,1783,NY,44
+Rockland County CoC,NY-606,124,141,65,0,44,109,NY,32
+Rockland County CoC,NY-606,55,107,62,0,42,104,NY,3
+Rockland County CoC,NY-606,82,125,66,0,40,106,NY,19
+Rockland County CoC,NY-606,135,170,76,0,36,112,NY,58
+Rockland County CoC,NY-606,77,107,63,0,41,104,NY,3
+Rockland County CoC,NY-606,89,117,55,0,37,92,NY,25
+Rockland County CoC,NY-606,145,180,95,0,35,130,NY,50
+Sullivan County CoC,NY-607,72,131,130,0,0,130,NY,1
+Sullivan County CoC,NY-607,95,130,128,0,0,128,NY,2
+Sullivan County CoC,NY-607,124,189,180,0,0,180,NY,9
+Sullivan County CoC,NY-607,114,167,165,0,0,165,NY,2
+Sullivan County CoC,NY-607,215,556,549,0,0,549,NY,7
+Sullivan County CoC,NY-607,257,630,618,0,0,618,NY,12
+Sullivan County CoC,NY-607,90,163,163,0,0,163,NY,0
+Kingston/Ulster County CoC,NY-608,160,464,403,0,29,432,NY,32
+Kingston/Ulster County CoC,NY-608,165,341,260,0,44,304,NY,37
+Kingston/Ulster County CoC,NY-608,229,442,291,0,41,332,NY,110
+Kingston/Ulster County CoC,NY-608,204,343,248,0,29,277,NY,66
+Kingston/Ulster County CoC,NY-608,180,328,262,0,28,290,NY,38
+Kingston/Ulster County CoC,NY-608,167,411,346,0,31,377,NY,34
+Kingston/Ulster County CoC,NY-608,169,355,262,0,29,291,NY,64
+Cincinnati/Hamilton County CoC,OH-500,889,1162,829,0,259,1088,OH,74
+Cincinnati/Hamilton County CoC,OH-500,819,1063,707,0,306,1013,OH,50
+Cincinnati/Hamilton County CoC,OH-500,759,1043,733,0,293,1026,OH,17
+Cincinnati/Hamilton County CoC,OH-500,831,1114,810,15,242,1067,OH,47
+Cincinnati/Hamilton County CoC,OH-500,844,1116,761,0,295,1056,OH,60
+Cincinnati/Hamilton County CoC,OH-500,887,1654,749,0,859,1608,OH,46
+Cincinnati/Hamilton County CoC,OH-500,825,1326,636,0,664,1300,OH,26
+Toledo/Lucas County CoC,OH-501,400,564,407,10,131,548,OH,16
+Toledo/Lucas County CoC,OH-501,568,900,484,11,370,865,OH,35
+Toledo/Lucas County CoC,OH-501,403,662,507,12,121,640,OH,22
+Toledo/Lucas County CoC,OH-501,650,977,438,11,391,840,OH,137
+Toledo/Lucas County CoC,OH-501,257,499,346,11,126,483,OH,16
+Toledo/Lucas County CoC,OH-501,483,809,498,11,291,800,OH,9
+Toledo/Lucas County CoC,OH-501,388,599,427,11,146,584,OH,15
+Cleveland/Cuyahoga County CoC,OH-502,1530,2129,1137,19,896,2052,OH,77
+Cleveland/Cuyahoga County CoC,OH-502,1360,1727,1415,20,195,1630,OH,97
+Cleveland/Cuyahoga County CoC,OH-502,1573,2103,1247,20,808,2075,OH,28
+Cleveland/Cuyahoga County CoC,OH-502,1377,1808,1597,38,95,1730,OH,78
+Cleveland/Cuyahoga County CoC,OH-502,1550,1943,1253,20,602,1875,OH,68
+Cleveland/Cuyahoga County CoC,OH-502,1626,2191,939,20,1108,2067,OH,124
+Cleveland/Cuyahoga County CoC,OH-502,1360,1697,1114,20,489,1623,OH,74
+Columbus/Franklin County CoC,OH-503,1091,1488,1016,0,228,1244,OH,244
+Columbus/Franklin County CoC,OH-503,1068,1434,1003,0,249,1252,OH,182
+Columbus/Franklin County CoC,OH-503,1242,1691,1229,0,122,1351,OH,340
+Columbus/Franklin County CoC,OH-503,1148,1614,1251,0,130,1381,OH,233
+Columbus/Franklin County CoC,OH-503,1263,1724,1244,0,141,1385,OH,339
+Columbus/Franklin County CoC,OH-503,1384,1721,1386,0,137,1523,OH,198
+Columbus/Franklin County CoC,OH-503,1241,1807,1427,0,92,1519,OH,288
+Youngstown/Mahoning County CoC,OH-504,86,224,127,1,86,214,OH,10
+Youngstown/Mahoning County CoC,OH-504,166,256,152,2,94,248,OH,8
+Youngstown/Mahoning County CoC,OH-504,101,368,206,0,88,294,OH,74
+Youngstown/Mahoning County CoC,OH-504,98,227,121,7,97,225,OH,2
+Youngstown/Mahoning County CoC,OH-504,163,262,167,0,89,256,OH,6
+Youngstown/Mahoning County CoC,OH-504,217,346,221,0,87,308,OH,38
+Youngstown/Mahoning County CoC,OH-504,95,180,149,0,8,157,OH,23
+"Dayton, Kettering/Montgomery County CoC",OH-505,566,680,499,0,130,629,OH,51
+"Dayton, Kettering/Montgomery County CoC",OH-505,583,791,535,0,222,757,OH,34
+"Dayton, Kettering/Montgomery County CoC",OH-505,639,1081,540,24,450,1014,OH,67
+"Dayton, Kettering/Montgomery County CoC",OH-505,654,971,662,0,261,923,OH,48
+"Dayton, Kettering/Montgomery County CoC",OH-505,619,1041,616,20,349,985,OH,56
+"Dayton, Kettering/Montgomery County CoC",OH-505,555,751,526,0,182,708,OH,43
+"Dayton, Kettering/Montgomery County CoC",OH-505,459,619,447,0,119,566,OH,53
+"Akron, Barberton/Summit County CoC",OH-506,510,813,326,10,311,647,OH,166
+"Akron, Barberton/Summit County CoC",OH-506,470,679,317,29,246,592,OH,87
+"Akron, Barberton/Summit County CoC",OH-506,507,760,341,26,274,641,OH,119
+"Akron, Barberton/Summit County CoC",OH-506,462,587,270,17,167,454,OH,133
+"Akron, Barberton/Summit County CoC",OH-506,579,870,316,10,367,693,OH,177
+"Akron, Barberton/Summit County CoC",OH-506,565,862,345,10,330,685,OH,177
+"Akron, Barberton/Summit County CoC",OH-506,392,507,257,19,153,429,OH,78
+Ohio Balance of State CoC,OH-507,1675,3032,1635,10,942,2587,OH,445
+Ohio Balance of State CoC,OH-507,1906,3320,1741,10,1103,2854,OH,466
+Ohio Balance of State CoC,OH-507,1809,3133,1754,10,736,2500,OH,633
+Ohio Balance of State CoC,OH-507,2137,5121,1948,9,2228,4185,OH,936
+Ohio Balance of State CoC,OH-507,2154,3806,2052,10,1185,3247,OH,559
+Ohio Balance of State CoC,OH-507,2023,3830,1734,10,1421,3165,OH,665
+Ohio Balance of State CoC,OH-507,1779,3309,1860,10,816,2686,OH,623
+"Canton, Massillon, Alliance/Stark County CoC",OH-508,259,531,259,20,214,493,OH,38
+"Canton, Massillon, Alliance/Stark County CoC",OH-508,244,472,239,19,154,412,OH,60
+"Canton, Massillon, Alliance/Stark County CoC",OH-508,252,482,207,20,192,419,OH,63
+"Canton, Massillon, Alliance/Stark County CoC",OH-508,145,278,221,0,17,238,OH,40
+"Canton, Massillon, Alliance/Stark County CoC",OH-508,147,319,209,0,88,297,OH,22
+"Canton, Massillon, Alliance/Stark County CoC",OH-508,292,522,247,19,200,466,OH,56
+"Canton, Massillon, Alliance/Stark County CoC",OH-508,174,460,285,19,119,423,OH,37
+North Central Oklahoma CoC,OK-500,87,190,78,0,67,145,OK,45
+North Central Oklahoma CoC,OK-500,98,181,89,0,52,141,OK,40
+North Central Oklahoma CoC,OK-500,73,129,55,0,23,78,OK,51
+North Central Oklahoma CoC,OK-500,82,192,94,0,53,147,OK,45
+North Central Oklahoma CoC,OK-500,96,201,75,0,79,154,OK,47
+North Central Oklahoma CoC,OK-500,108,204,85,0,62,147,OK,57
+North Central Oklahoma CoC,OK-500,97,194,88,0,72,160,OK,34
+Tulsa City & County CoC,OK-501,804,1021,626,49,201,876,OK,145
+Tulsa City & County CoC,OK-501,766,1043,661,24,208,893,OK,150
+Tulsa City & County CoC,OK-501,734,1010,597,50,261,908,OK,102
+Tulsa City & County CoC,OK-501,835,1008,583,46,257,886,OK,122
+Tulsa City & County CoC,OK-501,724,956,585,25,215,825,OK,131
+Tulsa City & County CoC,OK-501,876,1083,625,17,215,857,OK,226
+Tulsa City & County CoC,OK-501,819,1074,650,22,228,900,OK,174
+Oklahoma City CoC,OK-502,1123,1362,820,0,249,1069,OK,293
+Oklahoma City CoC,OK-502,1202,1511,963,0,241,1204,OK,307
+Oklahoma City CoC,OK-502,1069,1303,630,0,312,942,OK,361
+Oklahoma City CoC,OK-502,1266,1481,1029,0,194,1223,OK,258
+Oklahoma City CoC,OK-502,940,1183,635,0,154,789,OK,394
+Oklahoma City CoC,OK-502,1009,1368,888,0,212,1100,OK,268
+Oklahoma City CoC,OK-502,1063,1300,908,0,192,1100,OK,200
+Oklahoma Balance of State CoC,OK-503,151,432,100,0,39,139,OK,293
+Oklahoma Balance of State CoC,OK-503,47,233,78,0,0,78,OK,155
+Oklahoma Balance of State CoC,OK-503,155,272,113,0,36,149,OK,123
+Oklahoma Balance of State CoC,OK-503,153,295,89,0,25,114,OK,181
+Oklahoma Balance of State CoC,OK-503,285,571,95,0,49,144,OK,427
+Oklahoma Balance of State CoC,OK-503,157,237,95,0,26,121,OK,116
+Oklahoma Balance of State CoC,OK-503,137,295,140,0,14,154,OK,141
+Norman/Cleveland County CoC,OK-504,155,174,79,0,19,98,OK,76
+Norman/Cleveland County CoC,OK-504,102,133,89,0,28,117,OK,16
+Norman/Cleveland County CoC,OK-504,118,138,72,0,20,92,OK,46
+Norman/Cleveland County CoC,OK-504,73,140,91,0,27,118,OK,22
+Norman/Cleveland County CoC,OK-504,433,616,37,0,123,160,OK,456
+Norman/Cleveland County CoC,OK-504,243,368,60,0,153,213,OK,155
+Norman/Cleveland County CoC,OK-504,331,364,76,0,61,137,OK,227
+Northeast Oklahoma CoC,OK-505,209,377,280,0,45,325,OK,52
+Northeast Oklahoma CoC,OK-505,260,383,259,0,41,300,OK,83
+Northeast Oklahoma CoC,OK-505,206,343,272,0,47,319,OK,24
+Northeast Oklahoma CoC,OK-505,232,392,293,0,48,341,OK,51
+Northeast Oklahoma CoC,OK-505,237,368,292,0,50,342,OK,26
+Northeast Oklahoma CoC,OK-505,304,487,288,0,30,318,OK,169
+Northeast Oklahoma CoC,OK-505,217,342,216,0,61,277,OK,65
+Southwest Oklahoma Regional CoC,OK-506,150,231,88,0,81,169,OK,62
+Southwest Oklahoma Regional CoC,OK-506,221,396,186,9,38,233,OK,163
+Southwest Oklahoma Regional CoC,OK-506,114,191,96,0,54,150,OK,41
+Southwest Oklahoma Regional CoC,OK-506,111,196,99,0,60,159,OK,37
+Southwest Oklahoma Regional CoC,OK-506,103,187,93,0,54,147,OK,40
+Southwest Oklahoma Regional CoC,OK-506,115,161,56,0,64,120,OK,41
+Southwest Oklahoma Regional CoC,OK-506,158,239,96,0,81,177,OK,62
+Southeastern Oklahoma Regional CoC,OK-507,345,436,200,0,17,217,OK,219
+Southeastern Oklahoma Regional CoC,OK-507,317,579,223,0,41,264,OK,315
+Southeastern Oklahoma Regional CoC,OK-507,240,442,212,0,13,225,OK,217
+Southeastern Oklahoma Regional CoC,OK-507,321,525,260,0,63,323,OK,202
+Southeastern Oklahoma Regional CoC,OK-507,317,453,216,0,21,237,OK,216
+Southeastern Oklahoma Regional CoC,OK-507,249,351,206,0,0,206,OK,145
+Southeastern Oklahoma Regional CoC,OK-507,185,244,185,0,2,187,OK,57
+"Eugene, Springfield/Lane County CoC",OR-500,1539,2057,392,0,259,651,OR,1406
+"Eugene, Springfield/Lane County CoC",OR-500,1404,1751,388,0,261,649,OR,1102
+"Eugene, Springfield/Lane County CoC",OR-500,1352,1767,338,0,327,665,OR,1102
+"Eugene, Springfield/Lane County CoC",OR-500,1250,1473,656,0,101,757,OR,716
+"Eugene, Springfield/Lane County CoC",OR-500,1390,1641,412,0,95,507,OR,1134
+"Eugene, Springfield/Lane County CoC",OR-500,1260,1529,442,0,84,526,OR,1003
+"Eugene, Springfield/Lane County CoC",OR-500,1227,1451,405,0,112,517,OR,934
+"Portland, Gresham/Multnomah County CoC",OR-501,3394,4019,1804,0,547,2351,OR,1668
+"Portland, Gresham/Multnomah County CoC",OR-501,2918,4423,892,0,1817,2709,OR,1714
+"Portland, Gresham/Multnomah County CoC",OR-501,3209,3914,1237,0,790,2027,OR,1887
+"Portland, Gresham/Multnomah County CoC",OR-501,3115,3927,679,0,1353,2032,OR,1895
+"Portland, Gresham/Multnomah County CoC",OR-501,3520,4177,1752,0,757,2509,OR,1668
+"Portland, Gresham/Multnomah County CoC",OR-501,3132,3801,872,0,1042,1914,OR,1887
+"Portland, Gresham/Multnomah County CoC",OR-501,3183,4441,974,0,1572,2546,OR,1895
+"Medford, Ashland/Jackson County CoC",OR-502,525,633,213,0,156,369,OR,264
+"Medford, Ashland/Jackson County CoC",OR-502,501,625,252,0,147,399,OR,226
+"Medford, Ashland/Jackson County CoC",OR-502,472,548,237,0,199,436,OR,112
+"Medford, Ashland/Jackson County CoC",OR-502,560,691,159,5,277,441,OR,250
+"Medford, Ashland/Jackson County CoC",OR-502,624,732,240,0,163,403,OR,329
+"Medford, Ashland/Jackson County CoC",OR-502,447,527,151,0,137,288,OR,239
+"Medford, Ashland/Jackson County CoC",OR-502,620,729,122,0,225,347,OR,382
+Central Oregon CoC,OR-503,460,808,107,0,169,276,OR,532
+Central Oregon CoC,OR-503,588,787,191,0,41,232,OR,555
+Central Oregon CoC,OR-503,316,506,126,0,135,261,OR,245
+Central Oregon CoC,OR-503,383,594,138,0,51,189,OR,405
+Central Oregon CoC,OR-503,292,568,107,0,216,323,OR,245
+Central Oregon CoC,OR-503,386,602,156,0,41,197,OR,405
+Central Oregon CoC,OR-503,494,778,181,0,49,230,OR,548
+Oregon Balance of State CoC,OR-505,3429,5710,1077,0,782,1859,OR,3851
+Oregon Balance of State CoC,OR-505,2114,4122,1272,0,1072,2344,OR,1778
+Oregon Balance of State CoC,OR-505,2978,5525,969,5,1225,2199,OR,3326
+Oregon Balance of State CoC,OR-505,3902,5795,1036,0,990,2026,OR,3769
+Oregon Balance of State CoC,OR-505,3342,6105,934,4,1097,2035,OR,4070
+Oregon Balance of State CoC,OR-505,4419,6392,1042,0,816,1858,OR,4534
+Oregon Balance of State CoC,OR-505,3320,5544,1257,0,985,2242,OR,3302
+"Hillsboro, Beaverton/Washington County CoC",OR-506,407,522,65,8,90,163,OR,359
+"Hillsboro, Beaverton/Washington County CoC",OR-506,348,544,56,7,112,175,OR,369
+"Hillsboro, Beaverton/Washington County CoC",OR-506,399,591,71,9,116,196,OR,395
+"Hillsboro, Beaverton/Washington County CoC",OR-506,281,537,82,10,106,198,OR,339
+"Hillsboro, Beaverton/Washington County CoC",OR-506,399,751,87,10,212,309,OR,442
+"Hillsboro, Beaverton/Washington County CoC",OR-506,303,432,66,8,126,200,OR,232
+"Hillsboro, Beaverton/Washington County CoC",OR-506,383,571,74,8,111,193,OR,378
+Clackamas County CoC,OR-507,357,494,98,0,88,186,OR,308
+Clackamas County CoC,OR-507,317,383,3,0,34,37,OR,346
+Clackamas County CoC,OR-507,338,619,40,0,101,141,OR,478
+Clackamas County CoC,OR-507,333,618,37,0,103,140,OR,478
+Clackamas County CoC,OR-507,298,463,38,0,117,155,OR,308
+Clackamas County CoC,OR-507,385,497,87,0,64,151,OR,346
+Clackamas County CoC,OR-507,570,993,29,0,95,124,OR,869
+Philadelphia CoC,PA-500,3346,5998,3558,109,1661,5328,PA,670
+Philadelphia CoC,PA-500,3109,5738,3642,113,1622,5377,PA,361
+Philadelphia CoC,PA-500,3589,5788,3420,235,1050,4705,PA,1083
+Philadelphia CoC,PA-500,2976,5780,3324,66,1890,5280,PA,500
+Philadelphia CoC,PA-500,3070,5645,3238,99,1782,5119,PA,526
+Philadelphia CoC,PA-500,3341,5693,3275,84,1378,4737,PA,956
+Philadelphia CoC,PA-500,3430,6112,3656,77,1674,5407,PA,705
+Harrisburg/Dauphin County CoC,PA-501,260,445,263,22,125,410,PA,35
+Harrisburg/Dauphin County CoC,PA-501,214,390,184,15,143,342,PA,48
+Harrisburg/Dauphin County CoC,PA-501,309,460,238,22,130,390,PA,70
+Harrisburg/Dauphin County CoC,PA-501,237,396,192,27,138,357,PA,39
+Harrisburg/Dauphin County CoC,PA-501,235,433,205,15,170,390,PA,43
+Harrisburg/Dauphin County CoC,PA-501,204,402,199,21,166,386,PA,16
+Harrisburg/Dauphin County CoC,PA-501,235,386,178,14,136,328,PA,58
+"Upper Darby, Chester, Haverford/Delaware County CoC",PA-502,276,436,285,0,91,376,PA,60
+"Upper Darby, Chester, Haverford/Delaware County CoC",PA-502,247,406,283,0,88,371,PA,35
+"Upper Darby, Chester, Haverford/Delaware County CoC",PA-502,251,453,311,0,102,413,PA,40
+"Upper Darby, Chester, Haverford/Delaware County CoC",PA-502,251,546,292,0,209,501,PA,45
+"Upper Darby, Chester, Haverford/Delaware County CoC",PA-502,234,414,290,0,71,361,PA,53
+"Upper Darby, Chester, Haverford/Delaware County CoC",PA-502,244,604,356,0,210,566,PA,38
+"Upper Darby, Chester, Haverford/Delaware County CoC",PA-502,257,509,280,0,182,462,PA,47
+"Wilkes-Barre, Hazleton/Luzerne County CoC",PA-503,95,165,78,0,81,159,PA,6
+"Wilkes-Barre, Hazleton/Luzerne County CoC",PA-503,115,192,83,0,97,180,PA,12
+"Wilkes-Barre, Hazleton/Luzerne County CoC",PA-503,100,174,77,0,81,158,PA,16
+"Wilkes-Barre, Hazleton/Luzerne County CoC",PA-503,109,169,82,0,78,160,PA,9
+"Wilkes-Barre, Hazleton/Luzerne County CoC",PA-503,106,165,65,0,88,153,PA,12
+"Wilkes-Barre, Hazleton/Luzerne County CoC",PA-503,82,174,82,0,89,171,PA,3
+"Wilkes-Barre, Hazleton/Luzerne County CoC",PA-503,94,178,61,0,112,173,PA,5
+"Lower Merion, Norristown, Abington/Montgomery County CoC",PA-504,180,429,197,0,229,426,PA,3
+"Lower Merion, Norristown, Abington/Montgomery County CoC",PA-504,195,438,212,0,220,432,PA,6
+"Lower Merion, Norristown, Abington/Montgomery County CoC",PA-504,131,310,192,0,99,291,PA,19
+"Lower Merion, Norristown, Abington/Montgomery County CoC",PA-504,163,398,229,0,149,378,PA,20
+"Lower Merion, Norristown, Abington/Montgomery County CoC",PA-504,148,419,199,0,197,396,PA,23
+"Lower Merion, Norristown, Abington/Montgomery County CoC",PA-504,141,291,226,0,45,271,PA,20
+"Lower Merion, Norristown, Abington/Montgomery County CoC",PA-504,184,464,185,0,266,451,PA,13
+Chester County CoC,PA-505,387,578,260,0,294,554,PA,24
+Chester County CoC,PA-505,385,558,198,0,355,553,PA,5
+Chester County CoC,PA-505,476,691,244,8,415,667,PA,24
+Chester County CoC,PA-505,428,612,250,0,347,597,PA,15
+Chester County CoC,PA-505,498,641,240,8,350,598,PA,43
+Chester County CoC,PA-505,498,679,267,8,365,640,PA,39
+Chester County CoC,PA-505,365,579,266,0,300,566,PA,13
+Reading/Berks County CoC,PA-506,366,534,290,0,231,521,PA,13
+Reading/Berks County CoC,PA-506,385,561,287,0,270,557,PA,4
+Reading/Berks County CoC,PA-506,383,604,301,0,292,593,PA,11
+Reading/Berks County CoC,PA-506,406,562,305,0,246,551,PA,11
+Reading/Berks County CoC,PA-506,356,521,259,0,259,518,PA,3
+Reading/Berks County CoC,PA-506,276,468,243,0,212,455,PA,13
+Reading/Berks County CoC,PA-506,216,340,158,0,165,323,PA,17
+Scranton/Lackawanna County CoC,PA-508,117,287,90,4,188,282,PA,5
+Scranton/Lackawanna County CoC,PA-508,100,159,76,8,70,154,PA,5
+Scranton/Lackawanna County CoC,PA-508,116,242,80,4,147,231,PA,11
+Scranton/Lackawanna County CoC,PA-508,117,233,68,4,151,223,PA,10
+Scranton/Lackawanna County CoC,PA-508,98,197,56,4,123,183,PA,14
+Scranton/Lackawanna County CoC,PA-508,92,260,59,4,175,238,PA,22
+Scranton/Lackawanna County CoC,PA-508,92,252,62,4,181,247,PA,5
+Eastern Pennsylvania CoC,PA-509,955,2021,861,0,925,1786,PA,235
+Eastern Pennsylvania CoC,PA-509,974,2081,856,0,908,1764,PA,317
+Eastern Pennsylvania CoC,PA-509,1391,2599,1061,0,935,1996,PA,603
+Eastern Pennsylvania CoC,PA-509,1201,2410,1029,0,965,1994,PA,416
+Eastern Pennsylvania CoC,PA-509,664,1752,707,0,914,1621,PA,131
+Eastern Pennsylvania CoC,PA-509,1108,1998,1032,0,620,1652,PA,346
+Eastern Pennsylvania CoC,PA-509,1209,2170,1004,0,761,1765,PA,405
+Lancaster City & County CoC,PA-510,162,356,201,0,148,349,PA,7
+Lancaster City & County CoC,PA-510,194,378,150,0,218,368,PA,10
+Lancaster City & County CoC,PA-510,257,498,251,0,241,492,PA,6
+Lancaster City & County CoC,PA-510,180,321,181,0,114,295,PA,26
+Lancaster City & County CoC,PA-510,226,406,248,0,142,390,PA,16
+Lancaster City & County CoC,PA-510,241,562,200,0,353,553,PA,9
+Lancaster City & County CoC,PA-510,259,518,202,0,306,508,PA,10
+"Bristol, Bensalem/Bucks County CoC",PA-511,184,492,154,0,310,464,PA,28
+"Bristol, Bensalem/Bucks County CoC",PA-511,142,458,122,0,285,407,PA,51
+"Bristol, Bensalem/Bucks County CoC",PA-511,198,511,139,0,323,462,PA,49
+"Bristol, Bensalem/Bucks County CoC",PA-511,194,397,155,0,223,378,PA,19
+"Bristol, Bensalem/Bucks County CoC",PA-511,200,530,170,0,330,500,PA,30
+"Bristol, Bensalem/Bucks County CoC",PA-511,193,487,140,0,309,449,PA,38
+"Bristol, Bensalem/Bucks County CoC",PA-511,136,451,110,0,300,410,PA,41
+York City & County CoC,PA-512,125,278,132,0,116,248,PA,30
+York City & County CoC,PA-512,134,288,116,0,127,243,PA,45
+York City & County CoC,PA-512,163,302,162,0,110,272,PA,30
+York City & County CoC,PA-512,164,365,165,0,129,294,PA,71
+York City & County CoC,PA-512,158,345,165,0,136,301,PA,44
+York City & County CoC,PA-512,129,284,141,0,118,259,PA,25
+York City & County CoC,PA-512,167,324,177,0,114,291,PA,33
+"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",PA-600,919,1424,440,69,877,1386,PA,38
+"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",PA-600,756,1145,622,22,448,1092,PA,53
+"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",PA-600,755,1156,460,54,594,1108,PA,48
+"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",PA-600,816,1376,430,68,822,1320,PA,56
+"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",PA-600,509,783,575,6,146,727,PA,56
+"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",PA-600,827,1492,369,68,964,1401,PA,91
+"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",PA-600,995,1573,493,75,897,1465,PA,108
+Western Pennsylvania CoC,PA-601,600,1101,490,47,508,1045,PA,56
+Western Pennsylvania CoC,PA-601,567,1002,448,53,436,937,PA,65
+Western Pennsylvania CoC,PA-601,471,748,435,9,266,710,PA,38
+Western Pennsylvania CoC,PA-601,654,1170,521,35,504,1060,PA,110
+Western Pennsylvania CoC,PA-601,566,1097,499,42,490,1031,PA,66
+Western Pennsylvania CoC,PA-601,571,986,445,41,431,917,PA,69
+Western Pennsylvania CoC,PA-601,531,837,451,38,285,774,PA,63
+Beaver County CoC,PA-603,49,90,21,0,66,87,PA,3
+Beaver County CoC,PA-603,44,95,40,0,53,93,PA,2
+Beaver County CoC,PA-603,67,117,79,0,32,111,PA,6
+Beaver County CoC,PA-603,34,98,66,0,22,88,PA,10
+Beaver County CoC,PA-603,65,110,28,0,77,105,PA,5
+Beaver County CoC,PA-603,48,120,61,0,52,113,PA,7
+Beaver County CoC,PA-603,58,131,71,0,54,125,PA,6
+Erie City & County CoC,PA-605,258,435,223,0,160,383,PA,52
+Erie City & County CoC,PA-605,289,410,222,6,166,394,PA,16
+Erie City & County CoC,PA-605,191,439,240,0,153,393,PA,46
+Erie City & County CoC,PA-605,264,369,241,0,120,361,PA,8
+Erie City & County CoC,PA-605,231,336,238,0,94,332,PA,4
+Erie City & County CoC,PA-605,250,408,215,0,146,361,PA,47
+Erie City & County CoC,PA-605,257,377,219,0,148,367,PA,10
+Puerto Rico Balance of Commonwealth CoC,PR-502,1789,2094,188,21,718,927,PR,1167
+Puerto Rico Balance of Commonwealth CoC,PR-502,1678,1883,173,22,487,682,PR,1201
+Puerto Rico Balance of Commonwealth CoC,PR-502,1746,2085,222,21,675,918,PR,1167
+Puerto Rico Balance of Commonwealth CoC,PR-502,2112,2422,183,22,663,868,PR,1554
+Puerto Rico Balance of Commonwealth CoC,PR-502,2046,2343,172,22,595,789,PR,1554
+Puerto Rico Balance of Commonwealth CoC,PR-502,1348,1685,200,22,583,805,PR,880
+Puerto Rico Balance of Commonwealth CoC,PR-502,1527,1643,153,12,277,442,PR,1201
+South-Southeast Puerto Rico CoC,PR-503,1686,2047,184,43,261,488,PR,1559
+South-Southeast Puerto Rico CoC,PR-503,1681,2034,151,47,277,475,PR,1559
+South-Southeast Puerto Rico CoC,PR-503,1146,1527,157,41,343,541,PR,986
+South-Southeast Puerto Rico CoC,PR-503,1817,2096,216,41,296,553,PR,1543
+South-Southeast Puerto Rico CoC,PR-503,1394,1539,189,4,35,228,PR,1311
+South-Southeast Puerto Rico CoC,PR-503,1753,2075,171,35,326,532,PR,1543
+South-Southeast Puerto Rico CoC,PR-503,1463,1642,223,4,104,331,PR,1311
+Rhode Island Statewide CoC,RI-500,747,1101,739,0,311,1050,RI,51
+Rhode Island Statewide CoC,RI-500,779,1190,803,22,345,1170,RI,20
+Rhode Island Statewide CoC,RI-500,706,1111,743,0,332,1075,RI,36
+Rhode Island Statewide CoC,RI-500,788,1277,805,18,426,1249,RI,28
+Rhode Island Statewide CoC,RI-500,862,1384,850,17,400,1267,RI,117
+Rhode Island Statewide CoC,RI-500,859,1160,822,0,301,1123,RI,37
+Rhode Island Statewide CoC,RI-500,802,1180,807,0,304,1111,RI,69
+Charleston/Low Country CoC,SC-500,416,483,155,0,116,271,SC,212
+Charleston/Low Country CoC,SC-500,357,451,254,3,80,337,SC,114
+Charleston/Low Country CoC,SC-500,393,425,99,0,122,221,SC,204
+Charleston/Low Country CoC,SC-500,635,733,181,0,151,332,SC,401
+Charleston/Low Country CoC,SC-500,526,606,221,0,220,441,SC,165
+Charleston/Low Country CoC,SC-500,519,550,174,0,113,287,SC,263
+Charleston/Low Country CoC,SC-500,425,516,229,0,150,379,SC,137
+"Greenville, Anderson, Spartanburg/Upstate CoC",SC-501,786,1324,520,12,607,1139,SC,185
+"Greenville, Anderson, Spartanburg/Upstate CoC",SC-501,1187,1829,873,12,684,1569,SC,260
+"Greenville, Anderson, Spartanburg/Upstate CoC",SC-501,1362,1961,683,12,860,1555,SC,406
+"Greenville, Anderson, Spartanburg/Upstate CoC",SC-501,1488,2308,713,12,875,1600,SC,708
+"Greenville, Anderson, Spartanburg/Upstate CoC",SC-501,916,1185,705,12,132,849,SC,336
+"Greenville, Anderson, Spartanburg/Upstate CoC",SC-501,1060,1636,673,12,561,1246,SC,390
+"Greenville, Anderson, Spartanburg/Upstate CoC",SC-501,898,1317,681,13,238,932,SC,385
+Columbia/Midlands CoC,SC-502,954,1205,726,0,279,1005,SC,200
+Columbia/Midlands CoC,SC-502,1306,1648,559,0,387,946,SC,702
+Columbia/Midlands CoC,SC-502,939,1200,585,0,308,893,SC,307
+Columbia/Midlands CoC,SC-502,1558,2007,609,0,464,1073,SC,934
+Columbia/Midlands CoC,SC-502,1238,1588,693,0,469,1162,SC,426
+Columbia/Midlands CoC,SC-502,1087,1350,554,0,461,1015,SC,335
+Columbia/Midlands CoC,SC-502,1189,1468,574,0,492,1066,SC,402
+"Myrtle Beach, Sumter City & County CoC",SC-503,855,1092,312,0,86,398,SC,694
+"Myrtle Beach, Sumter City & County CoC",SC-503,857,1319,161,0,235,396,SC,923
+"Myrtle Beach, Sumter City & County CoC",SC-503,1090,1317,187,0,275,462,SC,855
+"Myrtle Beach, Sumter City & County CoC",SC-503,965,1322,231,0,259,490,SC,832
+"Myrtle Beach, Sumter City & County CoC",SC-503,819,1460,226,0,194,420,SC,1040
+"Myrtle Beach, Sumter City & County CoC",SC-503,666,974,254,0,115,369,SC,605
+"Myrtle Beach, Sumter City & County CoC",SC-503,1055,1496,174,0,232,406,SC,1090
+South Dakota Statewide CoC,SD-500,548,1072,616,0,271,887,SD,185
+South Dakota Statewide CoC,SD-500,611,943,590,0,182,772,SD,171
+South Dakota Statewide CoC,SD-500,836,1159,707,0,167,874,SD,285
+South Dakota Statewide CoC,SD-500,512,859,514,0,281,795,SD,64
+South Dakota Statewide CoC,SD-500,630,1036,642,0,258,900,SD,136
+South Dakota Statewide CoC,SD-500,557,1094,433,0,322,755,SD,339
+South Dakota Statewide CoC,SD-500,490,885,528,0,302,830,SD,55
+Chattanooga/Southeast Tennessee CoC,TN-500,452,576,298,0,61,359,TN,217
+Chattanooga/Southeast Tennessee CoC,TN-500,429,627,352,0,104,456,TN,171
+Chattanooga/Southeast Tennessee CoC,TN-500,430,636,375,0,114,489,TN,147
+Chattanooga/Southeast Tennessee CoC,TN-500,389,591,280,0,142,422,TN,169
+Chattanooga/Southeast Tennessee CoC,TN-500,361,527,353,0,97,450,TN,77
+Chattanooga/Southeast Tennessee CoC,TN-500,498,623,318,0,12,330,TN,293
+Chattanooga/Southeast Tennessee CoC,TN-500,364,548,291,0,83,374,TN,174
+Memphis/Shelby County CoC,TN-501,1007,1525,511,0,936,1447,TN,78
+Memphis/Shelby County CoC,TN-501,1144,1675,617,0,937,1554,TN,121
+Memphis/Shelby County CoC,TN-501,1386,2076,487,0,1263,1750,TN,326
+Memphis/Shelby County CoC,TN-501,1151,1816,461,0,1199,1660,TN,156
+Memphis/Shelby County CoC,TN-501,1121,1669,723,0,825,1548,TN,121
+Memphis/Shelby County CoC,TN-501,915,1426,708,0,639,1347,TN,79
+Memphis/Shelby County CoC,TN-501,878,1226,598,0,526,1124,TN,102
+Knoxville/Knox County CoC,TN-502,674,748,399,0,268,667,TN,81
+Knoxville/Knox County CoC,TN-502,772,854,382,0,339,721,TN,133
+Knoxville/Knox County CoC,TN-502,674,743,336,0,221,557,TN,186
+Knoxville/Knox County CoC,TN-502,897,993,440,0,410,850,TN,143
+Knoxville/Knox County CoC,TN-502,701,812,404,0,274,678,TN,134
+Knoxville/Knox County CoC,TN-502,685,783,411,0,276,687,TN,96
+Knoxville/Knox County CoC,TN-502,750,861,521,0,259,780,TN,81
+Central Tennessee CoC,TN-503,185,268,148,0,96,244,TN,24
+Central Tennessee CoC,TN-503,189,268,99,0,110,209,TN,59
+Central Tennessee CoC,TN-503,190,245,107,0,125,232,TN,13
+Central Tennessee CoC,TN-503,201,285,133,0,127,260,TN,25
+Central Tennessee CoC,TN-503,227,296,125,0,145,270,TN,26
+Central Tennessee CoC,TN-503,224,286,121,0,119,240,TN,46
+Central Tennessee CoC,TN-503,245,283,124,0,146,270,TN,13
+Nashville-Davidson County CoC,TN-504,1904,2234,1593,12,422,2027,TN,207
+Nashville-Davidson County CoC,TN-504,1760,2154,1116,8,560,1684,TN,470
+Nashville-Davidson County CoC,TN-504,1990,2337,1390,0,308,1698,TN,639
+Nashville-Davidson County CoC,TN-504,2069,2365,1230,0,462,1692,TN,673
+Nashville-Davidson County CoC,TN-504,1690,1934,844,12,715,1571,TN,363
+Nashville-Davidson County CoC,TN-504,1806,2069,1171,11,637,1819,TN,250
+Nashville-Davidson County CoC,TN-504,2103,2298,1300,5,377,1682,TN,616
+Upper Cumberland CoC,TN-506,275,362,91,0,85,176,TN,186
+Upper Cumberland CoC,TN-506,254,342,109,0,75,184,TN,158
+Upper Cumberland CoC,TN-506,480,658,109,0,50,159,TN,499
+Upper Cumberland CoC,TN-506,135,249,161,0,26,187,TN,62
+Upper Cumberland CoC,TN-506,207,372,80,0,68,148,TN,224
+Upper Cumberland CoC,TN-506,157,252,165,0,3,168,TN,84
+Upper Cumberland CoC,TN-506,150,258,194,0,18,212,TN,46
+Jackson/West Tennessee CoC,TN-507,1119,1541,114,7,42,163,TN,1378
+Jackson/West Tennessee CoC,TN-507,985,1563,91,7,53,151,TN,1412
+Jackson/West Tennessee CoC,TN-507,1071,1692,135,8,87,230,TN,1462
+Jackson/West Tennessee CoC,TN-507,707,1103,97,6,31,134,TN,969
+Jackson/West Tennessee CoC,TN-507,1021,1673,190,8,72,270,TN,1403
+Jackson/West Tennessee CoC,TN-507,606,1026,80,6,36,122,TN,904
+Jackson/West Tennessee CoC,TN-507,1014,1601,138,5,62,205,TN,1396
+Appalachian Regional CoC,TN-509,291,360,191,0,59,250,TN,110
+Appalachian Regional CoC,TN-509,342,450,231,0,74,305,TN,145
+Appalachian Regional CoC,TN-509,366,448,221,0,78,299,TN,149
+Appalachian Regional CoC,TN-509,303,424,225,0,98,323,TN,101
+Appalachian Regional CoC,TN-509,438,577,322,0,103,425,TN,152
+Appalachian Regional CoC,TN-509,487,694,347,0,70,417,TN,277
+Appalachian Regional CoC,TN-509,472,598,291,0,141,432,TN,166
+Murfreesboro/Rutherford County CoC,TN-510,221,289,133,0,36,169,TN,120
+Murfreesboro/Rutherford County CoC,TN-510,190,258,141,0,41,182,TN,76
+Murfreesboro/Rutherford County CoC,TN-510,177,241,106,0,55,161,TN,80
+Murfreesboro/Rutherford County CoC,TN-510,229,283,166,0,43,209,TN,74
+Murfreesboro/Rutherford County CoC,TN-510,249,316,193,0,34,227,TN,89
+Murfreesboro/Rutherford County CoC,TN-510,238,306,150,0,37,187,TN,119
+Murfreesboro/Rutherford County CoC,TN-510,149,218,90,0,32,122,TN,96
+"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",TN-512,423,752,277,0,91,368,TN,384
+"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",TN-512,525,798,216,0,82,298,TN,500
+"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",TN-512,419,933,277,0,46,323,TN,610
+"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",TN-512,526,966,391,0,51,442,TN,524
+"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",TN-512,342,630,253,0,57,310,TN,320
+"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",TN-512,529,796,222,0,82,304,TN,492
+"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",TN-512,500,777,193,0,103,296,TN,481
+San Antonio/Bexar County CoC,TX-500,1289,3670,1308,42,693,2043,TX,1627
+San Antonio/Bexar County CoC,TX-500,2065,2891,1063,41,629,1733,TX,1158
+San Antonio/Bexar County CoC,TX-500,2165,2980,1033,44,660,1737,TX,1243
+San Antonio/Bexar County CoC,TX-500,2265,3066,1311,0,402,1713,TX,1353
+San Antonio/Bexar County CoC,TX-500,1899,2743,1030,0,611,1641,TX,1102
+San Antonio/Bexar County CoC,TX-500,2048,2781,982,17,645,1644,TX,1137
+San Antonio/Bexar County CoC,TX-500,1925,2892,1037,43,890,1970,TX,922
+Austin/Travis County CoC,TX-503,1287,1987,991,13,535,1539,TX,448
+Austin/Travis County CoC,TX-503,1474,2090,847,15,463,1325,TX,765
+Austin/Travis County CoC,TX-503,1513,2138,890,16,416,1322,TX,816
+Austin/Travis County CoC,TX-503,1595,2147,730,15,388,1133,TX,1014
+Austin/Travis County CoC,TX-503,1572,2244,772,16,587,1375,TX,869
+Austin/Travis County CoC,TX-503,1266,1832,768,13,384,1165,TX,667
+Austin/Travis County CoC,TX-503,1460,2036,821,11,370,1202,TX,834
+"Dallas City & County, Irving CoC",TX-600,2990,3789,1897,19,786,2702,TX,1087
+"Dallas City & County, Irving CoC",TX-600,3187,4121,1972,23,785,2780,TX,1341
+"Dallas City & County, Irving CoC",TX-600,1598,3447,1840,25,1377,3242,TX,205
+"Dallas City & County, Irving CoC",TX-600,1861,3514,2072,24,1176,3272,TX,242
+"Dallas City & County, Irving CoC",TX-600,2633,3810,1968,23,1080,3071,TX,739
+"Dallas City & County, Irving CoC",TX-600,2219,3141,1775,23,980,2778,TX,363
+"Dallas City & County, Irving CoC",TX-600,1962,3163,1708,23,1181,2912,TX,251
+"Fort Worth, Arlington/Tarrant County CoC",TX-601,1269,2123,1166,21,800,1987,TX,136
+"Fort Worth, Arlington/Tarrant County CoC",TX-601,1379,1938,1088,20,407,1515,TX,423
+"Fort Worth, Arlington/Tarrant County CoC",TX-601,1351,1914,1245,20,432,1697,TX,217
+"Fort Worth, Arlington/Tarrant County CoC",TX-601,1390,2425,1273,20,948,2241,TX,184
+"Fort Worth, Arlington/Tarrant County CoC",TX-601,1605,2015,1228,20,89,1337,TX,678
+"Fort Worth, Arlington/Tarrant County CoC",TX-601,1344,1941,1294,20,237,1551,TX,390
+"Fort Worth, Arlington/Tarrant County CoC",TX-601,1282,2390,1126,18,965,2109,TX,281
+El Paso City & County CoC,TX-603,749,1260,613,20,446,1079,TX,181
+El Paso City & County CoC,TX-603,691,1193,583,19,414,1016,TX,177
+El Paso City & County CoC,TX-603,717,1217,544,20,472,1036,TX,181
+El Paso City & County CoC,TX-603,572,892,518,0,197,715,TX,177
+El Paso City & County CoC,TX-603,584,1100,494,20,473,987,TX,113
+El Paso City & County CoC,TX-603,612,1107,523,20,462,1005,TX,102
+El Paso City & County CoC,TX-603,742,1236,578,20,456,1054,TX,182
+Waco/McLennan County CoC,TX-604,120,267,136,1,87,224,TX,43
+Waco/McLennan County CoC,TX-604,125,221,93,2,67,162,TX,59
+Waco/McLennan County CoC,TX-604,157,255,96,2,93,191,TX,64
+Waco/McLennan County CoC,TX-604,118,295,118,1,111,230,TX,65
+Waco/McLennan County CoC,TX-604,162,319,156,0,102,258,TX,61
+Waco/McLennan County CoC,TX-604,148,246,108,0,94,202,TX,44
+Waco/McLennan County CoC,TX-604,117,188,79,1,50,130,TX,58
+Texas Balance of State CoC,TX-607,4643,7016,2947,0,1143,4090,TX,2926
+Texas Balance of State CoC,TX-607,7727,12764,2444,0,898,3342,TX,9422
+Texas Balance of State CoC,TX-607,5767,7638,2881,0,679,3560,TX,4078
+Texas Balance of State CoC,TX-607,7519,10128,2575,0,1363,3938,TX,6190
+Texas Balance of State CoC,TX-607,4808,7153,2617,0,966,3583,TX,3570
+Texas Balance of State CoC,TX-607,7281,9943,2774,0,1289,4063,TX,5880
+Texas Balance of State CoC,TX-607,3898,6048,2564,0,1096,3660,TX,2388
+Amarillo CoC,TX-611,445,592,516,0,56,572,TX,20
+Amarillo CoC,TX-611,318,478,398,0,74,472,TX,6
+Amarillo CoC,TX-611,391,516,398,0,70,468,TX,48
+Amarillo CoC,TX-611,296,451,369,0,79,448,TX,3
+Amarillo CoC,TX-611,595,665,558,0,0,558,TX,107
+Amarillo CoC,TX-611,475,531,419,0,0,419,TX,112
+Amarillo CoC,TX-611,383,528,408,0,69,477,TX,51
+"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",TX-624,182,226,169,0,0,169,TX,57
+"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",TX-624,212,238,190,5,0,195,TX,43
+"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",TX-624,178,267,227,0,20,247,TX,20
+"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",TX-624,170,234,213,0,0,213,TX,21
+"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",TX-624,235,302,253,0,0,253,TX,49
+"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",TX-624,204,256,224,0,10,234,TX,22
+"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",TX-624,202,281,231,0,28,259,TX,22
+"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",TX-700,3918,5308,1033,13,1971,3017,TX,2291
+"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",TX-700,3055,4031,1478,0,1357,2835,TX,1196
+"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",TX-700,4794,6359,1241,13,2127,3381,TX,2978
+"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",TX-700,3366,4609,1101,0,1558,2659,TX,1950
+"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",TX-700,2670,3605,1489,0,988,2477,TX,1128
+"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",TX-700,5621,7187,1063,20,2280,3363,TX,3824
+"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",TX-700,3162,4143,1714,0,815,2529,TX,1614
+"Bryan, College Station/Brazos Valley CoC",TX-701,120,188,100,0,38,138,TX,50
+"Bryan, College Station/Brazos Valley CoC",TX-701,76,102,89,0,0,89,TX,13
+"Bryan, College Station/Brazos Valley CoC",TX-701,101,175,92,0,44,136,TX,39
+"Bryan, College Station/Brazos Valley CoC",TX-701,80,161,108,0,42,150,TX,11
+"Bryan, College Station/Brazos Valley CoC",TX-701,90,168,101,0,54,155,TX,13
+"Bryan, College Station/Brazos Valley CoC",TX-701,198,308,151,0,40,191,TX,117
+"Bryan, College Station/Brazos Valley CoC",TX-701,122,197,126,0,0,126,TX,71
+Salt Lake City & County CoC,UT-500,1348,2047,1621,0,265,1886,UT,161
+Salt Lake City & County CoC,UT-500,1341,2133,1367,49,618,2034,UT,99
+Salt Lake City & County CoC,UT-500,1184,1804,1356,0,312,1668,UT,136
+Salt Lake City & County CoC,UT-500,1466,2463,1361,47,865,2273,UT,190
+Salt Lake City & County CoC,UT-500,1346,2176,1411,22,653,2086,UT,90
+Salt Lake City & County CoC,UT-500,1332,2150,1362,47,631,2040,UT,110
+Salt Lake City & County CoC,UT-500,1260,1891,1434,0,400,1834,UT,57
+Utah Balance of State CoC,UT-503,461,738,474,0,126,600,UT,138
+Utah Balance of State CoC,UT-503,357,646,415,0,133,548,UT,98
+Utah Balance of State CoC,UT-503,459,891,337,0,363,700,UT,191
+Utah Balance of State CoC,UT-503,416,634,477,0,81,558,UT,76
+Utah Balance of State CoC,UT-503,453,879,315,0,369,684,UT,195
+Utah Balance of State CoC,UT-503,605,899,526,0,134,660,UT,239
+Utah Balance of State CoC,UT-503,321,782,343,0,271,614,UT,168
+Provo/Mountainland CoC,UT-504,107,178,76,0,61,137,UT,41
+Provo/Mountainland CoC,UT-504,76,149,57,0,57,114,UT,35
+Provo/Mountainland CoC,UT-504,115,173,64,0,64,128,UT,45
+Provo/Mountainland CoC,UT-504,159,253,69,0,56,125,UT,128
+Provo/Mountainland CoC,UT-504,106,203,86,0,79,165,UT,38
+Provo/Mountainland CoC,UT-504,118,171,67,0,63,130,UT,41
+Provo/Mountainland CoC,UT-504,130,185,49,0,46,95,UT,90
+"Richmond/Henrico, Chesterfield, Hanover Counties CoC",VA-500,671,818,422,12,298,732,VA,86
+"Richmond/Henrico, Chesterfield, Hanover Counties CoC",VA-500,573,662,231,12,266,509,VA,153
+"Richmond/Henrico, Chesterfield, Hanover Counties CoC",VA-500,704,881,463,13,349,825,VA,56
+"Richmond/Henrico, Chesterfield, Hanover Counties CoC",VA-500,624,762,429,7,256,692,VA,70
+"Richmond/Henrico, Chesterfield, Hanover Counties CoC",VA-500,747,933,374,6,478,858,VA,75
+"Richmond/Henrico, Chesterfield, Hanover Counties CoC",VA-500,485,609,406,6,93,505,VA,104
+"Richmond/Henrico, Chesterfield, Hanover Counties CoC",VA-500,674,846,414,16,351,781,VA,65
+"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties CoC",VA-501,486,735,496,0,184,680,VA,55
+"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties CoC",VA-501,572,703,535,0,99,634,VA,69
+"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties CoC",VA-501,500,668,473,0,157,630,VA,38
+"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties CoC",VA-501,562,773,597,0,96,693,VA,80
+"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties CoC",VA-501,456,652,414,0,153,567,VA,85
+"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties CoC",VA-501,526,723,512,0,126,638,VA,85
+"Norfolk/Chesapeake, Suffolk, Isle of Wight, Southampton Counties CoC",VA-501,497,742,528,0,169,697,VA,45
+"Roanoke City & County, Salem CoC",VA-502,218,308,290,0,11,301,VA,7
+"Roanoke City & County, Salem CoC",VA-502,228,317,306,0,0,306,VA,11
+"Roanoke City & County, Salem CoC",VA-502,315,442,342,0,83,425,VA,17
+"Roanoke City & County, Salem CoC",VA-502,197,267,249,0,1,250,VA,17
+"Roanoke City & County, Salem CoC",VA-502,321,440,364,0,69,433,VA,7
+"Roanoke City & County, Salem CoC",VA-502,260,390,366,0,12,378,VA,12
+"Roanoke City & County, Salem CoC",VA-502,429,561,398,0,125,523,VA,38
+Virginia Beach CoC,VA-503,240,419,217,0,144,361,VA,58
+Virginia Beach CoC,VA-503,244,440,170,0,179,349,VA,91
+Virginia Beach CoC,VA-503,251,440,180,0,202,382,VA,58
+Virginia Beach CoC,VA-503,234,389,182,0,157,339,VA,50
+Virginia Beach CoC,VA-503,238,349,174,0,97,271,VA,78
+Virginia Beach CoC,VA-503,198,243,162,0,9,171,VA,72
+Virginia Beach CoC,VA-503,256,456,192,0,197,389,VA,67
+Charlottesville CoC,VA-504,111,157,101,0,34,135,VA,22
+Charlottesville CoC,VA-504,127,185,113,0,47,160,VA,25
+Charlottesville CoC,VA-504,119,160,115,0,22,137,VA,23
+Charlottesville CoC,VA-504,151,191,125,0,39,164,VA,27
+Charlottesville CoC,VA-504,153,195,128,0,39,167,VA,28
+Charlottesville CoC,VA-504,142,183,134,0,21,155,VA,28
+Charlottesville CoC,VA-504,141,204,128,0,50,178,VA,26
+"Newport News, Hampton/Virginia Peninsula CoC",VA-505,352,512,335,23,74,432,VA,80
+"Newport News, Hampton/Virginia Peninsula CoC",VA-505,316,439,293,0,76,369,VA,70
+"Newport News, Hampton/Virginia Peninsula CoC",VA-505,370,533,339,22,133,494,VA,39
+"Newport News, Hampton/Virginia Peninsula CoC",VA-505,319,464,290,18,99,407,VA,57
+"Newport News, Hampton/Virginia Peninsula CoC",VA-505,351,520,328,22,100,450,VA,70
+"Newport News, Hampton/Virginia Peninsula CoC",VA-505,341,525,389,22,86,497,VA,28
+"Newport News, Hampton/Virginia Peninsula CoC",VA-505,486,681,427,22,171,620,VA,61
+Portsmouth CoC,VA-507,119,169,81,0,43,124,VA,45
+Portsmouth CoC,VA-507,107,174,91,0,36,127,VA,47
+Portsmouth CoC,VA-507,248,332,117,0,37,154,VA,178
+Portsmouth CoC,VA-507,115,151,67,0,29,96,VA,55
+Portsmouth CoC,VA-507,153,247,103,0,55,158,VA,89
+Portsmouth CoC,VA-507,84,135,81,0,26,107,VA,28
+Portsmouth CoC,VA-507,108,160,69,0,48,117,VA,43
+Lynchburg CoC,VA-508,92,125,94,0,6,100,VA,25
+Lynchburg CoC,VA-508,76,150,85,0,59,144,VA,6
+Lynchburg CoC,VA-508,150,237,172,0,55,227,VA,10
+Lynchburg CoC,VA-508,128,220,159,0,58,217,VA,3
+Lynchburg CoC,VA-508,147,214,53,0,92,145,VA,69
+Lynchburg CoC,VA-508,84,112,92,0,0,92,VA,20
+Lynchburg CoC,VA-508,125,174,92,0,61,153,VA,21
+"Harrisburg, Winchester/Western Virginia CoC",VA-513,243,355,282,0,4,286,VA,69
+"Harrisburg, Winchester/Western Virginia CoC",VA-513,170,249,237,0,0,237,VA,12
+"Harrisburg, Winchester/Western Virginia CoC",VA-513,195,280,251,0,10,261,VA,19
+"Harrisburg, Winchester/Western Virginia CoC",VA-513,217,304,260,0,16,276,VA,28
+"Harrisburg, Winchester/Western Virginia CoC",VA-513,167,242,230,0,0,230,VA,12
+"Harrisburg, Winchester/Western Virginia CoC",VA-513,182,313,244,0,18,262,VA,51
+"Harrisburg, Winchester/Western Virginia CoC",VA-513,173,268,261,0,0,261,VA,7
+"Fredericksburg/Spotsylvania, Stafford Counties CoC",VA-514,127,209,148,0,27,175,VA,34
+"Fredericksburg/Spotsylvania, Stafford Counties CoC",VA-514,122,192,133,0,31,164,VA,28
+"Fredericksburg/Spotsylvania, Stafford Counties CoC",VA-514,122,216,177,0,0,177,VA,39
+"Fredericksburg/Spotsylvania, Stafford Counties CoC",VA-514,109,193,116,0,30,146,VA,47
+"Fredericksburg/Spotsylvania, Stafford Counties CoC",VA-514,128,200,164,0,0,164,VA,36
+"Fredericksburg/Spotsylvania, Stafford Counties CoC",VA-514,118,201,140,0,31,171,VA,30
+"Fredericksburg/Spotsylvania, Stafford Counties CoC",VA-514,123,217,154,0,25,179,VA,38
+Virginia Balance of State CoC,VA-521,423,722,439,0,124,563,VA,159
+Virginia Balance of State CoC,VA-521,485,957,452,0,290,742,VA,215
+Virginia Balance of State CoC,VA-521,421,718,442,0,111,553,VA,165
+Virginia Balance of State CoC,VA-521,394,654,392,0,106,498,VA,156
+Virginia Balance of State CoC,VA-521,431,773,542,0,92,634,VA,139
+Virginia Balance of State CoC,VA-521,322,715,398,0,176,574,VA,141
+Virginia Balance of State CoC,VA-521,327,662,438,0,108,546,VA,116
+Arlington County CoC,VA-600,178,291,172,6,62,240,VA,51
+Arlington County CoC,VA-600,263,451,179,3,138,320,VA,131
+Arlington County CoC,VA-600,144,221,173,0,13,186,VA,35
+Arlington County CoC,VA-600,149,232,182,6,11,199,VA,33
+Arlington County CoC,VA-600,164,239,184,6,10,200,VA,39
+Arlington County CoC,VA-600,124,174,136,6,13,155,VA,19
+Arlington County CoC,VA-600,268,479,184,3,146,333,VA,146
+Fairfax County CoC,VA-601,492,964,637,0,219,856,VA,108
+Fairfax County CoC,VA-601,697,1534,685,8,663,1356,VA,178
+Fairfax County CoC,VA-601,499,987,686,0,215,901,VA,86
+Fairfax County CoC,VA-601,489,1204,706,0,430,1136,VA,68
+Fairfax County CoC,VA-601,484,1059,590,0,395,985,VA,74
+Fairfax County CoC,VA-601,530,1225,667,8,484,1159,VA,66
+Fairfax County CoC,VA-601,603,1350,699,8,539,1246,VA,104
+Loudoun County CoC,VA-602,70,168,75,0,57,132,VA,36
+Loudoun County CoC,VA-602,65,134,70,0,45,115,VA,19
+Loudoun County CoC,VA-602,81,166,71,0,54,125,VA,41
+Loudoun County CoC,VA-602,71,113,74,0,23,97,VA,16
+Loudoun County CoC,VA-602,76,177,80,0,71,151,VA,26
+Loudoun County CoC,VA-602,86,134,96,0,14,110,VA,24
+Loudoun County CoC,VA-602,80,172,58,0,75,133,VA,39
+Alexandria CoC,VA-603,142,226,164,12,35,211,VA,15
+Alexandria CoC,VA-603,185,275,163,12,71,246,VA,29
+Alexandria CoC,VA-603,121,211,133,11,49,193,VA,18
+Alexandria CoC,VA-603,159,267,179,9,56,244,VA,23
+Alexandria CoC,VA-603,179,267,165,10,69,244,VA,23
+Alexandria CoC,VA-603,213,352,197,12,121,330,VA,22
+Alexandria CoC,VA-603,129,224,153,12,47,212,VA,12
+Prince William County CoC,VA-604,185,409,195,0,124,319,VA,90
+Prince William County CoC,VA-604,184,447,175,0,155,330,VA,117
+Prince William County CoC,VA-604,192,445,206,0,141,347,VA,98
+Prince William County CoC,VA-604,157,452,144,0,183,327,VA,125
+Prince William County CoC,VA-604,192,374,176,0,85,261,VA,113
+Prince William County CoC,VA-604,197,400,168,0,116,284,VA,116
+Prince William County CoC,VA-604,187,400,173,0,139,312,VA,88
+Virgin Islands CoC,VI-500,425,448,51,0,34,85,VI,363
+Virgin Islands CoC,VI-500,369,381,39,0,35,74,VI,307
+Virgin Islands CoC,VI-500,438,484,32,0,74,106,VI,378
+Virgin Islands CoC,VI-500,444,482,68,0,51,119,VI,363
+Virgin Islands CoC,VI-500,308,341,53,0,36,89,VI,252
+Virgin Islands CoC,VI-500,308,337,53,0,32,85,VI,252
+Virgin Islands CoC,VI-500,415,486,137,0,42,179,VI,307
+Vermont Balance of State CoC,VT-500,572,1052,756,4,224,984,VT,68
+Vermont Balance of State CoC,VT-500,450,785,470,4,217,691,VT,94
+Vermont Balance of State CoC,VT-500,500,934,626,3,199,828,VT,106
+Vermont Balance of State CoC,VT-500,419,971,631,4,231,866,VT,105
+Vermont Balance of State CoC,VT-500,525,932,734,0,133,867,VT,65
+Vermont Balance of State CoC,VT-500,438,776,352,6,272,630,VT,146
+Vermont Balance of State CoC,VT-500,509,1027,691,6,257,954,VT,73
+Burlington/Chittenden County CoC,VT-501,197,291,217,0,46,263,VT,28
+Burlington/Chittenden County CoC,VT-501,255,359,295,0,47,342,VT,17
+Burlington/Chittenden County CoC,VT-501,215,384,210,0,97,307,VT,77
+Burlington/Chittenden County CoC,VT-501,282,483,328,0,76,404,VT,79
+Burlington/Chittenden County CoC,VT-501,314,532,340,0,102,442,VT,90
+Burlington/Chittenden County CoC,VT-501,205,332,190,0,80,270,VT,62
+Burlington/Chittenden County CoC,VT-501,338,471,326,0,63,389,VT,82
+Seattle/King County CoC,WA-500,7053,10122,3282,44,2993,6319,WA,3803
+Seattle/King County CoC,WA-500,5748,8899,2682,45,3554,6281,WA,2618
+Seattle/King County CoC,WA-500,6029,8949,2906,42,3265,6213,WA,2736
+Seattle/King County CoC,WA-500,9488,12112,3585,41,2166,5792,WA,6320
+Seattle/King County CoC,WA-500,5986,9106,2874,44,3452,6370,WA,2736
+Seattle/King County CoC,WA-500,8810,11643,3491,43,2624,6158,WA,5485
+Seattle/King County CoC,WA-500,7748,10730,3200,42,2983,6225,WA,4505
+Washington Balance of State CoC,WA-501,2900,5236,1511,0,1596,3107,WA,2129
+Washington Balance of State CoC,WA-501,2518,4671,1451,0,1617,3068,WA,1603
+Washington Balance of State CoC,WA-501,3392,5706,1565,0,1542,3107,WA,2599
+Washington Balance of State CoC,WA-501,3162,5243,1971,0,1592,3563,WA,1680
+Washington Balance of State CoC,WA-501,2834,5342,1623,0,2075,3698,WA,1644
+Washington Balance of State CoC,WA-501,3161,5489,1573,0,1589,3162,WA,2327
+Washington Balance of State CoC,WA-501,3730,5666,1960,0,1217,3177,WA,2489
+Spokane City & County CoC,WA-502,697,1149,561,0,433,994,WA,155
+Spokane City & County CoC,WA-502,917,1245,735,0,200,935,WA,310
+Spokane City & County CoC,WA-502,662,1185,516,0,539,1055,WA,130
+Spokane City & County CoC,WA-502,602,1030,508,0,462,970,WA,60
+Spokane City & County CoC,WA-502,652,1034,579,0,323,902,WA,132
+Spokane City & County CoC,WA-502,791,1090,696,0,256,952,WA,138
+Spokane City & County CoC,WA-502,677,981,526,0,283,809,WA,172
+"Tacoma, Lakewood/Pierce County CoC",WA-503,687,1997,597,0,1208,1805,WA,192
+"Tacoma, Lakewood/Pierce County CoC",WA-503,1224,1628,743,0,135,878,WA,750
+"Tacoma, Lakewood/Pierce County CoC",WA-503,539,1303,550,0,633,1183,WA,120
+"Tacoma, Lakewood/Pierce County CoC",WA-503,1062,1762,874,0,394,1268,WA,494
+"Tacoma, Lakewood/Pierce County CoC",WA-503,762,1283,586,0,356,942,WA,341
+"Tacoma, Lakewood/Pierce County CoC",WA-503,838,1464,646,0,525,1171,WA,293
+"Tacoma, Lakewood/Pierce County CoC",WA-503,879,1321,577,0,240,817,WA,504
+Everett/Snohomish County CoC,WA-504,702,960,366,0,123,489,WA,471
+Everett/Snohomish County CoC,WA-504,620,947,352,0,251,603,WA,344
+Everett/Snohomish County CoC,WA-504,614,949,351,0,226,577,WA,372
+Everett/Snohomish County CoC,WA-504,598,829,378,0,139,517,WA,312
+Everett/Snohomish County CoC,WA-504,612,858,364,0,116,480,WA,378
+Everett/Snohomish County CoC,WA-504,785,1066,462,0,89,551,WA,515
+Everett/Snohomish County CoC,WA-504,902,2061,378,0,966,1344,WA,717
+Vancouver/Clark County CoC,WA-508,440,1020,257,10,577,844,WA,176
+Vancouver/Clark County CoC,WA-508,312,695,227,0,251,478,WA,217
+Vancouver/Clark County CoC,WA-508,300,662,226,0,230,456,WA,206
+Vancouver/Clark County CoC,WA-508,319,688,221,0,242,463,WA,225
+Vancouver/Clark County CoC,WA-508,352,703,234,10,269,513,WA,190
+Vancouver/Clark County CoC,WA-508,453,795,265,0,156,421,WA,374
+Vancouver/Clark County CoC,WA-508,354,749,251,0,229,480,WA,269
+Wisconsin Balance of State CoC,WI-500,1480,3569,1924,7,1515,3446,WI,123
+Wisconsin Balance of State CoC,WI-500,1495,3597,1920,7,1463,3390,WI,207
+Wisconsin Balance of State CoC,WI-500,1499,3348,2023,7,1181,3211,WI,137
+Wisconsin Balance of State CoC,WI-500,1547,3610,1847,7,1585,3439,WI,171
+Wisconsin Balance of State CoC,WI-500,1547,3445,1939,7,1367,3313,WI,132
+Wisconsin Balance of State CoC,WI-500,1497,3147,1990,7,1023,3020,WI,127
+Wisconsin Balance of State CoC,WI-500,1556,3618,1712,7,1520,3239,WI,379
+Milwaukee City & County CoC,WI-501,867,1442,651,41,661,1353,WI,89
+Milwaukee City & County CoC,WI-501,658,871,565,46,99,710,WI,161
+Milwaukee City & County CoC,WI-501,887,1499,677,39,668,1384,WI,115
+Milwaukee City & County CoC,WI-501,939,1521,717,40,632,1389,WI,132
+Milwaukee City & County CoC,WI-501,915,1432,667,41,610,1318,WI,114
+Milwaukee City & County CoC,WI-501,856,1415,616,43,549,1208,WI,207
+Milwaukee City & County CoC,WI-501,687,900,557,63,145,765,WI,135
+Racine City & County CoC,WI-502,123,196,124,0,71,195,WI,1
+Racine City & County CoC,WI-502,109,168,82,0,75,157,WI,11
+Racine City & County CoC,WI-502,127,221,117,0,95,212,WI,9
+Racine City & County CoC,WI-502,142,241,123,0,107,230,WI,11
+Racine City & County CoC,WI-502,176,275,204,0,61,265,WI,10
+Racine City & County CoC,WI-502,139,194,137,0,50,187,WI,7
+Racine City & County CoC,WI-502,123,210,97,0,102,199,WI,11
+Madison/Dane County CoC,WI-503,409,614,380,14,136,530,WI,84
+Madison/Dane County CoC,WI-503,449,771,393,13,273,679,WI,92
+Madison/Dane County CoC,WI-503,439,777,413,14,256,683,WI,94
+Madison/Dane County CoC,WI-503,420,736,366,13,280,659,WI,77
+Madison/Dane County CoC,WI-503,320,585,345,12,167,524,WI,61
+Madison/Dane County CoC,WI-503,464,831,421,14,297,732,WI,99
+Madison/Dane County CoC,WI-503,360,629,365,14,180,559,WI,70
+"Wheeling, Weirton Area CoC",WV-500,63,97,71,0,17,88,WV,9
+"Wheeling, Weirton Area CoC",WV-500,64,91,62,0,26,88,WV,3
+"Wheeling, Weirton Area CoC",WV-500,85,116,80,0,26,106,WV,10
+"Wheeling, Weirton Area CoC",WV-500,77,118,77,0,34,111,WV,7
+"Wheeling, Weirton Area CoC",WV-500,79,114,68,0,27,95,WV,19
+"Wheeling, Weirton Area CoC",WV-500,58,89,64,0,23,87,WV,2
+"Wheeling, Weirton Area CoC",WV-500,83,108,72,0,26,98,WV,10
+"Huntington/Cabell, Wayne Counties CoC",WV-501,131,227,125,11,76,212,WV,15
+"Huntington/Cabell, Wayne Counties CoC",WV-501,148,205,128,11,34,173,WV,32
+"Huntington/Cabell, Wayne Counties CoC",WV-501,123,227,129,13,63,205,WV,22
+"Huntington/Cabell, Wayne Counties CoC",WV-501,149,190,142,10,17,169,WV,21
+"Huntington/Cabell, Wayne Counties CoC",WV-501,176,274,132,14,89,235,WV,39
+"Huntington/Cabell, Wayne Counties CoC",WV-501,118,218,143,13,52,208,WV,10
+"Huntington/Cabell, Wayne Counties CoC",WV-501,136,228,151,11,50,212,WV,16
+"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",WV-503,321,411,238,0,117,355,WV,56
+"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",WV-503,306,416,242,0,116,358,WV,58
+"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",WV-503,323,385,226,0,115,341,WV,44
+"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",WV-503,281,360,244,0,103,347,WV,13
+"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",WV-503,272,319,219,0,51,270,WV,49
+"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",WV-503,266,320,229,0,59,288,WV,32
+"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",WV-503,276,317,206,0,54,260,WV,57
+West Virginia Balance of State CoC,WV-508,1026,1338,731,0,209,940,WV,398
+West Virginia Balance of State CoC,WV-508,535,667,496,0,71,567,WV,100
+West Virginia Balance of State CoC,WV-508,573,748,521,0,143,664,WV,84
+West Virginia Balance of State CoC,WV-508,889,1109,597,0,165,762,WV,347
+West Virginia Balance of State CoC,WV-508,513,628,450,0,83,533,WV,95
+West Virginia Balance of State CoC,WV-508,1175,1604,560,0,274,834,WV,770
+West Virginia Balance of State CoC,WV-508,1034,1513,673,0,285,958,WV,555
+Wyoming Statewide CoC,WY-500,517,857,297,0,194,491,WY,366
+Wyoming Statewide CoC,WY-500,463,757,268,0,295,563,WY,194
+Wyoming Statewide CoC,WY-500,622,873,321,0,189,510,WY,363
+Wyoming Statewide CoC,WY-500,677,953,292,0,209,501,WY,452
+Wyoming Statewide CoC,WY-500,434,639,269,0,171,440,WY,199
+Wyoming Statewide CoC,WY-500,1302,1813,231,0,244,475,WY,1338
+Wyoming Statewide CoC,WY-500,500,798,231,0,276,507,WY,291
