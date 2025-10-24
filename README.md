@@ -3,6 +3,11 @@
 This project explores homelessness data across U.S. states using BigQuery SQL. The goal was to identify trends in total homelessness, unsheltered populations, youth homelessness, and state-level differences. Results were exported from BigQuery and organized into a structured, reproducible GitHub repository.
 
 ---
+![SQL](https://img.shields.io/badge/SQL-Querying-blue)
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-Data%20Warehouse-lightblue)
+![CSV](https://img.shields.io/badge/Data-CSV-yellowgreen)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black)
+![Portfolio](https://img.shields.io/badge/Project-Complete-success)
 
 ## 🎯 Objectives
 
