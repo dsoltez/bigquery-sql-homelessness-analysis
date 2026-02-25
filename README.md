@@ -1,4 +1,4 @@
-# 🏠 BigQuery SQL Exploration — U.S. Homelessness (2018)
+# BigQuery SQL Exploration — U.S. Homelessness (2018)
 
 This project explores homelessness data across U.S. states using BigQuery SQL. The goal was to identify trends in total homelessness, unsheltered populations, youth homelessness, and state-level differences. Results were exported from BigQuery and organized into a structured, reproducible GitHub repository.
 
@@ -9,7 +9,7 @@ This project explores homelessness data across U.S. states using BigQuery SQL. T
 ![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black)
 ![Portfolio](https://img.shields.io/badge/Project-Complete-success)
 
-## 🎯 Objectives
+## Objectives
 
 - Determine which states had the highest total homelessness counts
 - Identify states with large unsheltered populations
@@ -19,7 +19,7 @@ This project explores homelessness data across U.S. states using BigQuery SQL. T
 
 ---
 
-## 🧾 Dataset Source
+## Dataset Source
 
 BigQuery Public Dataset:  
 `bigquery-public-data.homelessness.us_states`
@@ -28,7 +28,7 @@ Data represents the U.S. HUD Point-in-Time counts for 2018.
 
 ---
 
-## 🛠️ Tools I Used
+## Tools I Used
 
 - **Google BigQuery** (SQL analysis)
 - **Standard SQL Querying**
@@ -38,7 +38,7 @@ Data represents the U.S. HUD Point-in-Time counts for 2018.
 
 ---
 
-## 👣 Steps I Took
+## Steps I Took
 
 1. Connected to BigQuery’s public homelessness dataset
 2. Wrote multiple SQL queries to answer targeted questions
@@ -54,7 +54,7 @@ Data represents the U.S. HUD Point-in-Time counts for 2018.
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 - **California, New York, and Florida** ranked highest in total homelessness counts.
 - Several states had **more than 1,000** unsheltered individuals—indicating high infrastructure strain.
@@ -64,7 +64,7 @@ Data represents the U.S. HUD Point-in-Time counts for 2018.
 
 ---
 
-## 🔍 Interesting Insights
+## Interesting Insights
 
 - Warm-weather states generally had higher **unsheltered** percentages.
 - Highly urbanized regions correlate with increased homeless counts.
@@ -72,7 +72,7 @@ Data represents the U.S. HUD Point-in-Time counts for 2018.
 
 ---
 
-## ❓ Future Questions to Explore
+## Future Questions to Explore
 
 - How do climate and cost of living correlate with unsheltered homelessness?
 - What shelter investments contribute to low unsheltered percentages?
@@ -81,7 +81,7 @@ Data represents the U.S. HUD Point-in-Time counts for 2018.
 
 ---
 
-## 📂 Folder Overview
+## Folder Overview
 
 | Folder | Purpose | Key Contents |
 |--------|---------|--------------|
@@ -92,13 +92,13 @@ Data represents the U.S. HUD Point-in-Time counts for 2018.
 
 
 
-## ✅ Status
+## Status
 
 Complete — ready for portfolio review.
 
 ---
 
-## 👋 Contact
+## Contact
 
 📧 Email: **dsoltez13@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/drakesoltez/
